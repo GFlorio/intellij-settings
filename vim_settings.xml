@@ -15,11 +15,11 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1501612275408">
-        <mark key="[" line="16" column="51" />
-        <mark key="]" line="16" column="51" />
-        <mark key="." line="16" column="51" />
-        <mark key="^" line="16" column="27" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1501612770870">
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="27" />
+        <mark key="." line="27" column="27" />
+        <mark key="^" line="27" column="27" />
       </file>
       <file name="$USER_HOME$/work/processos/escolha_regressor.py" timestamp="1501610365562">
         <mark key="'" line="52" column="35" />
@@ -37,7 +37,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbnN0X3RlbXBvLgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAjIHR5cGU6IGJ5dGVz</text>
+        <text>verbose_name=&quot;Constante de Tempo&quot;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">IyBub2luc3BlY3Rpb24gUHlVbnJlc29sdmVkUmVmZXJlbmNlcwo=</text>
@@ -67,7 +67,7 @@
         <text>q</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAjIHR5cGU6IGJ5dGVz</text>
+        <text>verbose_name=&quot;Constante de Tempo&quot;</text>
       </register>
     </registers>
     <search>
@@ -77,8 +77,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>vsplit</entry>
         <entry>vs</entry>
+        <entry>vsplit</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
@@ -126,6 +126,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
