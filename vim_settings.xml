@@ -15,10 +15,11 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1501611952981">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1501612275408">
+        <mark key="[" line="16" column="51" />
+        <mark key="]" line="16" column="51" />
+        <mark key="." line="16" column="51" />
+        <mark key="^" line="16" column="27" />
       </file>
       <file name="$USER_HOME$/work/processos/escolha_regressor.py" timestamp="1501610365562">
         <mark key="'" line="52" column="35" />
@@ -35,8 +36,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbnN0X3RlbXBvLgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnN0X3RlbXBvLgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAjIHR5cGU6IGJ5dGVz</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">IyBub2luc3BlY3Rpb24gUHlVbnJlc29sdmVkUmVmZXJlbmNlcwo=</text>
@@ -66,7 +67,7 @@
         <text>q</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAjIHR5cGU6IHRpbWVkZWx0YQ==</text>
+        <text encoding="base64">ICAjIHR5cGU6IGJ5dGVz</text>
       </register>
     </registers>
     <search>
