@@ -24,65 +24,78 @@
         <mark key="." line="27" column="27" />
         <mark key="^" line="27" column="27" />
       </file>
-      <file name="$USER_HOME$/work/processos/escolha_regressor.py" timestamp="1501610365562">
-        <mark key="'" line="52" column="35" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="45" column="45" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/work/processos/escolha_regressor.py" timestamp="1501616010683">
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="78" column="33" />
+        <mark key="]" line="78" column="34" />
+        <mark key="^" line="78" column="34" />
+        <mark key="." line="78" column="34" />
       </file>
     </filemarks>
     <jumps>
       <jump line="54" column="35" filename="$USER_HOME$/work/processos/escolha_regressor.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/work/processos/escolha_regressor.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnN0X3RlbXBvLgo=</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>verbose_name=&quot;Constante de Tempo&quot;</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBub2luc3BlY3Rpb24gUHlVbnJlc29sdmVkUmVmZXJlbmNlcwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KCdMbmc6ICcrc3RyKHJlc1sxXSkpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLnByZXByb2Nlc3NpbmcgaW1wb3J0IExhYmVsQmluYXJpemVyCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2xlYXJuZXJfX3dlaWdodHMnOiBbJ2Rpc3RhbmNlJywgJ3VuaWZvcm0nXSwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2xlYXJuZXJfX25fbmVpZ2hib3JzJzogcmFuZ2UoMiwgOSksCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>q</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>verbose_name=&quot;Constante de Tempo&quot;</text>
+        <text>1</text>
+      </register>
+      <register name="/" type="4">
+        <text>random</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAncmlkZ2UnOiAoUmlkZ2VDVigpLCB7CiAgICAgICAgICAgICdsZWFybmVyX19maXRfaW50ZXJjZXB0JzogW1RydWUsIEZhbHNlXSwKICAgICAgICB9KSwK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAnbGluZWFyJzogKExpbmVhclJlZ3Jlc3Npb24oKSwgewogICAgICAgICAgICAnbGVhcm5lcl9fZml0X2ludGVyY2VwdCc6IFtUcnVlLCBGYWxzZV0sCiAgICAgICAgfSksCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAnbGluZWFyJzogKExpbmVhclJlZ3Jlc3Npb24oKSwgewogICAgICAgICAgICAnbGVhcm5lcl9fZml0X2ludGVyY2VwdCc6IFtUcnVlLCBGYWxzZV0sCiAgICAgICAgfSksCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2xlYXJuZXJfX21heF9mZWF0dXJlcyc6IFsuMSp4IGZvciB4IGluIHJhbmdlKDIsIDEwKV0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2xlYXJuZXJfX21pbl9zYW1wbGVzX2xlYWYnOiBbMC4xKnggZm9yIHggaW4gcmFuZ2UoMSwgNSldCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2xlYXJuZXJfX21heF9sZWFmX25vZGVzJzogW3ggZm9yIHggaW4gcmFuZ2UoMywgMjApXStbTm9uZV0sCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2xlYXJuZXJfX21ldHJpYyc6IFsnbWFuaGF0dGFuJywgJ2V1Y2xpZGVhbicsICdtaW5rb3dza2knXQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnN0X3RlbXBvLgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBub2luc3BlY3Rpb24gUHlVbnJlc29sdmVkUmVmZXJlbmNlcwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCdMbmc6ICcrc3RyKHJlc1sxXSkpCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>random</last-search>
+      <last-offset />
+      <last-pattern>random</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>random</entry>
+      </history-search>
       <history-cmd>
         <entry>vs</entry>
         <entry>vsplit</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -132,6 +145,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
