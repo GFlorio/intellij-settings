@@ -27,11 +27,12 @@
         <mark key="." line="27" column="27" />
         <mark key="^" line="27" column="27" />
       </file>
-      <file name="$USER_HOME$/work/processos/gera_instancias.py" timestamp="1501699066785">
-        <mark key="[" line="25" column="41" />
-        <mark key="]" line="25" column="41" />
-        <mark key="." line="25" column="41" />
-        <mark key="^" line="25" column="41" />
+      <file name="$USER_HOME$/work/processos/gera_instancias.py" timestamp="1501700628879">
+        <mark key="'" line="29" column="42" />
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="37" />
+        <mark key="^" line="7" column="37" />
       </file>
       <file name="$USER_HOME$/work/processos/escolha_regressor.py" timestamp="1501694120371">
         <mark key="'" line="29" column="0" />
@@ -45,16 +46,17 @@
       <jump line="54" column="35" filename="$USER_HOME$/work/processos/escolha_regressor.py" />
       <jump line="33" column="4" filename="$USER_HOME$/work/processos/escolha_regressor.py" />
       <jump line="30" column="0" filename="$USER_HOME$/work/processos/escolha_regressor.py" />
+      <jump line="29" column="42" filename="$USER_HOME$/work/processos/gera_instancias.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z2VyYV9pbnN0YW5jaWFzLgo=</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>random</text>
+        <text>3:</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAncmlkZ2UnOiAoUmlkZ2VDVigpLCB7CiAgICAgICAgICAgICdsZWFybmVyX19maXRfaW50ZXJjZXB0JzogW1RydWUsIEZhbHNlXSwKICAgICAgICB9KSwK</text>
@@ -87,25 +89,33 @@
         <text encoding="base64">ICAgIGRmLmhlYWQoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLzM6LydnYWJyaWVsJzovZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>random</last-search>
+      <last-search>3:</last-search>
       <last-offset />
-      <last-pattern>random</last-pattern>
+      <last-pattern>3:</last-pattern>
+      <last-replace>'gabriel':</last-replace>
+      <last-substitute>3:</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>random</entry>
+        <entry>1:</entry>
+        <entry>2:</entry>
+        <entry>3:</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
         <entry>vsplit</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLzE6LydhbmRlcnNvbic6L2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzI6LydkdSc6L2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzM6LydnYWJyaWVsJzovZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
