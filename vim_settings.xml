@@ -9,10 +9,10 @@
       <file name="/code.py" timestamp="1501685054972">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1501697533838">
+      <file name="/Python Console" timestamp="1501699076488">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/alocacao/models.py" timestamp="1501611478588">
@@ -27,11 +27,11 @@
         <mark key="." line="27" column="27" />
         <mark key="^" line="27" column="27" />
       </file>
-      <file name="$USER_HOME$/work/processos/gera_instancias.py" timestamp="1501693879990">
-        <mark key="[" line="51" column="53" />
-        <mark key="]" line="51" column="60" />
-        <mark key="." line="51" column="60" />
-        <mark key="^" line="51" column="60" />
+      <file name="$USER_HOME$/work/processos/gera_instancias.py" timestamp="1501699066785">
+        <mark key="[" line="25" column="41" />
+        <mark key="]" line="25" column="41" />
+        <mark key="." line="25" column="41" />
+        <mark key="^" line="25" column="41" />
       </file>
       <file name="$USER_HOME$/work/processos/escolha_regressor.py" timestamp="1501694120371">
         <mark key="'" line="29" column="0" />
@@ -48,10 +48,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
+        <text encoding="base64">Z2VyYV9pbnN0YW5jaWFzLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text>random</text>
@@ -60,31 +60,31 @@
         <text encoding="base64">ICAgICAgICAncmlkZ2UnOiAoUmlkZ2VDVigpLCB7CiAgICAgICAgICAgICdsZWFybmVyX19maXRfaW50ZXJjZXB0JzogW1RydWUsIEZhbHNlXSwKICAgICAgICB9KSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
+        <text encoding="base64">Z2VyYV9pbnN0YW5jaWFzLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbigneScsICdyYicpIGFzIGY6Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbigneCcsICdyYicpIGFzIGY6Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbigneScsICdyYicpIGFzIGY6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvbHkK</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbigneCcsICdyYicpIGFzIGY6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvbHkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIG1haW4oKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRmLmhlYWQoKQo=</text>
+        <text encoding="base64">ZGVmIG1haW4oKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRmLmhlYWQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
