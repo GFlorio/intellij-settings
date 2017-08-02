@@ -9,6 +9,13 @@
       <file name="/code.py" timestamp="1501685054972">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/alcatraz/modelagem/demanda.py" timestamp="1501708090386">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+        <mark key="^" line="12" column="66" />
+        <mark key="o" line="4" column="42" />
+      </file>
       <file name="/Python Console" timestamp="1501703148146">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -21,11 +28,11 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1501612770870">
-        <mark key="[" line="27" column="18" />
-        <mark key="]" line="27" column="27" />
-        <mark key="." line="27" column="27" />
-        <mark key="^" line="27" column="27" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1501708067937">
+        <mark key="[" line="18" column="49" />
+        <mark key="]" line="18" column="74" />
+        <mark key="." line="18" column="74" />
+        <mark key="^" line="18" column="74" />
       </file>
       <file name="$USER_HOME$/work/processos/gera_instancias.py" timestamp="1501703107173">
         <mark key="'" line="30" column="42" />
@@ -33,6 +40,12 @@
         <mark key="]" line="32" column="23" />
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/modelagem/estrategias/codificacao.py" timestamp="1501707333246">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="88" column="19" />
       </file>
       <file name="$USER_HOME$/work/processos/escolha_regressor.py" timestamp="1501694120371">
         <mark key="'" line="29" column="0" />
@@ -47,13 +60,14 @@
       <jump line="33" column="4" filename="$USER_HOME$/work/processos/escolha_regressor.py" />
       <jump line="30" column="0" filename="$USER_HOME$/work/processos/escolha_regressor.py" />
       <jump line="29" column="42" filename="$USER_HOME$/work/processos/gera_instancias.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10</text>
+        <text>correspondentes a instâncias prováveis.</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>correspondentes a instâncias prováveis.</text>
       </register>
       <register name="/" type="4">
         <text>3:</text>
@@ -62,34 +76,34 @@
         <text encoding="base64">ICAgIHRpcG9fam9iID0gY2hvaWNlKFs1XSoxMCArIFsxMF0qNSArIFsxNV0qMikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z2VyYV9pbnN0YW5jaWFzLgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">eQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbigneScsICdyYicpIGFzIGY6Cg==</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLmZlYXR1cmVfc2VsZWN0aW9uIGltcG9ydCBEaWN0VmVjdG9yaXplcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbigneCcsICdyYicpIGFzIGY6Cg==</text>
+        <text encoding="base64">Z2VyYV9pbnN0YW5jaWFzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvbHkK</text>
+        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbigneScsICdyYicpIGFzIGY6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbigneCcsICdyYicpIGFzIGY6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIG1haW4oKToK</text>
+        <text encoding="base64">ICAgIHBvbHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRmLmhlYWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzM6LydnYWJyaWVsJzovZw==</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -111,11 +125,11 @@
       <history-cmd>
         <entry>vs</entry>
         <entry>vsplit</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLzE6LydhbmRlcnNvbic6L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzI6LydkdSc6L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzM6LydnYWJyaWVsJzovZw==</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -171,6 +185,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
