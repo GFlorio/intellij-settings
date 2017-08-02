@@ -9,7 +9,7 @@
       <file name="/code.py" timestamp="1501685054972">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1501699076488">
+      <file name="/Python Console" timestamp="1501703148146">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="15" />
@@ -27,12 +27,12 @@
         <mark key="." line="27" column="27" />
         <mark key="^" line="27" column="27" />
       </file>
-      <file name="$USER_HOME$/work/processos/gera_instancias.py" timestamp="1501700628879">
-        <mark key="'" line="29" column="42" />
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="37" />
-        <mark key="." line="7" column="37" />
-        <mark key="^" line="7" column="37" />
+      <file name="$USER_HOME$/work/processos/gera_instancias.py" timestamp="1501703107173">
+        <mark key="'" line="30" column="42" />
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="32" column="23" />
+        <mark key="." line="32" column="23" />
+        <mark key="^" line="32" column="23" />
       </file>
       <file name="$USER_HOME$/work/processos/escolha_regressor.py" timestamp="1501694120371">
         <mark key="'" line="29" column="0" />
@@ -50,16 +50,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>10</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text>3:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAncmlkZ2UnOiAoUmlkZ2VDVigpLCB7CiAgICAgICAgICAgICdsZWFybmVyX19maXRfaW50ZXJjZXB0JzogW1RydWUsIEZhbHNlXSwKICAgICAgICB9KSwK</text>
+        <text encoding="base64">ICAgIHRpcG9fam9iID0gY2hvaWNlKFs1XSoxMCArIFsxMF0qNSArIFsxNV0qMikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Z2VyYV9pbnN0YW5jaWFzLgo=</text>
