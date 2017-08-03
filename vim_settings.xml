@@ -9,11 +9,11 @@
       <file name="/code.py" timestamp="1501685054972">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/demanda.py" timestamp="1501778579766">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="14" />
-        <mark key="." line="17" column="14" />
-        <mark key="^" line="17" column="14" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/demanda.py" timestamp="1501779370285">
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="65" />
+        <mark key="." line="24" column="65" />
+        <mark key="^" line="24" column="65" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/services.py" timestamp="1501776692471">
         <mark key="[" line="29" column="29" />
@@ -33,12 +33,12 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1501778933872">
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1501779041816">
         <mark key="'" line="100" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="67" />
-        <mark key="." line="39" column="67" />
-        <mark key="^" line="39" column="67" />
+        <mark key="[" line="40" column="33" />
+        <mark key="]" line="40" column="70" />
+        <mark key="." line="40" column="70" />
+        <mark key="^" line="40" column="70" />
       </file>
       <file name="$USER_HOME$/work/processos/gera_instancias.py" timestamp="1501703107173">
         <mark key="'" line="30" column="42" />
@@ -73,10 +73,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>instancias: Iterable[InstanciaProcesso], variaveis: Iterable[Variavel]</text>
+        <text>ssa distribuição.</text>
       </register>
       <register name="-" type="4">
-        <text>instancias: Iterable[InstanciaProcesso], variaveis: Iterable[Variavel]</text>
+        <text>ssa distribuição.</text>
       </register>
       <register name="/" type="4">
         <text>List</text>
