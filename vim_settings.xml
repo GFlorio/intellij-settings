@@ -9,11 +9,11 @@
       <file name="/code.py" timestamp="1501685054972">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/demanda.py" timestamp="1501709674196">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="20" column="7" />
-        <mark key="." line="20" column="7" />
-        <mark key="^" line="20" column="7" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/demanda.py" timestamp="1501768026939">
+        <mark key="[" line="14" column="47" />
+        <mark key="]" line="14" column="54" />
+        <mark key="." line="14" column="54" />
+        <mark key="^" line="14" column="54" />
         <mark key="o" line="5" column="42" />
       </file>
       <file name="/Python Console" timestamp="1501703148146">
@@ -66,10 +66,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdgo=</text>
       </register>
       <register name="-" type="4">
-        <text>inicio</text>
+        <text>valores</text>
       </register>
       <register name="/" type="4">
         <text>List</text>
@@ -78,31 +78,31 @@
         <text encoding="base64">ICAgIHRpcG9fam9iID0gY2hvaWNlKFs1XSoxMCArIFsxMF0qNSArIFsxNV0qMikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpZiBzCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">eQoK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZnJvbSBza2xlYXJuLmZlYXR1cmVfc2VsZWN0aW9uIGltcG9ydCBEaWN0VmVjdG9yaXplcgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Z2VyYV9pbnN0YW5jaWFzLgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbigneScsICdyYicpIGFzIGY6Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0xpc3QvSXRlcmFibGUvZw==</text>
