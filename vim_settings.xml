@@ -63,10 +63,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/selecao.py" timestamp="1502055949981">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/selecao.py" timestamp="1502056855113">
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+        <mark key="^" line="22" column="34" />
       </file>
       <file name="$USER_HOME$/work/processos/gera_instancias.py" timestamp="1501703107173">
         <mark key="'" line="30" column="42" />
@@ -94,54 +95,54 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJzX2Rpc2NyZXRhcyA9IHt2YXIgZm9yIHZhciBpbiB2YXJpYXZlaXMKICAgICAgICAgICAgICAgICAgICAgICAgICBpZiB2YXIuZnVuY2FvIGluIChUaXBvVmFyaWF2ZWwuQ0FULCBUaXBvVmFyaWF2ZWwuT1JEKX0KICAgICAgICB2YXJzX2NvbnRpbnVhcyA9IHt2YXIgZm9yIHZhciBpbiB2YXJpYXZlaXMgaWYgdmFyIG5vdCBpbiB2YXJzX2Rpc2NyZXRhc30KICAgICAgICAKICAgICAgICB2YWxvcmVzX2Rpc2NyZXRvcyA9IHsKICAgICAgICAgICAgdmFyLm5vbWU6IHNldChoaXN0b3JpY29bdmFyLm5vbWVdKSBmb3IgdmFyIGluIHZhcnNfZGlzY3JldGFzCiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>, historico: Valores</text>
+        <text>.funcao</text>
       </register>
       <register name="/" type="4">
-        <text>List</text>
+        <text>[/{/</text>
       </register>
-      <register name="0" type="4">
-        <text>Dict[str, List[Any]]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJzX2Rpc2NyZXRhcyA9IHt2YXIgZm9yIHZhciBpbiB2YXJpYXZlaXMKICAgICAgICAgICAgICAgICAgICAgICAgICBpZiB2YXIuZnVuY2FvIGluIChUaXBvVmFyaWF2ZWwuQ0FULCBUaXBvVmFyaWF2ZWwuT1JEKX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJzX2Rpc2NyZXRhcyA9IHt2YXIgZm9yIHZhciBpbiB2YXJpYXZlaXMKICAgICAgICAgICAgICAgICAgICAgICAgICBpZiB2YXIuZnVuY2FvIGluIChUaXBvVmFyaWF2ZWwuQ0FULCBUaXBvVmFyaWF2ZWwuT1JEKX0KICAgICAgICB2YXJzX2NvbnRpbnVhcyA9IHt2YXIgZm9yIHZhciBpbiB2YXJpYXZlaXMgaWYgdmFyIG5vdCBpbiB2YXJzX2Rpc2NyZXRhc30KICAgICAgICAKICAgICAgICB2YWxvcmVzX2Rpc2NyZXRvcyA9IHsKICAgICAgICAgICAgdmFyLm5vbWU6IHNldChoaXN0b3JpY29bdmFyLm5vbWVdKSBmb3IgdmFyIGluIHZhcnNfZGlzY3JldGFzCiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2YXJzX2NvbnRpbnVhcyA9IHt2YXIgZm9yIHZhciBpbiB2YXJpYXZlaXMgaWYgdmFyLmZ1bmNhbyBpbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAoVGlwb1ZhcmlhdmVsLk5VTSwgVGlwb1ZhcmlhdmVsLkRVUiwgVGlwb1ZhcmlhdmVsLil9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxlY2lvbmFfZmVhdHVyZXMoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJzX2NvbnRpbnVhcyA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBhZ3JlZ2Fkb3I6IEFncmVnYWRvckZlYXR1cmVzLAo=</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgSXRlcmFibGUK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQWdyZWdhZG9yKG9iamVjdCk6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBtZWRpZGFzID0K</text>
+        <text encoding="base64">ICAgIGRlZiBzZWxlY2lvbmFfZmVhdHVyZXMoc2VsZik6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0xpc3QvSXRlcmFibGUvZw==</text>
+        <text encoding="base64">JzwsJz5zL1svey8=</text>
       </register>
     </registers>
     <search>
-      <last-search>List</last-search>
+      <last-search>[/{/</last-search>
       <last-offset />
-      <last-pattern>List</last-pattern>
-      <last-replace>Iterable</last-replace>
-      <last-substitute>List</last-substitute>
+      <last-pattern>[/{/</last-pattern>
+      <last-replace />
+      <last-substitute>[/{/</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -152,6 +153,7 @@
         <entry>2:</entry>
         <entry>3:</entry>
         <entry>List</entry>
+        <entry>[/{/</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -162,6 +164,7 @@
         <entry encoding="base64">JzwsJz5zLzM6LydnYWJyaWVsJzovZw==</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL0xpc3QvSXRlcmFibGUvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL1svey8=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
