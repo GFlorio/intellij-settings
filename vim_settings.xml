@@ -95,11 +95,11 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/analises/predicao.py" timestamp="1502135476189">
+      <file name="$USER_HOME$/work/alcatraz/modelagem/analises/predicao.py" timestamp="1502138451095">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="30" column="25" />
-        <mark key="." line="30" column="25" />
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="33" />
         <mark key="^" line="30" column="25" />
       </file>
     </filemarks>
@@ -117,10 +117,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>classificat</text>
+        <text>, Dict</text>
       </register>
       <register name="-" type="4">
-        <text>classificat</text>
+        <text>, Dict</text>
       </register>
       <register name="/" type="4">
         <text>[/{/</text>
