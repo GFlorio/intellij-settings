@@ -119,11 +119,11 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/README.md" timestamp="1502299046957">
-        <mark key="[" line="246" column="81" />
-        <mark key="]" line="246" column="80" />
-        <mark key="^" line="246" column="80" />
-        <mark key="." line="246" column="80" />
+      <file name="$USER_HOME$/work/location_server/README.md" timestamp="1502299158768">
+        <mark key="[" line="247" column="35" />
+        <mark key="]" line="247" column="21" />
+        <mark key="^" line="247" column="19" />
+        <mark key="." line="247" column="21" />
       </file>
       <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" timestamp="1502225233661">
         <mark key="[" line="28" column="48" />
@@ -197,10 +197,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>URL para interagir com este grupo</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>URL para interagir com este grupo</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>###</text>
