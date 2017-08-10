@@ -165,12 +165,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/analises/predicao.py" timestamp="1502317872193">
+      <file name="$USER_HOME$/work/alcatraz/modelagem/analises/predicao.py" timestamp="1502390908771">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="71" column="26" />
-        <mark key="]" line="71" column="42" />
-        <mark key="." line="71" column="42" />
-        <mark key="^" line="71" column="42" />
+        <mark key="[" line="87" column="7" />
+        <mark key="]" line="87" column="24" />
+        <mark key="." line="87" column="24" />
+        <mark key="^" line="87" column="24" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/README.md" timestamp="1502296620132">
         <mark key="'" line="96" column="0" />
@@ -205,11 +205,11 @@
       <jump line="7" column="44" filename="$USER_HOME$/work/location_server/recursos/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNjcmV0YXMgPSBbdi50aXBvIGluIChUaXBvVmFyaWF2ZWwuT1JELCBUaXBvVmFyaWF2ZWwuQ0FUKQogICAgICAgICAgICAgICAgICAgICBmb3IgdiBpbiB2YXJzX2RlbWFuZGFdCg==</text>
+      <register name="&quot;" type="4">
+        <text>valores</text>
       </register>
       <register name="-" type="4">
-        <text>vars_continuas</text>
+        <text>valores</text>
       </register>
       <register name="/" type="4">
         <text>###</text>
