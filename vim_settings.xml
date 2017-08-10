@@ -165,12 +165,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/analises/predicao.py" timestamp="1502390908771">
+      <file name="$USER_HOME$/work/alcatraz/modelagem/analises/predicao.py" timestamp="1502392296005">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="87" column="7" />
-        <mark key="]" line="87" column="24" />
-        <mark key="." line="87" column="24" />
-        <mark key="^" line="87" column="24" />
+        <mark key="[" line="87" column="58" />
+        <mark key="]" line="87" column="56" />
+        <mark key="." line="87" column="56" />
+        <mark key="^" line="87" column="56" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/README.md" timestamp="1502296620132">
         <mark key="'" line="96" column="0" />
@@ -206,10 +206,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>valores</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>valores</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>###</text>
