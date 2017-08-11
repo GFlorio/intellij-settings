@@ -126,12 +126,12 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/README.md" timestamp="1502473598477">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="28" column="76" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="29" column="20" />
+      <file name="$USER_HOME$/work/location_server/README.md" timestamp="1502474957153">
+        <mark key="'" line="351" column="0" />
+        <mark key="[" line="360" column="17" />
+        <mark key="]" line="360" column="17" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="360" column="17" />
       </file>
       <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" timestamp="1502225233661">
         <mark key="[" line="28" column="48" />
@@ -205,7 +205,6 @@
       <jump line="27" column="38" filename="$USER_HOME$/work/location_server/recursos/serializers.py" />
       <jump line="7" column="44" filename="$USER_HOME$/work/location_server/recursos/serializers.py" />
       <jump line="65" column="0" filename="$USER_HOME$/work/location_server/README.md" />
-      <jump line="12" column="23" filename="$USER_HOME$/work/location_server/README.md" />
       <jump line="336" column="0" filename="$USER_HOME$/work/location_server/README.md" />
       <jump line="154" column="27" filename="$USER_HOME$/work/location_server/README.md" />
       <jump line="244" column="57" filename="$USER_HOME$/work/location_server/README.md" />
@@ -215,13 +214,15 @@
       <jump line="35" column="0" filename="$USER_HOME$/work/location_server/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/work/location_server/README.md" />
       <jump line="23" column="0" filename="$USER_HOME$/work/location_server/README.md" />
+      <jump line="12" column="39" filename="$USER_HOME$/work/location_server/README.md" />
+      <jump line="351" column="0" filename="$USER_HOME$/work/location_server/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>como_rodar_localmente</text>
+        <text encoding="base64">IDxhIG5hbWU9ImxvY2FsaXphZG9yZXMiPjwvYT4=</text>
       </register>
       <register name="-" type="4">
-        <text>como_rodar_localmente</text>
+        <text encoding="base64">IDxhIG5hbWU9ImxvY2FsaXphZG9yZXMiPjwvYT4=</text>
       </register>
       <register name="/" type="4">
         <text>name=</text>
@@ -257,15 +258,15 @@
         <text encoding="base64">ICAgICAgICBjb250aW51YXMgPSBbbm90IHYgZm9yIHYgaW4gZGlzY3JldGFzXQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1woXCkvXCgqXCkv</text>
+        <text encoding="base64">JzwsJz5zL18vLS9n</text>
       </register>
     </registers>
     <search>
       <last-search>name=</last-search>
       <last-offset />
       <last-pattern>name=</last-pattern>
-      <last-replace>\(*\)</last-replace>
-      <last-substitute>\(\)</last-substitute>
+      <last-replace>-</last-replace>
+      <last-substitute>_</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -282,6 +283,7 @@
         <entry>\(\)</entry>
         <entry encoding="base64">PGE+</entry>
         <entry encoding="base64">XDxhXD4=</entry>
+        <entry>_</entry>
         <entry>name=</entry>
       </history-search>
       <history-cmd>
@@ -295,6 +297,7 @@
         <entry encoding="base64">JzwsJz5zL0xpc3QvSXRlcmFibGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1svey8=</entry>
         <entry encoding="base64">JzwsJz5zL1woXCkvXCgqXCkv</entry>
+        <entry encoding="base64">JzwsJz5zL18vLS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
