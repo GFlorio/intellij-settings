@@ -126,11 +126,12 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/README.md" timestamp="1502302288753">
-        <mark key="[" line="263" column="10" />
-        <mark key="]" line="263" column="10" />
-        <mark key="^" line="257" column="25" />
-        <mark key="." line="263" column="14" />
+      <file name="$USER_HOME$/work/location_server/README.md" timestamp="1502473598477">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="28" column="76" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="20" />
       </file>
       <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" timestamp="1502225233661">
         <mark key="[" line="28" column="48" />
@@ -203,57 +204,68 @@
       <jump line="97" column="0" filename="$USER_HOME$/work/location_server/localizadores/README.md" />
       <jump line="27" column="38" filename="$USER_HOME$/work/location_server/recursos/serializers.py" />
       <jump line="7" column="44" filename="$USER_HOME$/work/location_server/recursos/serializers.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/work/location_server/README.md" />
+      <jump line="12" column="23" filename="$USER_HOME$/work/location_server/README.md" />
+      <jump line="336" column="0" filename="$USER_HOME$/work/location_server/README.md" />
+      <jump line="154" column="27" filename="$USER_HOME$/work/location_server/README.md" />
+      <jump line="244" column="57" filename="$USER_HOME$/work/location_server/README.md" />
+      <jump line="289" column="37" filename="$USER_HOME$/work/location_server/README.md" />
+      <jump line="359" column="39" filename="$USER_HOME$/work/location_server/README.md" />
+      <jump line="32" column="20" filename="$USER_HOME$/work/location_server/README.md" />
+      <jump line="35" column="0" filename="$USER_HOME$/work/location_server/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/location_server/README.md" />
+      <jump line="23" column="0" filename="$USER_HOME$/work/location_server/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>target</text>
+        <text>como_rodar_localmente</text>
       </register>
       <register name="-" type="4">
-        <text>target</text>
+        <text>como_rodar_localmente</text>
       </register>
       <register name="/" type="4">
-        <text>###</text>
+        <text>name=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCdyZW1vdmVfaW51dGVpcycsIFZhcmlhbmNlVGhyZXNob2xkKCkpLAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IDxhIG5hbWU9ImNvbW9fcm9kYXJfbG9jYWxtZW50ZSI+PC9hPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb2RfdGFyZ2V0ID0gdGFyZ2V0LmdldF9jb2RpZmljYWRvcigpCg==</text>
+        <text encoding="base64">ImF0aXZvIjogImJvb2wiLCAgICAgICAgICAgIC8vIEluZGljYSBzZSBlc3RlIGdydXBvIHNlcsOhIHVzYWRvIG5vIHRyZWluYW1lbnRvCiJjcmlhZG8iOiAic3RyaW5nIiwgICAgICAgICAgICAvLyBUaW1lc3RhbXAgZGUgY3JpYcOnw6NvIGRvIGdydXBvLCBmb3JtYXRvIElTTyA4NjAxCiJmaW5nZXJwcmludHMiOiAic3RyaW5nIiAgICAvLyBVUkwgcGFyYSBpbnRlcmFnaXIgY29tIG9zIGZpbmdlcnByaW50cyBkZXN0ZSBncnVwby4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNjcmV0YXMgPSBbdi50aXBvIGluIChUaXBvVmFyaWF2ZWwuT1JELCBUaXBvVmFyaWF2ZWwuQ0FUKQogICAgICAgICAgICAgICAgICAgICBmb3IgdiBpbiB2YXJzX2RlbWFuZGFdCg==</text>
+        <text encoding="base64">ImlkIjogIm51bWJlciIsICAgICAgICAgICAgIC8vIElkZW50aWZpY2HDp8OjbyBkbyBncnVwbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb250aW51YXMgPSBbbm90IHYgZm9yIHYgaW4gZGlzY3JldGFzXQo=</text>
+        <text encoding="base64">InVybCI6ICJzdHJpbmciLCAgICAgICAgICAgIC8vIFVSTCBwYXJhIGludGVyYWdpciBjb20gZXN0ZSBncnVwbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsaW1pdGVfdmFyID0gc2VsZi5waXBlbGluZS5uYW1lZF9zdGVwcy5nZXQoJ3JlbW92ZV9pbnV0ZWlzJykKICAgICAgICBub21lcyA9IFtub21lIGZvciBub21lLCB2YXIgaW4gemlwKG5vbWVzLCBsaW1pdGVfdmFyLnZhcmlhbmNlc18pCiAgICAgICAgICAgICAgICAgaWYgdmFyID4gMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCdyZW1vdmVfaW51dGVpcycsIFZhcmlhbmNlVGhyZXNob2xkKCkpLAo=</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Wwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2RfdGFyZ2V0ID0gdGFyZ2V0LmdldF9jb2RpZmljYWRvcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSBzZWxmLk1ldGEuZmllbGRzCg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNjcmV0YXMgPSBbdi50aXBvIGluIChUaXBvVmFyaWF2ZWwuT1JELCBUaXBvVmFyaWF2ZWwuQ0FUKQogICAgICAgICAgICAgICAgICAgICBmb3IgdiBpbiB2YXJzX2RlbWFuZGFdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXJscyBpbXBvcnQgcmV2ZXJzZQo=</text>
+        <text encoding="base64">ICAgICAgICBjb250aW51YXMgPSBbbm90IHYgZm9yIHYgaW4gZGlzY3JldGFzXQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1svey8=</text>
+        <text encoding="base64">JzwsJz5zL1woXCkvXCgqXCkv</text>
       </register>
     </registers>
     <search>
-      <last-search>###</last-search>
+      <last-search>name=</last-search>
       <last-offset />
-      <last-pattern>###</last-pattern>
-      <last-replace />
-      <last-substitute>[/{/</last-substitute>
+      <last-pattern>name=</last-pattern>
+      <last-replace>\(*\)</last-replace>
+      <last-substitute>\(\)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -266,6 +278,11 @@
         <entry>List</entry>
         <entry>[/{/</entry>
         <entry>###</entry>
+        <entry>grupo</entry>
+        <entry>\(\)</entry>
+        <entry encoding="base64">PGE+</entry>
+        <entry encoding="base64">XDxhXD4=</entry>
+        <entry>name=</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -277,6 +294,7 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL0xpc3QvSXRlcmFibGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1svey8=</entry>
+        <entry encoding="base64">JzwsJz5zL1woXCkvXCgqXCkv</entry>
       </history-cmd>
       <history-expr />
       <history-input />
