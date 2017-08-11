@@ -72,11 +72,6 @@
         <mark key="." line="29" column="45" />
         <mark key="^" line="29" column="45" />
       </file>
-      <file name="$USER_HOME$/work/location_server/recursos/models.py" timestamp="1502215250290">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/work/location_server/recursos/serializers.py" timestamp="1502309450715">
         <mark key="'" line="7" column="44" />
         <mark key="[" line="51" column="0" />
@@ -107,6 +102,12 @@
         <mark key="]" line="43" column="14" />
         <mark key="." line="43" column="14" />
         <mark key="^" line="43" column="14" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/localizadores/treinamento.py" timestamp="1502481505744">
+        <mark key="[" line="12" column="71" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/estrategias/correlacao.py" timestamp="1502031676845">
         <mark key="[" line="2" column="55" />
@@ -161,11 +162,6 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="56" />
       </file>
-      <file name="$USER_HOME$/work/location_server/recursos/factories.py" timestamp="1502225168194">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/analises/predicao.py" timestamp="1502393357813">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="59" column="51" />
@@ -180,11 +176,11 @@
         <mark key="." line="130" column="0" />
         <mark key="^" line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/recursos/services.py" timestamp="1502225751981">
-        <mark key="[" line="38" column="41" />
-        <mark key="]" line="38" column="43" />
-        <mark key="." line="38" column="43" />
-        <mark key="^" line="38" column="43" />
+      <file name="$USER_HOME$/work/location_server/recursos/services.py" timestamp="1502481713105">
+        <mark key="[" line="55" column="41" />
+        <mark key="]" line="55" column="45" />
+        <mark key="." line="55" column="45" />
+        <mark key="^" line="55" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -219,10 +215,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDxhIG5hbWU9ImxvY2FsaXphZG9yZXMiPjwvYT4=</text>
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDxhIG5hbWU9ImxvY2FsaXphZG9yZXMiPjwvYT4=</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>name=</text>
