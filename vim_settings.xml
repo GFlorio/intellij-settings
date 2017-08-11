@@ -6,11 +6,11 @@
       <file name="/start_script.py" timestamp="1501603402517">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1502485988881">
-        <mark key="[" line="39" column="26" />
-        <mark key="]" line="39" column="42" />
-        <mark key="." line="39" column="42" />
-        <mark key="^" line="39" column="42" />
+      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1502486379356">
+        <mark key="[" line="30" column="49" />
+        <mark key="]" line="31" column="31" />
+        <mark key="." line="31" column="31" />
+        <mark key="^" line="31" column="31" />
       </file>
       <file name="/Python Console" timestamp="1502058577200">
         <mark key="[" line="0" column="0" />
@@ -133,6 +133,12 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/multilateracao.py" timestamp="1502486821493">
+        <mark key="[" line="29" column="51" />
+        <mark key="]" line="29" column="59" />
+        <mark key="^" line="29" column="59" />
+        <mark key="." line="29" column="59" />
+      </file>
       <file name="$USER_HOME$/work/location_server/README.md" timestamp="1502474957153">
         <mark key="'" line="351" column="0" />
         <mark key="[" line="360" column="17" />
@@ -221,49 +227,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_eval_blueprint</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>_eval_blueprint</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>name=</text>
       </register>
-      <register name="0" type="4">
-        <text>if not algoritmo:
-            raise TypeError('Algoritmo não especificado em: '+str(blueprint))
-
-        modulo = import_module('.'+algoritmo, 'localizadores.algoritmos')
-
-        kwargs = {x: self._eval_blueprint(blueprint[x])
-                  for x in blueprint.keys()}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGJsdWVwcmludCwgbGlzdCk6CiAgICAgICAgICAgIHJldHVybiBbc2VsZi5fZXZhbF9ibHVlcHJpbnQoeCkgZm9yIHggaW4gYmx1ZXByaW50XQogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKGJsdWVwcmludCwgZGljdCk6CiAgICAgICAgICAgIHJldHVybiBibHVlcHJpbnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignRXJybycpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1pbl9yc3NpID0gbWluX3Jzc2kKICAgICAgICBzZWxmLm4gPSBuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBrd2FyZ3MgPSB7eDogc2VsZi52YWxpZGFfYmx1ZXByaW50KGJsdWVwcmludFt4XSkKICAgICAgICAgICAgICAgICAgZm9yIHggaW4gYmx1ZXByaW50LmtleXMoKX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZXZhbF9ibHVlcHJpbnQoc2VsZiwgYmx1ZXByaW50KToKICAgICAgICAiIiIKICAgICAgICBHZXJhIHVtIG9iamV0byBsb2NhbGl6YWRvciBhIHBhcnRpciBkZSB1bSBibHVlcHJpbnQuCiAgICAgICAgQSBmdW7Dp8OjbyByZWN1cnNpdmFtZW50ZSBwZXJjb3JyZSBvIGRpY3QgZG8gYmx1ZXByaW50LCBzdWJzdGl0dWluZG8gYXMKICAgICAgICBlc3BlY2lmaWNhw6fDtWVzIGRvcyBhbGdvcml0bW9zIHBvciBpbnN0w6JuY2lhcyBkb3MgbWVzbW9zIGUgdXNhbmRvIG9zCiAgICAgICAgb3V0cm9zIGl0ZW5zIGRvIGRpY3QgY29tbyBhcmd1bWVudG9zIHBhcmEgbyBjb25zdHJ1dG9yLgogICAgICAgICIiIgogICAgICAgIGlmIGlzaW5zdGFuY2UoYmx1ZXByaW50LCBsaXN0KToKICAgICAgICAgICAgcmV0dXJuIFtzZWxmLl9ldmFsX2JsdWVwcmludCh4KSBmb3IgeCBpbiBibHVlcHJpbnRdCiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoYmx1ZXByaW50LCBkaWN0KToKICAgICAgICAgICAgcmV0dXJuIGJsdWVwcmludAoKICAgICAgICBhbGdvcml0bW8gPSBibHVlcHJpbnQucG9wKCdhbGdvcml0bW8nLCBOb25lKQogICAgICAgIGlmIG5vdCBhbGdvcml0bW86CiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcignQWxnb3JpdG1vIG7Do28gZXNwZWNpZmljYWRvIGVtOiAnK3N0cihibHVlcHJpbnQpKQoKICAgICAgICBtb2R1bG8gPSBpbXBvcnRfbW9kdWxlKCcuJythbGdvcml0bW8sICdsb2NhbGl6YWRvcmVzLmFsZ29yaXRtb3MnKQoKICAgICAgICBrd2FyZ3MgPSB7eDogc2VsZi5fZXZhbF9ibHVlcHJpbnQoYmx1ZXByaW50W3hdKQogICAgICAgICAgICAgICAgICBmb3IgeCBpbiBibHVlcHJpbnQua2V5cygpfQogICAgICAgIGxvY2FsaXphZG9yID0gbW9kdWxvLmxvY2FsaXphZG9yKHNlbGYucGlzbywgKiprd2FyZ3MpCiAgICAgICAgcmV0dXJuIGxvY2FsaXphZG9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignRXJybycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIERpY3QK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSByZWN1cnNvcy5yZWN1cnNvcyBpbXBvcnQgUmVjdXJzb0xvY2FsaXphZG8K</text>
+        <text encoding="base64">ICAgIGRlZiBfZXZhbF9ibHVlcHJpbnQoc2VsZiwgYmx1ZXByaW50KToKICAgICAgICAiIiIKICAgICAgICBHZXJhIHVtIG9iamV0byBsb2NhbGl6YWRvciBhIHBhcnRpciBkZSB1bSBibHVlcHJpbnQuCiAgICAgICAgQSBmdW7Dp8OjbyByZWN1cnNpdmFtZW50ZSBwZXJjb3JyZSBvIGRpY3QgZG8gYmx1ZXByaW50LCBzdWJzdGl0dWluZG8gYXMKICAgICAgICBlc3BlY2lmaWNhw6fDtWVzIGRvcyBhbGdvcml0bW9zIHBvciBpbnN0w6JuY2lhcyBkb3MgbWVzbW9zIGUgdXNhbmRvIG9zCiAgICAgICAgb3V0cm9zIGl0ZW5zIGRvIGRpY3QgY29tbyBhcmd1bWVudG9zIHBhcmEgbyBjb25zdHJ1dG9yLgogICAgICAgICIiIgogICAgICAgIGlmIGlzaW5zdGFuY2UoYmx1ZXByaW50LCBsaXN0KToKICAgICAgICAgICAgcmV0dXJuIFtzZWxmLl9ldmFsX2JsdWVwcmludCh4KSBmb3IgeCBpbiBibHVlcHJpbnRdCiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoYmx1ZXByaW50LCBkaWN0KToKICAgICAgICAgICAgcmV0dXJuIGJsdWVwcmludAoKICAgICAgICBhbGdvcml0bW8gPSBibHVlcHJpbnQucG9wKCdhbGdvcml0bW8nLCBOb25lKQogICAgICAgIGlmIG5vdCBhbGdvcml0bW86CiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcignQWxnb3JpdG1vIG7Do28gZXNwZWNpZmljYWRvIGVtOiAnK3N0cihibHVlcHJpbnQpKQoKICAgICAgICBtb2R1bG8gPSBpbXBvcnRfbW9kdWxlKCcuJythbGdvcml0bW8sICdsb2NhbGl6YWRvcmVzLmFsZ29yaXRtb3MnKQoKICAgICAgICBrd2FyZ3MgPSB7eDogc2VsZi5fZXZhbF9ibHVlcHJpbnQoYmx1ZXByaW50W3hdKQogICAgICAgICAgICAgICAgICBmb3IgeCBpbiBibHVlcHJpbnQua2V5cygpfQogICAgICAgIGxvY2FsaXphZG9yID0gbW9kdWxvLmxvY2FsaXphZG9yKHNlbGYucGlzbywgKiprd2FyZ3MpCiAgICAgICAgcmV0dXJuIGxvY2FsaXphZG9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBwbGFjZXMubW9kZWxzIGltcG9ydCBQaXNvCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIERpY3QK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL18vLS9n</text>
