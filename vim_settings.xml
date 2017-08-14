@@ -9,11 +9,11 @@
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/work/location_server/recursos/admin.py" timestamp="1502294421199">
-        <mark key="[" line="48" column="42" />
-        <mark key="]" line="49" column="43" />
-        <mark key="." line="49" column="43" />
-        <mark key="^" line="49" column="43" />
+      <file name="$USER_HOME$/work/location_server/recursos/admin.py" timestamp="1502722200507">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="22" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="20" column="19" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/alocacao/models.py" timestamp="1501611478588">
         <mark key="[" line="15" column="22" />
@@ -62,6 +62,12 @@
         <mark key="]" line="29" column="45" />
         <mark key="." line="29" column="45" />
         <mark key="^" line="29" column="45" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/recursos/models.py" timestamp="1502722750817">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
       </file>
       <file name="$USER_HOME$/work/location_server/recursos/serializers.py" timestamp="1502309450715">
         <mark key="'" line="7" column="44" />
@@ -217,17 +223,17 @@
       <jump line="351" column="0" filename="$USER_HOME$/work/location_server/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWN1cnNvID0gcmVjdXJzb3Nbc2VsZi5yZWN1cnNvXQo=</text>
+      <register name="&quot;" type="4">
+        <text>:(self):</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>:(self):</text>
       </register>
       <register name="/" type="4">
         <text>name=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cmVpbmFkb3IgPSBnZXRhdHRyKHNlbGYsICdfdHJlaW5hJywgTm9uZSkKICAgICAgICBpZiB0cmVpbmFkb3IgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgcmVjdXJzbyA9IHJlY3Vyc29zW3NlbGYucmVjdXJzb10KICAgICAgICB0cmVpbmFkb3IocmVjdXJzbykK</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGUgPSBbJ3Bpc28nXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZWN1cnNvID0gcmVjdXJzb3Nbc2VsZi5yZWN1cnNvXQo=</text>
