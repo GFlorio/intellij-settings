@@ -63,11 +63,11 @@
         <mark key="." line="29" column="45" />
         <mark key="^" line="29" column="45" />
       </file>
-      <file name="$USER_HOME$/work/location_server/recursos/models.py" timestamp="1502722750817">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="25" column="23" />
-        <mark key="." line="25" column="23" />
-        <mark key="^" line="25" column="23" />
+      <file name="$USER_HOME$/work/location_server/recursos/models.py" timestamp="1502736215293">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="121" column="26" />
+        <mark key="." line="121" column="26" />
+        <mark key="^" line="121" column="26" />
       </file>
       <file name="$USER_HOME$/work/location_server/recursos/serializers.py" timestamp="1502309450715">
         <mark key="'" line="7" column="44" />
@@ -223,8 +223,8 @@
       <jump line="351" column="0" filename="$USER_HOME$/work/location_server/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:(self):</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2luYWwgaXMgTm9uZToKICAgICAgICAgICAgICAgIHJldHVybiBOb25lCg==</text>
       </register>
       <register name="-" type="4">
         <text>:(self):</text>
@@ -233,7 +233,7 @@
         <text>name=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4Y2x1ZGUgPSBbJ3Bpc28nXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2luYWwgaXMgTm9uZToKICAgICAgICAgICAgICAgIHJldHVybiBOb25lCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZWN1cnNvID0gcmVjdXJzb3Nbc2VsZi5yZWN1cnNvXQo=</text>
