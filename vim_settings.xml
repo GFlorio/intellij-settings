@@ -94,11 +94,11 @@
         <mark key="." line="43" column="14" />
         <mark key="^" line="43" column="14" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/base.py" timestamp="1502912071200">
-        <mark key="[" line="69" column="29" />
-        <mark key="]" line="69" column="37" />
-        <mark key="." line="69" column="37" />
-        <mark key="^" line="69" column="37" />
+      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/base.py" timestamp="1502913575116">
+        <mark key="[" line="83" column="22" />
+        <mark key="]" line="83" column="27" />
+        <mark key="." line="83" column="27" />
+        <mark key="^" line="83" column="27" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/treinamento.py" timestamp="1502485187389">
         <mark key="[" line="10" column="49" />
@@ -224,10 +224,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>grid</text>
+        <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>grid</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
         <text>name=</text>
