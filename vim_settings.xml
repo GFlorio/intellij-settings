@@ -9,7 +9,7 @@
         <mark key="." line="41" column="43" />
         <mark key="^" line="41" column="43" />
       </file>
-      <file name="/Python Console" timestamp="1503001750216">
+      <file name="/Python Console" timestamp="1503003562644">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/location_server/recursos/admin.py" timestamp="1502722200507">
@@ -18,7 +18,7 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="20" column="19" />
       </file>
-      <file name="/fragment.py" timestamp="1502998503866">
+      <file name="/fragment.py" timestamp="1503002816484">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/alocacao/models.py" timestamp="1501611478588">
@@ -75,7 +75,7 @@
         <mark key="." line="121" column="26" />
         <mark key="^" line="121" column="26" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/knn.py" timestamp="1502983210146">
+      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/knn.py" timestamp="1503002765638">
         <mark key="[" line="60" column="36" />
         <mark key="]" line="58" column="34" />
         <mark key="^" line="58" column="34" />
@@ -99,6 +99,9 @@
         <mark key="]" line="20" column="25" />
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1503003071912">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/demanda.py" timestamp="1502041754017">
         <mark key="[" line="43" column="14" />
@@ -164,11 +167,11 @@
       <file name="/" timestamp="1502999816397">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" timestamp="1502995260877">
-        <mark key="[" line="99" column="34" />
-        <mark key="]" line="100" column="49" />
-        <mark key="^" line="100" column="49" />
-        <mark key="." line="100" column="49" />
+      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" timestamp="1503003559314">
+        <mark key="[" line="28" column="78" />
+        <mark key="]" line="28" column="80" />
+        <mark key="^" line="28" column="80" />
+        <mark key="." line="28" column="80" />
       </file>
       <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" timestamp="1502232281854">
         <mark key="[" line="51" column="45" />
@@ -253,10 +256,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>valores</text>
+        <text>50</text>
       </register>
       <register name="-" type="4">
-        <text>valores</text>
+        <text>50</text>
       </register>
       <register name="/" type="4">
         <text>name=</text>
