@@ -9,7 +9,7 @@
         <mark key="." line="41" column="43" />
         <mark key="^" line="41" column="43" />
       </file>
-      <file name="/Python Console" timestamp="1503003699042">
+      <file name="/Python Console" timestamp="1503005204292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/location_server/recursos/admin.py" timestamp="1502722200507">
@@ -100,7 +100,7 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503003699103">
+      <file name="/Dummy.txt" timestamp="1503005505360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/demanda.py" timestamp="1502041754017">
@@ -151,6 +151,7 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/.venvs/location_server/lib/python3.5/site-packages/sklearn/preprocessing/data.py" timestamp="1503005563593" />
       <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/multilateracao.py" timestamp="1502984967357">
         <mark key="[" line="5" column="54" />
         <mark key="]" line="5" column="59" />
