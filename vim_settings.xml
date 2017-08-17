@@ -105,11 +105,11 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/treinamento.py" timestamp="1502991447587">
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-        <mark key="^" line="10" column="55" />
+      <file name="$USER_HOME$/work/location_server/localizadores/treinamento.py" timestamp="1502992217662">
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="25" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/c_boosting.py" timestamp="1502984780860">
         <mark key="[" line="70" column="15" />
@@ -240,11 +240,11 @@
       <jump line="351" column="0" filename="$USER_HOME$/work/location_server/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cmVpbmFkb3IocmVjdXJzbykK</text>
+      <register name="&quot;" type="4">
+        <text>dados_treinamento</text>
       </register>
       <register name="-" type="4">
-        <text>, **kwargs)</text>
+        <text>dados_treinamento</text>
       </register>
       <register name="/" type="4">
         <text>name=</text>
