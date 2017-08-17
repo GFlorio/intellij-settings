@@ -106,8 +106,8 @@
         <mark key="." line="43" column="14" />
         <mark key="^" line="43" column="14" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/base.py" timestamp="1502997182074">
-        <mark key="[" line="50" column="26" />
+      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/base.py" timestamp="1502999602268">
+        <mark key="[" line="50" column="50" />
         <mark key="]" line="50" column="48" />
         <mark key="^" line="50" column="48" />
         <mark key="." line="50" column="48" />
@@ -118,11 +118,11 @@
         <mark key="." line="51" column="41" />
         <mark key="^" line="51" column="41" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/treinamento.py" timestamp="1502998523842">
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="23" column="25" />
-        <mark key="^" line="23" column="25" />
-        <mark key="." line="23" column="25" />
+      <file name="$USER_HOME$/work/location_server/localizadores/treinamento.py" timestamp="1502999580806">
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="38" column="36" />
+        <mark key="." line="38" column="36" />
+        <mark key="^" line="38" column="36" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/c_boosting.py" timestamp="1502984780860">
         <mark key="[" line="70" column="15" />
@@ -250,10 +250,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isinstance</text>
+        <text>rec</text>
       </register>
       <register name="-" type="4">
-        <text>isinstance</text>
+        <text>rec</text>
       </register>
       <register name="/" type="4">
         <text>name=</text>
@@ -262,31 +262,31 @@
         <text encoding="base64">ICAgIHRyYWluID0ge25vbWU6IHZhbG9yZXMgZm9yIG5vbWUsIHZhbG9yZXMgaW4gemlwKG5vbWVzLCBzcGxpdHNbOmxlbihzcGxpdHMpLzJdKX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWN1cnNvc01vY2sucmV0dXJuX3ZhbHVlID0gcmVjdXJzb3NfbG9jYWxpemFkb3MK</text>
+        <text encoding="base64">ICAgICIiIlRyZWluYSBvIG1vZGVsbyBlc3BlY2lmaWNhZG8gdXRpbGl6YW5kbyBvcyByZWN1cnNvcyBwYXNzYWRvcy4KICAgIAogICAgIiIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnbG9jYWxpemFkb3Jlcy5hbGdvcml0bW9zLmJhc2UuYnVzY2FfcmVjdXJzb3NfdHJlaW5hbWVudG8nKQo=</text>
+        <text encoding="base64">ICAgICAgICByZWN1cnNvc01vY2sucmV0dXJuX3ZhbHVlID0gcmVjdXJzb3NfbG9jYWxpemFkb3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgnbG9jYWxpemFkb3Jlcy5hbGdvcml0bW9zLmJhc2UuYnVzY2FfcmVjdXJzb3NfdHJlaW5hbWVudG8nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBsb2NhbGl6YWRvcmVzLm1vZGVscyBpbXBvcnQgUG9zaWNhbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxvLnRyZWluYSgpCg==</text>
+        <text encoding="base64">ZnJvbSBsb2NhbGl6YWRvcmVzLm1vZGVscyBpbXBvcnQgUG9zaWNhbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxvLnRyZWluYSgpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciByZWMgaW4gdGVzdDoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFggPSBbcmVjWzBdIGZvciByZWMgaW4gcmVjdXJzb3NdCg==</text>
+        <text encoding="base64">ICAgIGZvciByZWMgaW4gdGVzdDoK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL18vLS9n</text>
