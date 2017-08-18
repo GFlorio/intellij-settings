@@ -9,7 +9,7 @@
         <mark key="." line="41" column="43" />
         <mark key="^" line="41" column="43" />
       </file>
-      <file name="/Python Console" timestamp="1503005204292">
+      <file name="/Python Console" timestamp="1503009168664">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/location_server/recursos/admin.py" timestamp="1502722200507">
@@ -75,11 +75,11 @@
         <mark key="." line="121" column="26" />
         <mark key="^" line="121" column="26" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/knn.py" timestamp="1503002765638">
-        <mark key="[" line="60" column="36" />
-        <mark key="]" line="58" column="34" />
+      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/knn.py" timestamp="1503006693980">
+        <mark key="[" line="51" column="38" />
+        <mark key="]" line="51" column="38" />
         <mark key="^" line="58" column="34" />
-        <mark key="." line="58" column="34" />
+        <mark key="." line="51" column="38" />
       </file>
       <file name="$USER_HOME$/work/location_server/recursos/serializers.py" timestamp="1502309450715">
         <mark key="'" line="7" column="44" />
@@ -121,11 +121,11 @@
         <mark key="." line="51" column="41" />
         <mark key="^" line="51" column="41" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/treinamento.py" timestamp="1503001902165">
-        <mark key="[" line="35" column="18" />
-        <mark key="]" line="35" column="43" />
-        <mark key="." line="35" column="43" />
-        <mark key="^" line="35" column="43" />
+      <file name="$USER_HOME$/work/location_server/localizadores/treinamento.py" timestamp="1503009354877">
+        <mark key="[" line="42" column="35" />
+        <mark key="]" line="42" column="46" />
+        <mark key="^" line="42" column="46" />
+        <mark key="." line="42" column="46" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/c_boosting.py" timestamp="1502984780860">
         <mark key="[" line="70" column="15" />
@@ -257,43 +257,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>50</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>50</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>name=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyYWluID0ge25vbWU6IHZhbG9yZXMgZm9yIG5vbWUsIHZhbG9yZXMgaW4gemlwKG5vbWVzLCBzcGxpdHNbOmxlbihzcGxpdHMpLzJdKX0K</text>
+        <text encoding="base64">ICAgIHRyYWluID0ge25vbWU6IHZhbG9yZXMgZm9yIG5vbWUsIHZhbG9yZXMgaW4gemlwKG5vbWVzLCBzcGxpdHNfdHJhaW4pfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlc3QgPSB7bm9tZTogW3ZhbFswXSBmb3IgdmFsIGluIHZhbG9yZXNdIGZvciBub21lLCB2YWxvcmVzIGluIHppcChub21lcywgc3BsaXRzW21ldGFkZTpdKX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHJlY3Vyc28sIGxpc3QpOgo=</text>
+        <text encoding="base64">ICAgIHRyYWluID0ge25vbWU6IHZhbG9yZXMgZm9yIG5vbWUsIHZhbG9yZXMgaW4gemlwKG5vbWVzLCBzcGxpdHNbOm1ldGFkZV0pfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG1ldGFkZSA9IGxlbihzcGxpdHMpLy8yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIiIlRyZWluYSBvIG1vZGVsbyBlc3BlY2lmaWNhZG8gdXRpbGl6YW5kbyBvcyByZWN1cnNvcyBwYXNzYWRvcy4KICAgIAogICAgIiIiCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAxLjAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWN1cnNvc01vY2sucmV0dXJuX3ZhbHVlID0gcmVjdXJzb3NfbG9jYWxpemFkb3MK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnbG9jYWxpemFkb3Jlcy5hbGdvcml0bW9zLmJhc2UuYnVzY2FfcmVjdXJzb3NfdHJlaW5hbWVudG8nKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHJlY3Vyc28sIGxpc3QpOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBsb2NhbGl6YWRvcmVzLm1vZGVscyBpbXBvcnQgUG9zaWNhbwo=</text>
+        <text encoding="base64">ICAgICIiIlRyZWluYSBvIG1vZGVsbyBlc3BlY2lmaWNhZG8gdXRpbGl6YW5kbyBvcyByZWN1cnNvcyBwYXNzYWRvcy4KICAgIAogICAgIiIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxvLnRyZWluYSgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZWN1cnNvc01vY2sucmV0dXJuX3ZhbHVlID0gcmVjdXJzb3NfbG9jYWxpemFkb3MK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL18vLS9n</text>
