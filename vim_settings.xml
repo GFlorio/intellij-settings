@@ -75,6 +75,11 @@
         <mark key="^" line="63" column="43" />
         <mark key="." line="63" column="51" />
       </file>
+      <file name="$USER_HOME$/work/alcatraz/modelagem/tests/test_predicao.py" timestamp="1503526852117">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/services.py" timestamp="1501776692471">
         <mark key="[" line="29" column="29" />
         <mark key="]" line="29" column="45" />
@@ -192,10 +197,10 @@
         <mark key="^" line="5" column="59" />
         <mark key="." line="5" column="59" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/tests/test_manipulacao.py" timestamp="1503513465160">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/tests/test_manipulacao.py" timestamp="1503526853620">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/aceita_primeiro.py" timestamp="1503080465490">
         <mark key="[" line="5" column="0" />
@@ -298,7 +303,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -307,7 +312,7 @@
         <text>name=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGluaWNpbyA9IGZhY3RvcnkuRmFrZXIoJ2RhdGVfdGltZV9iZXR3ZWVuJywgc3RhcnRfZGF0ZT0iLTMwZCIsIGVuZF9kYXRlPSItMTBkIikK</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
