@@ -177,11 +177,11 @@
         <mark key="^" line="66" column="42" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/worker.py" timestamp="1503520104209">
-        <mark key="[" line="63" column="48" />
-        <mark key="]" line="63" column="48" />
-        <mark key="." line="63" column="48" />
-        <mark key="^" line="63" column="53" />
+      <file name="$USER_HOME$/work/location_server/worker.py" timestamp="1503520887851">
+        <mark key="[" line="63" column="49" />
+        <mark key="]" line="63" column="54" />
+        <mark key="." line="63" column="54" />
+        <mark key="^" line="63" column="54" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/multilateracao.py" timestamp="1502984967357">
         <mark key="[" line="5" column="54" />
@@ -249,6 +249,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/work/location_server/ansible/group_vars/prod.yml" timestamp="1503520949433">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+      </file>
       <file name="$USER_HOME$/work/location_server/recursos/services.py" timestamp="1502998320398">
         <mark key="[" line="54" column="18" />
         <mark key="]" line="54" column="28" />
@@ -289,10 +295,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, True</text>
+        <text>develop</text>
       </register>
       <register name="-" type="4">
-        <text>, True</text>
+        <text>develop</text>
       </register>
       <register name="/" type="4">
         <text>name=</text>
