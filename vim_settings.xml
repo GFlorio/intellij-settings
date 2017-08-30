@@ -166,11 +166,11 @@
         <mark key="." line="45" column="18" />
         <mark key="^" line="45" column="18" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/c_boosting.py" timestamp="1502984780860">
-        <mark key="[" line="70" column="15" />
-        <mark key="]" line="70" column="37" />
-        <mark key="^" line="70" column="37" />
-        <mark key="." line="70" column="37" />
+      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/c_boosting.py" timestamp="1504103167234">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="17" />
+        <mark key="^" line="49" column="19" />
+        <mark key="." line="49" column="18" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/estrategias/correlacao.py" timestamp="1502031676845">
         <mark key="[" line="2" column="55" />
@@ -301,17 +301,17 @@
       <jump line="3" column="0" filename="$USER_HOME$/work/location_server/localizadores/algoritmos/base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bG9jID0g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAwIGluIChsZW4ocmVjdXJzb3MpLCBsZW4ocG9pcykpOgogICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9jID0g</text>
+        <text encoding="base64">IDA=</text>
       </register>
       <register name="/" type="4">
         <text>name=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAwIGluIChsZW4ocmVjdXJzb3MpLCBsZW4ocG9pcykpOgogICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxvYyA9IExvY2FsaXphZG9yKHBpc289aW5zdGFuY2UpCiAgICBsb2Muc2F2ZSgpCg==</text>
@@ -341,7 +341,7 @@
         <text encoding="base64">ICAgIGV4Y2VwdDoKICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCJFcnJvIHByb2Nlc3NhbmRvIG1lbnNhZ2VtIGRlIGF0dWFsaXphw6fDo28gZGUgVW5pZGFkZSEiLAogICAgICAgICAgICAgICAgICAgICAgICAgZXh0cmE9Y2FtcG9zKQogICAgICAgIHJhaXNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -372,7 +372,6 @@
       <history-cmd>
         <entry>vs</entry>
         <entry>vsplit</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLzE6LydhbmRlcnNvbic6L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzI6LydkdSc6L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzM6LydnYWJyaWVsJzovZw==</entry>
@@ -381,6 +380,7 @@
         <entry encoding="base64">JzwsJz5zL1woXCkvXCgqXCkv</entry>
         <entry encoding="base64">JzwsJz5zL18vLS9n</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
