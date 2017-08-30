@@ -57,11 +57,11 @@
         <mark key="." line="40" column="47" />
         <mark key="^" line="40" column="47" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1504016366106">
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="30" column="4" />
-        <mark key="." line="30" column="4" />
-        <mark key="^" line="30" column="56" />
+      <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1504108504223">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="77" />
+        <mark key="." line="32" column="77" />
+        <mark key="^" line="32" column="77" />
       </file>
       <file name="$USER_HOME$/work/location_server/recursos/tasks.py" timestamp="1503519911958">
         <mark key="[" line="37" column="0" />
@@ -301,11 +301,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/work/location_server/localizadores/algoritmos/base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAwIGluIChsZW4ocmVjdXJzb3MpLCBsZW4ocG9pcykpOgogICAgICAgICAgICByZXR1cm4K</text>
+      <register name="&quot;" type="4">
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDA=</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>name=</text>
