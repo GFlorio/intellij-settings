@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1504198502520">
-        <mark key="[" line="58" column="74" />
-        <mark key="]" line="58" column="93" />
-        <mark key="." line="58" column="93" />
-        <mark key="^" line="58" column="93" />
+      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1504205553996">
+        <mark key="[" line="129" column="53" />
+        <mark key="]" line="129" column="68" />
+        <mark key="." line="129" column="53" />
+        <mark key="^" line="128" column="66" />
       </file>
       <file name="/Python Console" timestamp="1503525705866">
         <mark key="[" line="0" column="0" />
@@ -302,7 +302,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>intervalo_real_time</text>
+        <text encoding="base64">ICAjIHR5cGU6IGZsb2F0</text>
       </register>
       <register name="-" type="4">
         <text>intervalo_real_time</text>
@@ -310,8 +310,8 @@
       <register name="/" type="4">
         <text>name=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGludGVydmFsb19yZWFsX3RpbWUgPSBtb2RlbHMuSW50ZWdlckZpZWxkKG5hbWU9J0ludGVydmFsbyBSZWFsIFRpbWUnKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAjIHR5cGU6IGZsb2F0</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxvYyA9IExvY2FsaXphZG9yKHBpc289aW5zdGFuY2UpCiAgICBsb2Muc2F2ZSgpCg==</text>
