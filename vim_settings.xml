@@ -45,11 +45,11 @@
         <mark key="^" line="44" column="7" />
         <mark key="." line="44" column="7" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1505921226373">
-        <mark key="[" line="168" column="48" />
-        <mark key="]" line="169" column="3" />
-        <mark key="." line="169" column="3" />
-        <mark key="^" line="169" column="3" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1505928929811">
+        <mark key="[" line="79" column="4" />
+        <mark key="]" line="79" column="9" />
+        <mark key="." line="79" column="64" />
+        <mark key="^" line="79" column="9" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/tests/factories.py" timestamp="1503511458498">
         <mark key="[" line="40" column="44" />
@@ -301,11 +301,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/work/location_server/localizadores/algoritmos/base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9iamVjdHM6IG1vZGVscy5RdWVyeVNldCAgIyBQZXF1ZW5vIGhhY2sgcGFyYSBhanVkYXIgYSBJREUK</text>
+      <register name="&quot;" type="4">
+        <text>processo</text>
       </register>
       <register name="-" type="4">
-        <text>Permissao</text>
+        <text>processo</text>
       </register>
       <register name="/" type="4">
         <text>name=</text>
