@@ -45,8 +45,8 @@
         <mark key="^" line="44" column="7" />
         <mark key="." line="44" column="7" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1505930929945">
-        <mark key="[" line="135" column="35" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1505932624711">
+        <mark key="[" line="136" column="39" />
         <mark key="]" line="136" column="37" />
         <mark key="^" line="136" column="37" />
         <mark key="." line="136" column="37" />
@@ -145,8 +145,12 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" timestamp="1505932103937">
-        <mark key="[" line="0" column="23" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" timestamp="1505932981947">
+        <mark key="e" line="5" column="4" />
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="4" column="58" />
+        <mark key="^" line="4" column="58" />
+        <mark key="." line="4" column="58" />
       </file>
       <file name="/Dummy.txt" timestamp="1503513734460">
         <mark key="[" line="0" column="0" />
@@ -304,11 +308,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/work/location_server/localizadores/algoritmos/base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJFU1VMVEFETyA9ICdyZXN1bHRhZG8nCg==</text>
+      <register name="&quot;" type="4">
+        <text>.models import InstanciaProcesso</text>
       </register>
       <register name="-" type="4">
-        <text>, RESULTADO</text>
+        <text>.models import InstanciaProcesso</text>
       </register>
       <register name="/" type="4">
         <text>name=</text>
