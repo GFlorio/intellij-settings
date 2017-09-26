@@ -145,12 +145,12 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" timestamp="1506383029720">
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" timestamp="1506384845474">
         <mark key="e" line="6" column="4" />
-        <mark key="[" line="21" column="49" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="21" column="46" />
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1503513734460">
         <mark key="[" line="0" column="0" />
@@ -308,11 +308,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/work/location_server/localizadores/algoritmos/base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>instancia</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>instancia</text>
       </register>
       <register name="/" type="4">
         <text>name=</text>
