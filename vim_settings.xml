@@ -45,11 +45,11 @@
         <mark key="^" line="44" column="7" />
         <mark key="." line="44" column="7" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1505932624711">
-        <mark key="[" line="136" column="39" />
-        <mark key="]" line="136" column="37" />
-        <mark key="^" line="136" column="37" />
-        <mark key="." line="136" column="37" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1506425546025">
+        <mark key="[" line="141" column="32" />
+        <mark key="]" line="142" column="33" />
+        <mark key="." line="142" column="33" />
+        <mark key="^" line="142" column="33" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/tests/factories.py" timestamp="1503511458498">
         <mark key="[" line="40" column="44" />
@@ -145,12 +145,12 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" timestamp="1506384845474">
-        <mark key="e" line="6" column="4" />
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-        <mark key="^" line="6" column="18" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" timestamp="1506425808287">
+        <mark key="e" line="8" column="4" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="23" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1503513734460">
         <mark key="[" line="0" column="0" />
@@ -309,10 +309,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>instancia</text>
+        <text>instancia: models.InstanciaProcesso</text>
       </register>
       <register name="-" type="4">
-        <text>instancia</text>
+        <text>instancia: models.InstanciaProcesso</text>
       </register>
       <register name="/" type="4">
         <text>name=</text>
@@ -324,28 +324,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICd2YXInOiBsYW1iZGEgCg==</text>
+        <text encoding="base64">ICAgICAgICBzcGVjID0ganNvbi5sb2FkcyhzZWxmLmNhbGN1bG8pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICd2YXInOiBsYW1iZGEK</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHNwZWMsIHN0cik6Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGFkaWNhbyhhLCBiKToKICAgIHJldHVybiBhK2IKCgpkZWYgc3VidHJhY2FvKGEsIGIpOgogICAgcmV0dXJuIGEtYgoKCmRlZiBtdWx0aXBsaWNhY2FvKGEsIGIpOgogICAgcmV0dXJuIGEqYgo=</text>
+        <text encoding="base64">ICAgICd2YXInOiBsYW1iZGEgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBub2luc3BlY3Rpb24gUHlVbnVzZWRMb2NhbAo=</text>
+        <text encoding="base64">ICAgICd2YXInOiBsYW1iZGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJFU1VMVEFETyA9ICdyZXN1bHRhZG8nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAoUkVTVUxUQURPLCAnUmVzdWx0YWRvIGRvIHByb2Nlc3NvJyksCg==</text>
+        <text encoding="base64">ZGVmIGFkaWNhbyhhLCBiKToKICAgIHJldHVybiBhK2IKCgpkZWYgc3VidHJhY2FvKGEsIGIpOgogICAgcmV0dXJuIGEtYgoKCmRlZiBtdWx0aXBsaWNhY2FvKGEsIGIpOgogICAgcmV0dXJuIGEqYgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAoUkVTVUxUQURPLCAnUmVzdWx0YWRvIGRvIHByb2Nlc3NvJyksCg==</text>
+        <text encoding="base64">IyBub2luc3BlY3Rpb24gUHlVbnVzZWRMb2NhbAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
