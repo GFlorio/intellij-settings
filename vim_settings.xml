@@ -18,12 +18,12 @@
         <mark key="^" line="44" column="7" />
         <mark key="." line="44" column="7" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1506771303110">
-        <mark key="'" line="163" column="31" />
-        <mark key="[" line="101" column="53" />
-        <mark key="]" line="101" column="62" />
-        <mark key="^" line="101" column="62" />
-        <mark key="." line="101" column="62" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1506772640452">
+        <mark key="'" line="177" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="67" column="3" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1506526311618">
         <mark key="[" line="35" column="0" />
@@ -350,13 +350,21 @@
       <jump line="167" column="31" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="11" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/tests/test_manipulacao.py" />
       <jump line="46" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/tests/test_manipulacao.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="196" column="61" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="195" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="192" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="189" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="185" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="182" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="177" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>variaveis</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>variaveis</text>
+        <text>processo</text>
       </register>
       <register name="/" type="4">
         <text>instancia</text>
@@ -368,28 +376,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VElQT1MgPSAoCiAgICAoVGlwb1ZhcmlhdmVsLlRNUCwgJ1RlbXBvcmFsJyksCiAgICAoVGlwb1ZhcmlhdmVsLkRVUiwgJ0R1cmHDp8OjbycpLAogICAgKFRpcG9WYXJpYXZlbC5OVU0sICdOdW3DqXJpY2EnKSwKICAgIChUaXBvVmFyaWF2ZWwuT1JELCAnT3JkaW5hbCcpLAogICAgKFRpcG9WYXJpYXZlbC5DQVQsICdDYXRlZ8OzcmljYScpLAopCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiAiVmFyacOhdmVsIHt9IChpZCB7fSkiLmZvcm1hdChzZWxmLm5vbWUsIHNlbGYucGspCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgdW5pcXVlX3RvZ2V0aGVyID0gKCdub21lJywgJ3RhcmVmYScpCiAgICAgICAgIyBBIG9yZGVtIGRvIMOtbmRpY2UgaW1wb3J0YSEKICAgICAgICBpbmRleF90b2dldGhlciA9ICgndGFyZWZhJywgJ25vbWUnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBhdHVhbGl6YV9tb2RlbG8oc2VsZiwgcHJlZGl0b3IpOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHRhcmVmYTogVGFyZWZhID0gbW9kZWxzLkZvcmVpZ25LZXkoVGFyZWZhLCBtb2RlbHMuQ0FTQ0FERSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVsYXRlZF9uYW1lPSdyZXN1bHRhZG9zJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRhcmVmYTogVGFyZWZhID0gbW9kZWxzLkZvcmVpZ25LZXkoVGFyZWZhLCBtb2RlbHMuQ0FTQ0FERSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9iamVjdHM6IG1vZGVscy5RdWVyeVNldCAgIyBQZXF1ZW5vIGhhY2sgcGFyYSBhanVkYXIgYSBJREUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiAiVmFyacOhdmVsIHt9IChpZCB7fSkiLmZvcm1hdChzZWxmLm5vbWUsIHNlbGYucGspCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
