@@ -31,11 +31,12 @@
         <mark key="^" line="44" column="7" />
         <mark key="." line="44" column="7" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1506862323009">
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1506863958052">
         <mark key="'" line="17" column="21" />
-        <mark key="[" line="56" column="68" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+        <mark key="[" line="57" column="23" />
+        <mark key="]" line="57" column="42" />
+        <mark key="." line="57" column="42" />
+        <mark key="^" line="57" column="42" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1506526311618">
         <mark key="[" line="35" column="0" />
