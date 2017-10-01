@@ -31,12 +31,11 @@
         <mark key="^" line="44" column="7" />
         <mark key="." line="44" column="7" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1506861307369">
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1506862323009">
         <mark key="'" line="17" column="21" />
-        <mark key="[" line="58" column="30" />
-        <mark key="]" line="59" column="3" />
-        <mark key="^" line="59" column="3" />
-        <mark key="." line="59" column="3" />
+        <mark key="[" line="56" column="68" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1506526311618">
         <mark key="[" line="35" column="0" />
@@ -368,7 +367,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgUmVncmFGbHV4byhtb2RlbHMuTW9kZWwpOgoKCg==</text>
       </register>
       <register name="-" type="4">
         <text>.capitalize()</text>
@@ -380,31 +379,31 @@
         <text encoding="base64">QFRpcG9GYWN0b3J5LnRpcG9fcmVnaXN0cmFkbygnb3JkaW5hbCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgUmVncmFGbHV4byhtb2RlbHMuTW9kZWwpOgoKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsnVGlwb0ZhY3RvcnknLCAnVGlwb1ZhcmlhdmVsJ10K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGZ1bmNhbyA9IGZhY3RvcnkuTGF6eUF0dHJpYnV0ZShsYW1iZGEgb2JqOiBjaG9pY2UobW9kZWxzLlZhcmlhdmVsLkZVTkNPRVMpKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbGFnZW0ubWFuaXB1bGFjYW8uY29kaWZpY2FjYW8gaW1wb3J0IFRpcG9WYXJpYXZlbAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">X19hbGxfXyA9IFsnVGlwb0ZhY3RvcnknLCAnVGlwb1ZhcmlhdmVsJ10K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZ1bmNhbyA9IGZhY3RvcnkuTGF6eUF0dHJpYnV0ZShsYW1iZGEgb2JqOiBjaG9pY2UobW9kZWxzLlZhcmlhdmVsLkZVTkNPRVMpKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBtb2RlbGFnZW0ubWFuaXB1bGFjYW8uY29kaWZpY2FjYW8gaW1wb3J0IFRpcG9WYXJpYXZlbAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRJUE9TID0gKAogICAgICAgIChUaXBvVmFyaWF2ZWwuVE1QLCAnVGVtcG9yYWwnKSwKICAgICAgICAoVGlwb1ZhcmlhdmVsLkRVUiwgJ0R1cmHDp8OjbycpLAogICAgICAgIChUaXBvVmFyaWF2ZWwuTlVNLCAnTnVtw6lyaWNhJyksCiAgICAgICAgKFRpcG9WYXJpYXZlbC5PUkQsICdPcmRpbmFsJyksCiAgICAgICAgKFRpcG9WYXJpYXZlbC5DQVQsICdDYXRlZ8OzcmljYScpLAogICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHRpcG9fcmVnaXN0cmFkbyhub21lKTogcmV0dXJuIGxhbWJkYSBjbHM6IFRJUE9TLmFwcGVuZCgobm9tZSwgY2xzKSkK</text>
+        <text encoding="base64">ICAgIFRJUE9TID0gKAogICAgICAgIChUaXBvVmFyaWF2ZWwuVE1QLCAnVGVtcG9yYWwnKSwKICAgICAgICAoVGlwb1ZhcmlhdmVsLkRVUiwgJ0R1cmHDp8OjbycpLAogICAgICAgIChUaXBvVmFyaWF2ZWwuTlVNLCAnTnVtw6lyaWNhJyksCiAgICAgICAgKFRpcG9WYXJpYXZlbC5PUkQsICdPcmRpbmFsJyksCiAgICAgICAgKFRpcG9WYXJpYXZlbC5DQVQsICdDYXRlZ8OzcmljYScpLAogICAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VElQT1MgPSBbXQoKCg==</text>
+        <text encoding="base64">ZGVmIHRpcG9fcmVnaXN0cmFkbyhub21lKTogcmV0dXJuIGxhbWJkYSBjbHM6IFRJUE9TLmFwcGVuZCgobm9tZSwgY2xzKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QHRpcG9fcmVnaXN0cmFkbygiQWFhIikK</text>
+        <text encoding="base64">VElQT1MgPSBbXQoKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
