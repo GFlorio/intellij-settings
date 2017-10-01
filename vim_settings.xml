@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" timestamp="1506853111557">
-        <mark key="'" line="20" column="28" />
-        <mark key="[" line="112" column="8" />
-        <mark key="]" line="112" column="8" />
-        <mark key="^" line="115" column="19" />
-        <mark key="." line="112" column="8" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" timestamp="1506857741606">
+        <mark key="'" line="169" column="12" />
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1506524506994">
         <mark key="[" line="88" column="14" />
@@ -61,10 +61,10 @@
         <mark key="^" line="24" column="44" />
         <mark key="." line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/codificacao.py" timestamp="1506853004393">
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/codificacao.py" timestamp="1506855586892">
         <mark key="'" line="29" column="27" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="93" column="35" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="129" column="56" />
         <mark key="^" line="26" column="31" />
         <mark key="." line="26" column="31" />
       </file>
@@ -374,46 +374,48 @@
       <jump line="17" column="21" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="26" column="27" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/codificacao.py" />
       <jump line="14" column="28" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="11" column="2" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="163" column="12" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pass</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIHRpcG9fcmVnaXN0cmFkbyhub21lKTogcmV0dXJuIGxhbWJkYSBjbHM6IFRJUE9TLmFwcGVuZCgobm9tZSwgY2xzKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text encoding="base64">Y2xzLCA=</text>
       </register>
       <register name="/" type="4">
         <text>instancia</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcGFyc2VfZG9taW5pbyhzZWxmLCBkb21pbmlvOiBMaXN0KSAtPiBUdXBsZVtDYWxsYWJsZSwgT3B0aW9uYWxbU2V0XV06CiAgICAgICAgcmV0dXJuIGxhbWJkYSB4OiBUcnVlLCBOb25lCgogICAgZGVmIGRvbWluaW9fZmluaXRvKHNlbGYpIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfcGFyc2VfZG9taW5pbyhzZWxmLCBkb21pbmlvOiBMaXN0KSAtPiBUdXBsZVtDYWxsYWJsZSwgT3B0aW9uYWxbU2V0XV06CiAgICAgICAgaWYgbGVuKGRvbWluaW8pIDwgMjoKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignTyBkb23DrW5pbyBkZSB0aXBvIG9yZGluYWwgZGV2ZSB0ZXIgYW8gbWVub3MgMiBlbGVtZW50b3MhJykKICAgICAgICByZXR1cm4gbGFtYmRhIHg6IHggaW4gc2VsZi5kb21pbmlvLCBzZXQoZG9taW5pbykKCiAgICBkZWYgZG9taW5pb19maW5pdG8oc2VsZikgLT4gYm9vbDoKICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHRpcG9fcmVnaXN0cmFkbyhub21lKTogcmV0dXJuIGxhbWJkYSBjbHM6IFRJUE9TLmFwcGVuZCgobm9tZSwgY2xzKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcGFyc2VfZG9taW5pbyhzZWxmLCBkb21pbmlvOiBMaXN0KSAtPiBUdXBsZVtDYWxsYWJsZSwgT3B0aW9uYWxbU2V0XV06CiAgICAgICAgcGFzcwoKICAgIGRlZiBkb21pbmlvX2Zpbml0byhzZWxmKSAtPiBib29sOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">VElQT1MgPSBbXQoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHRpcG9fcmVnaXN0cmFkbygiQWFhIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBpc284NjAxIGltcG9ydCBwYXJzZV9kYXRlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">dGlwb3MgPSAoCiAgICAKKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLnZldG9yaXphZG9yID0gRGljdFZlY3Rvcml6ZXIoc3BhcnNlPUZhbHNlKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcGFyc2VfZG9taW5pbyhzZWxmLCBkb21pbmlvOiBMaXN0KSAtPiBUdXBsZVtDYWxsYWJsZSwgT3B0aW9uYWxbU2V0XV06CiAgICAgICAgcGFzcwoKICAgIGRlZiBkb21pbmlvX2Zpbml0byhzZWxmKSAtPiBib29sOgogICAgICAgIHBhc3MKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGlwb3MgPSBbXQp0aXBvc19jaG9pY2VzID0gW10gICMgUGFyYSB1c28gbm8gY2FtcG8gImNob2ljZXMiIGRvcyBtb2RlbHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
