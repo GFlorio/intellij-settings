@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" timestamp="1506807021368">
-        <mark key="'" line="25" column="28" />
-        <mark key="[" line="10" column="62" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="23" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" timestamp="1506853111557">
+        <mark key="'" line="20" column="28" />
+        <mark key="[" line="112" column="8" />
+        <mark key="]" line="112" column="8" />
+        <mark key="^" line="115" column="19" />
+        <mark key="." line="112" column="8" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1506524506994">
         <mark key="[" line="88" column="14" />
@@ -61,10 +61,10 @@
         <mark key="^" line="24" column="44" />
         <mark key="." line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/codificacao.py" timestamp="1506794567843">
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/codificacao.py" timestamp="1506853004393">
         <mark key="'" line="29" column="27" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="25" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="93" column="35" />
         <mark key="^" line="26" column="31" />
         <mark key="." line="26" column="31" />
       </file>
@@ -376,44 +376,44 @@
       <jump line="14" column="28" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlcihuZXdjbGFzcykgICMgaGVyZSBpcyB5b3VyIHJlZ2lzdGVyIGZ1bmN0aW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>instancia</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRpcG9fbmF0aXZvOiB0eXBlID0gTm9uZQogICAgdGlwb19qc29uOiB0eXBlID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfcGFyc2VfZG9taW5pbyhzZWxmLCBkb21pbmlvOiBMaXN0KSAtPiBUdXBsZVtDYWxsYWJsZSwgT3B0aW9uYWxbU2V0XV06CiAgICAgICAgcmV0dXJuIGxhbWJkYSB4OiBUcnVlLCBOb25lCgogICAgZGVmIGRvbWluaW9fZmluaXRvKHNlbGYpIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlcihuZXdjbGFzcykgICMgaGVyZSBpcyB5b3VyIHJlZ2lzdGVyIGZ1bmN0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfcGFyc2VfZG9taW5pbyhzZWxmLCBkb21pbmlvOiBMaXN0KSAtPiBUdXBsZVtDYWxsYWJsZSwgT3B0aW9uYWxbU2V0XV06CiAgICAgICAgcGFzcwoKICAgIGRlZiBkb21pbmlvX2Zpbml0byhzZWxmKSAtPiBib29sOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcGFyc2VfZG9taW5pbyhzZWxmKToKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ZnJvbSBpc284NjAxIGltcG9ydCBwYXJzZV9kYXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcGFyc2VfZG9taW5pbyhzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0b18K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQ29kaWZpY2Fkb3JCb29sZWFubyhDb2RpZmljYWRvcik6CiAgICB0aXBvX25hdGl2byA9IGJvb2wKICAgIHRpcG9fanNvbiA9IGJvb2wKCgo=</text>
+        <text encoding="base64">ICAgIGRlZiBfcGFyc2VfZG9taW5pbyhzZWxmLCBkb21pbmlvOiBMaXN0KSAtPiBUdXBsZVtDYWxsYWJsZSwgT3B0aW9uYWxbU2V0XV06CiAgICAgICAgcGFzcwoKICAgIGRlZiBkb21pbmlvX2Zpbml0byhzZWxmKSAtPiBib29sOgogICAgICAgIHBhc3MKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGlwb3MgPSBbXQp0aXBvc19jaG9pY2VzID0gW10gICMgUGFyYSB1c28gbm8gY2FtcG8gImNob2ljZXMiIGRvcyBtb2RlbHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
