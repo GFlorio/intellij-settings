@@ -196,11 +196,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/ativacao.py" timestamp="1506870083817">
-        <mark key="[" line="23" column="31" />
-        <mark key="]" line="23" column="31" />
-        <mark key="." line="23" column="31" />
-        <mark key="^" line="23" column="31" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/ativacao.py" timestamp="1506871772654">
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="38" column="22" />
+        <mark key="." line="38" column="22" />
+        <mark key="^" line="38" column="22" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/services.py" timestamp="1501776692471">
         <mark key="[" line="29" column="29" />
@@ -238,10 +238,10 @@
         <mark key="^" line="58" column="34" />
         <mark key="." line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" timestamp="1506775670178">
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" timestamp="1506871750764">
         <mark key="e" line="7" column="4" />
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="23" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="45" column="36" />
         <mark key="." line="7" column="23" />
         <mark key="^" line="22" column="64" />
       </file>
@@ -374,51 +374,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>class TipoEvento(Enum):
-    habilitacao = 'habilitacao'
-    inicio = 'inicio'
-    termino = 'termino'</text>
+        <text>operacoes</text>
       </register>
       <register name="-" type="4">
-        <text>TypedEnum</text>
+        <text>operacoes</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFRpcG9GYWN0b3J5LnRpcG9fcmVnaXN0cmFkbygnb3JkaW5hbCcpCg==</text>
+        <text encoding="base64">ZGVmIGNvbXBpbGEoc2ltYm9sb3M6IExpc3Rbc3RyXSkgLT4gQ2FsbGFibGVbW0RpY3Rbc3RyLCBmbG9hdF1dLCBmbG9hdF06CiAgICAiIiIKICAgIENvbXBpbGEgdW1hIHBpbGhhIGRlIHPDrW1ib2xvcyBlbSB1bWEgZnVuw6fDo28gcXVlIGNhbGN1bGEgdW0gaW5kaWNhZG9yIHBhcmEgdW0gZGFkbwogICAgY29udGV4dG8uIFBvciBjb250ZXh0bywgZW50ZW5kYS1zZSB1bSBkaWN0IGRlIHN0ci0+ZmxvYXQtbGlrZS4KCiAgICA6cGFyYW0gc2ltYm9sb3M6IFVtYSBwaWxoYSBkZSBzdHJpbmdzLCBjYWRhIHVtYSByZXByZXNlbnRhbmRvIHVtIHNpbWJvbG8gcGFyYSBjb21waWxhw6fDo28uCiAgICA6cmV0dXJuOiBVbWEgZnVuw6fDo28gcXVlIGNhbGN1bGEgdW1hIGV4cHJlc3PDo28gcGFyYSB1bSBkYWRvIGNvbnRleHRvLgogICAgIiIiCiAgICBwcm94X3NpbWJvbG8gPSBzaW1ib2xvcy5wb3AoMCkKICAgIHRyeToKICAgICAgICAjIFNlIHB1ZGVyIHNlciBjb252ZXJ0aWRvIHByYSBmbG9hdCwgw6kgdW1hIGNvbnN0YW50ZQogICAgICAgIHByb3hfc2ltYm9sbyA9IGZsb2F0KHByb3hfc2ltYm9sbykKICAgICAgICByZXR1cm4gbGFtYmRhIGNvbnRleHRvOiBwcm94X3NpbWJvbG8KICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgIHBhc3MKICAgIHRyeToKICAgICAgICAjIFNlIGZvciB1bWEgb3BlcmFjYW8sIHJlc29sdmlkbwogICAgICAgIG9wID0gb3BlcmFjb2VzW3Byb3hfc2ltYm9sb10KICAgICAgICBwYXJhbXMgPSBpbnNwZWN0LnNpZ25hdHVyZShvcCkKICAgICAgICAjIENvbXBpbGEgY2FkYSB1bSBkb3MgYXJndW1lbnRvcyAoYXJncyB2YWkgc2VyIHVtYSBsaXN0YSBkZSBmdW7Dp8O1ZXMpCiAgICAgICAgYXJncyA9IFtjb21waWxhKHNpbWJvbG9zKSBmb3IgXyBpbiBwYXJhbXNdCiAgICAgICAgIyBBIGZ1bsOnw6NvIHJldG9ybmFkYSBkZXZlIGNoYW1hciBhcyBmdW7Dp8O1ZXMgZG9zIGFyZ3VtZW50b3MgZQogICAgICAgICMgIHVzYXIgb3MgcmVzdWx0YWRvcyBuYSBvcGVyYcOnw6NvLgogICAgICAgIHJldHVybiBsYW1iZGEgY29udGV4dG86IG9wKCpbZihjb250ZXh0bykgZm9yIGYgaW4gYXJnc10pCiAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgIyBDYXNvIGNvbnRyw6FyaW8sIHByZWNpc2Egc2VyIHVtYSB2YXJpw6F2ZWwKICAgICAgICByZXR1cm4gdmFyaWF2ZWwocHJveF9zaW1ib2xvKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">c2luYWlzID0gewogICAgVGlwb0V2ZW50by5oYWJpbGl0YWNhbzogU2lnbmFsKCksCiAgICBUaXBvRXZlbnRvLmluaWNpbzogU2lnbmFsKCksCiAgICBUaXBvRXZlbnRvLnRlcm1pbm86IFNpZ25hbCgpCn0K</text>
+      </register>
+      <register name="2" type="4">
         <text>class TipoEvento(Enum):
     habilitacao = 'habilitacao'
     inicio = 'inicio'
     termino = 'termino'</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>eventos = {
     
 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHJlZ3JhX2F0aXZhY2FvOiBzdHIgPSBtb2RlbHMuVGV4dEZpZWxkKCkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICdURVJNSU5PVSc6IAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICc+JzogbGFtYmRhIGEsIGI6IGEgPiBiLAogICAgJzwnOiBsYW1iZGEgYSwgYjogYSA8IGIsCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y2xhc3MgUmVncmFGbHV4byhtb2RlbHMuTW9kZWwpOgoKCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsnVGlwb0ZhY3RvcnknLCAnVGlwb1ZhcmlhdmVsJ10K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1bmNhbyA9IGZhY3RvcnkuTGF6eUF0dHJpYnV0ZShsYW1iZGEgb2JqOiBjaG9pY2UobW9kZWxzLlZhcmlhdmVsLkZVTkNPRVMpKQo=</text>
+        <text encoding="base64">X19hbGxfXyA9IFsnVGlwb0ZhY3RvcnknLCAnVGlwb1ZhcmlhdmVsJ10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
