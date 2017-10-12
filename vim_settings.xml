@@ -3,13 +3,168 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1504205553996">
-        <mark key="[" line="129" column="53" />
-        <mark key="]" line="129" column="68" />
-        <mark key="." line="129" column="53" />
-        <mark key="^" line="128" column="66" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" timestamp="1506860313259">
+        <mark key="'" line="176" column="46" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="n" line="145" column="36" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1503525705866">
+      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1507739155618">
+        <mark key="'" line="1" column="10" />
+        <mark key="[" line="58" column="47" />
+        <mark key="]" line="56" column="53" />
+        <mark key="." line="58" column="54" />
+        <mark key="^" line="56" column="53" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipos.py" timestamp="1506790549424">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+      </file>
+      <file name="/a.dummy" timestamp="1506790555807">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/location_server/mq.py" timestamp="1507143021643">
+        <mark key="[" line="58" column="69" />
+        <mark key="]" line="58" column="77" />
+        <mark key="." line="58" column="77" />
+        <mark key="^" line="58" column="77" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1507314419458">
+        <mark key="'" line="18" column="21" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="." line="188" column="0" />
+        <mark key="^" line="210" column="70" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1506526311618">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="37" column="51" />
+        <mark key="." line="32" column="77" />
+        <mark key="^" line="32" column="77" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/localizadores/controle.py" timestamp="1507738959090">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="48" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/places/models.py" timestamp="1506524558369">
+        <mark key="[" line="80" column="44" />
+        <mark key="]" line="80" column="58" />
+        <mark key="^" line="80" column="58" />
+        <mark key="." line="80" column="58" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/equipamento_proximo.py" timestamp="1506525677132">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="24" column="17" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/modelagem/factories.py" timestamp="1503500468562">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="44" />
+        <mark key="^" line="24" column="44" />
+        <mark key="." line="24" column="44" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/codificacao.py" timestamp="1506855586892">
+        <mark key="'" line="29" column="27" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="129" column="56" />
+        <mark key="^" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/modelagem/signals.py" timestamp="1506859683165">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/location_server/urls.py" timestamp="1502224898985">
+        <mark key="[" line="28" column="56" />
+        <mark key="]" line="28" column="79" />
+        <mark key="." line="28" column="79" />
+        <mark key="^" line="28" column="79" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/ansible/group_vars/stage.yml" timestamp="1502293957043">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="25" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/modelagem/demanda.py" timestamp="1502041754017">
+        <mark key="[" line="43" column="14" />
+        <mark key="]" line="43" column="14" />
+        <mark key="." line="43" column="14" />
+        <mark key="^" line="43" column="14" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/localizadores/treinamento.py" timestamp="1504049253821">
+        <mark key="[" line="43" column="100" />
+        <mark key="]" line="45" column="18" />
+        <mark key="." line="45" column="18" />
+        <mark key="^" line="45" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/c_boosting.py" timestamp="1504103167234">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="17" />
+        <mark key="^" line="49" column="19" />
+        <mark key="." line="49" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/modelagem/estrategias/correlacao.py" timestamp="1502031676845">
+        <mark key="[" line="2" column="55" />
+        <mark key="]" line="2" column="55" />
+        <mark key="." line="2" column="55" />
+        <mark key="^" line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/places/tests.py" timestamp="1507738576228">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/worker.py" timestamp="1507142945685">
+        <mark key="[" line="14" column="49" />
+        <mark key="]" line="14" column="49" />
+        <mark key="." line="14" column="49" />
+        <mark key="^" line="16" column="48" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/multilateracao.py" timestamp="1502984967357">
+        <mark key="[" line="5" column="54" />
+        <mark key="]" line="5" column="59" />
+        <mark key="^" line="5" column="59" />
+        <mark key="." line="5" column="59" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/modelagem/tests/test_manipulacao.py" timestamp="1506716524769">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="55" column="20" />
+        <mark key="]" line="55" column="27" />
+        <mark key="." line="55" column="27" />
+        <mark key="^" line="55" column="27" />
+      </file>
+      <file name="/" timestamp="1502999816397">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" timestamp="1502232281854">
+        <mark key="[" line="51" column="45" />
+        <mark key="]" line="51" column="49" />
+        <mark key="^" line="51" column="49" />
+        <mark key="." line="51" column="49" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/agregacao.py" timestamp="1503526061481">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="32" column="37" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/recursos/services.py" timestamp="1502998320398">
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="28" />
+        <mark key="." line="54" column="28" />
+        <mark key="^" line="54" column="28" />
+      </file>
+      <file name="/Python Console" timestamp="1507738976395">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/location_server/recursos/admin.py" timestamp="1502722200507">
@@ -30,38 +185,17 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="/a.dummy" timestamp="1503510914217">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/location_server/localizadores/services.py" timestamp="1503082183465">
         <mark key="[" line="48" column="39" />
         <mark key="]" line="48" column="44" />
         <mark key="^" line="48" column="44" />
         <mark key="." line="48" column="44" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/mq.py" timestamp="1502228862178">
-        <mark key="[" line="44" column="8" />
-        <mark key="]" line="44" column="7" />
-        <mark key="^" line="44" column="7" />
-        <mark key="." line="44" column="7" />
-      </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1503514587791">
-        <mark key="[" line="85" column="72" />
-        <mark key="]" line="71" column="33" />
-        <mark key="." line="71" column="33" />
-        <mark key="^" line="71" column="33" />
-      </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/tests/factories.py" timestamp="1503511458498">
-        <mark key="[" line="40" column="44" />
-        <mark key="]" line="40" column="47" />
-        <mark key="." line="40" column="47" />
-        <mark key="^" line="40" column="47" />
-      </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1504108504223">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="77" />
-        <mark key="." line="32" column="77" />
-        <mark key="^" line="32" column="77" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/tests/factories.py" timestamp="1506859790309">
+        <mark key="[" line="22" column="83" />
+        <mark key="]" line="22" column="83" />
+        <mark key="." line="22" column="83" />
+        <mark key="^" line="22" column="87" />
       </file>
       <file name="$USER_HOME$/work/location_server/recursos/tasks.py" timestamp="1503519911958">
         <mark key="[" line="37" column="0" />
@@ -69,22 +203,17 @@
         <mark key="^" line="23" column="48" />
         <mark key="." line="37" column="8" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/factories.py" timestamp="1503500468562">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="44" />
-        <mark key="^" line="24" column="44" />
-        <mark key="." line="24" column="44" />
+      <file name="$USER_HOME$/work/location_server/places/signals.py" timestamp="1507738490690">
+        <mark key="[" line="14" column="54" />
+        <mark key="]" line="14" column="54" />
+        <mark key="." line="14" column="54" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/codificacao.py" timestamp="1503525692560">
-        <mark key="[" line="63" column="51" />
-        <mark key="]" line="63" column="51" />
-        <mark key="^" line="63" column="43" />
-        <mark key="." line="63" column="51" />
-      </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/tests/test_predicao.py" timestamp="1503526852117">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/ativacao.py" timestamp="1506872744580">
+        <mark key="p" line="21" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="6" />
+        <mark key="." line="21" column="6" />
+        <mark key="^" line="21" column="6" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/services.py" timestamp="1501776692471">
         <mark key="[" line="29" column="29" />
@@ -104,22 +233,17 @@
         <mark key="." line="29" column="45" />
         <mark key="^" line="29" column="45" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/serializers.py" timestamp="1503510531357">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/work/location_server/recursos/models.py" timestamp="1502736215293">
         <mark key="[" line="120" column="0" />
         <mark key="]" line="121" column="26" />
         <mark key="." line="121" column="26" />
         <mark key="^" line="121" column="26" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/signals.py" timestamp="1503425616899">
-        <mark key="[" line="22" column="77" />
-        <mark key="]" line="11" column="55" />
-        <mark key="." line="22" column="80" />
-        <mark key="^" line="11" column="55" />
+      <file name="$USER_HOME$/work/location_server/localizadores/views.py" timestamp="1507739740458">
+        <mark key="[" line="76" column="49" />
+        <mark key="]" line="77" column="23" />
+        <mark key="^" line="77" column="23" />
+        <mark key="." line="77" column="23" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/kalman.py" timestamp="1503081735321">
         <mark key="[" line="52" column="27" />
@@ -133,50 +257,22 @@
         <mark key="^" line="58" column="34" />
         <mark key="." line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/urls.py" timestamp="1502224898985">
-        <mark key="[" line="28" column="56" />
-        <mark key="]" line="28" column="79" />
-        <mark key="." line="28" column="79" />
-        <mark key="^" line="28" column="79" />
-      </file>
-      <file name="$USER_HOME$/work/location_server/ansible/group_vars/stage.yml" timestamp="1502293957043">
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="25" />
-        <mark key="." line="20" column="25" />
-        <mark key="^" line="20" column="25" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" timestamp="1506872780310">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1503513734460">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/demanda.py" timestamp="1502041754017">
-        <mark key="[" line="43" column="14" />
-        <mark key="]" line="43" column="14" />
-        <mark key="." line="43" column="14" />
-        <mark key="^" line="43" column="14" />
+      <file name="$USER_HOME$/work/location_server/localizadores/tests.py" timestamp="1507738546842">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/tests.py" timestamp="1502995658434">
-        <mark key="[" line="51" column="33" />
-        <mark key="]" line="51" column="41" />
-        <mark key="." line="51" column="41" />
-        <mark key="^" line="51" column="41" />
-      </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/treinamento.py" timestamp="1504049253821">
-        <mark key="[" line="43" column="100" />
-        <mark key="]" line="45" column="18" />
-        <mark key="." line="45" column="18" />
-        <mark key="^" line="45" column="18" />
-      </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/c_boosting.py" timestamp="1504103167234">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="49" column="17" />
-        <mark key="^" line="49" column="19" />
-        <mark key="." line="49" column="18" />
-      </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/estrategias/correlacao.py" timestamp="1502031676845">
-        <mark key="[" line="2" column="55" />
-        <mark key="]" line="2" column="55" />
-        <mark key="." line="2" column="55" />
-        <mark key="^" line="9" column="16" />
+      <file name="/code.py" timestamp="1506625348133">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_fingerprints.py" timestamp="1502231787372">
         <mark key="[" line="103" column="0" />
@@ -184,27 +280,17 @@
         <mark key="^" line="66" column="42" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/worker.py" timestamp="1503520887851">
-        <mark key="[" line="63" column="49" />
-        <mark key="]" line="63" column="54" />
-        <mark key="." line="63" column="54" />
-        <mark key="^" line="63" column="54" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/polonesa.py" timestamp="1506872810340">
+        <mark key="[" line="19" column="69" />
+        <mark key="]" line="19" column="71" />
+        <mark key="." line="19" column="71" />
+        <mark key="^" line="19" column="71" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/multilateracao.py" timestamp="1502984967357">
-        <mark key="[" line="5" column="54" />
-        <mark key="]" line="5" column="59" />
-        <mark key="^" line="5" column="59" />
-        <mark key="." line="5" column="59" />
-      </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/tests/test_manipulacao.py" timestamp="1503526853620">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/aceita_primeiro.py" timestamp="1503080465490">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/admin.py" timestamp="1507303441792">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="26" />
+        <mark key="^" line="19" column="26" />
+        <mark key="." line="19" column="26" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/tests.py" timestamp="1503500704017">
         <mark key="[" line="10" column="44" />
@@ -212,8 +298,11 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="10" column="44" />
       </file>
-      <file name="/" timestamp="1502999816397">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/location_server/localizadores/admin.py" timestamp="1507736267352">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="22" />
       </file>
       <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" timestamp="1503003559314">
         <mark key="[" line="28" column="78" />
@@ -221,28 +310,11 @@
         <mark key="^" line="28" column="80" />
         <mark key="." line="28" column="80" />
       </file>
-      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" timestamp="1502232281854">
-        <mark key="[" line="51" column="45" />
-        <mark key="]" line="51" column="49" />
-        <mark key="^" line="51" column="49" />
-        <mark key="." line="51" column="49" />
-      </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/agregacao.py" timestamp="1503526061481">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="32" column="37" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="$USER_HOME$/work/location_server/recursos/views.py" timestamp="1502314495798">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="14" column="61" />
-      </file>
-      <file name="$USER_HOME$/work/location_server/places/tasks.py" timestamp="1503519888458">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/fusao_simples.py" timestamp="1503080017383">
         <mark key="[" line="13" column="0" />
@@ -261,12 +333,6 @@
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/work/location_server/recursos/services.py" timestamp="1502998320398">
-        <mark key="[" line="54" column="18" />
-        <mark key="]" line="54" column="28" />
-        <mark key="." line="54" column="28" />
-        <mark key="^" line="54" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -299,55 +365,93 @@
       <jump line="12" column="39" filename="$USER_HOME$/work/location_server/README.md" />
       <jump line="351" column="0" filename="$USER_HOME$/work/location_server/README.md" />
       <jump line="3" column="0" filename="$USER_HOME$/work/location_server/localizadores/algoritmos/base.py" />
+      <jump line="36" column="8" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" />
+      <jump line="36" column="6" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="102" column="23" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="106" column="15" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="110" column="67" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="142" column="22" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="144" column="25" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="167" column="31" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/tests/test_manipulacao.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/tests/test_manipulacao.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="196" column="61" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="195" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="192" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="189" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="185" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="182" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="177" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="17" column="21" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="26" column="27" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/codificacao.py" />
+      <jump line="11" column="2" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="163" column="12" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="14" column="27" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="129" column="37" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="143" column="36" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="144" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="157" column="39" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="158" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="166" column="32" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="174" column="46" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="45" column="19" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/ativacao.py" />
+      <jump line="1" column="10" filename="$USER_HOME$/work/location_server/localizadores/models.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/work/location_server/places/tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAjIHR5cGU6IGZsb2F0</text>
+        <text>intervalo_background</text>
       </register>
       <register name="-" type="4">
-        <text>intervalo_real_time</text>
+        <text>intervalo_background</text>
       </register>
       <register name="/" type="4">
-        <text>name=</text>
+        <text>class</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAjIHR5cGU6IGZsb2F0</text>
+        <text>intervalo_background</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvYyA9IExvY2FsaXphZG9yKHBpc289aW5zdGFuY2UpCiAgICBsb2Muc2F2ZSgpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBjcmVhdGVkOgogICAgICAgIHJldHVybgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBub2luc3BlY3Rpb24gUHlNZXRob2RNYXlCZVN0YXRpYwpjbGFzcyBQb2lFcXVpcGFtZW50b1Rlc3RDYXNlKFRlc3RDYXNlKToKICAgIGRlZiB0ZXN0X2NyaWFyX2VxdWlwYW1lbnRvX2NyaWFfcG9pKHNlbGYpOgogICAgICAgIHRyeToKICAgICAgICAgICAgUG9udG9JbnRlcmVzc2Uub2JqZWN0cy5nZXQocGs9ZXEucGspCiAgICAgICAgZXhjZXB0IFBvbnRvSW50ZXJlc3NlLkRvZXNOb3RFeGlzdDoKICAgICAgICAgICAgcmFpc2UgQXNzZXJ0aW9uRXJyb3IoJ0VxdWlwYW1lbnRvIG7Do28gY3JpYWRvIScpCgogICAgZGVmIHRlc3RfZWRpdGFyX2VxdWlwYW1lbnRvX2VkaXRhX3BvaShzZWxmKToKICAgICAgICBwb2kgPSBQb250b0ludGVyZXNzZS5vYmplY3RzLmdldChwaz1lcS5waykKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHBvaS5sYXQsIGVxLmxhdCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHBvaS5sbmcsIGVxLmxuZykKCiAgICBkZWYgdGVzdF9hcGFnYXJfZXF1aXBhbWVudG9fYXBhZ2FfcG9pKHNlbGYpOgogICAgICAgIGVxID0gRXF1aXBhbWVudG9GYWN0b3J5KCkKICAgICAgICBlcS5zYXZlKCkKICAgICAgICBwb2kgPSBQb250b0ludGVyZXNzZS5vYmplY3RzLmdldChwaz1lcS5waykKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHBvaS5kZWxldGUoKVswXSwgMSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHBvaS5kZWxldGUoKVswXSwgMCkKCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlcS5zYXZlKCkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbmRpY2VzX2ZlYXR1cmVzKHNlbGYpIC0+IEl0ZXJhYmxlW1R1cGxlW2ludCwgaW50XV06CiAgICAgICAgcmV0dXJuIHNlbGYuaW5kaWNlcwo=</text>
+        <text encoding="base64">ICAgICAgICBlcS5sbmcgLT0gMy4wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICBlcS5sYXQgKz0gMi4wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdDoKICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCdFcnJvIHByb2Nlc3NhbmRvIG1lbnNhZ2VtIGRlIGF0dWFsaXphw6fDo28gZGUgRXF1aXBhbWVudG8hJywKICAgICAgICAgICAgICAgICAgICAgICAgIGV4dHJhPWNhbXBvcykKICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">ICAgICAgICBlcS5zYXZlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdDoKICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCJFcnJvIHByb2Nlc3NhbmRvIG1lbnNhZ2VtIGRlIGF0dWFsaXphw6fDo28gZGUgR2VvZmVuY2UhIiwKICAgICAgICAgICAgICAgICAgICAgICAgIGV4dHJhPWNhbXBvcykKICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">ICAgICAgICBlcSA9IEVxdWlwYW1lbnRvRmFjdG9yeSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICBlcS5zYXZlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdDoKICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCJFcnJvIHByb2Nlc3NhbmRvIG1lbnNhZ2VtIGRlIGF0dWFsaXphw6fDo28gZGUgVW5pZGFkZSEiLAogICAgICAgICAgICAgICAgICAgICAgICAgZXh0cmE9Y2FtcG9zKQogICAgICAgIHJhaXNlCg==</text>
+        <text encoding="base64">ICAgICAgICBlcSA9IEVxdWlwYW1lbnRvRmFjdG9yeSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>name=</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>name=</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>-</last-replace>
       <last-substitute>_</last-substitute>
       <last-dir>1</last-dir>
@@ -368,6 +472,8 @@
         <entry encoding="base64">XDxhXD4=</entry>
         <entry>_</entry>
         <entry>name=</entry>
+        <entry>instancia</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
