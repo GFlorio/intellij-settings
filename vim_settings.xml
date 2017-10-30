@@ -310,8 +310,11 @@
         <mark key="^" line="28" column="80" />
         <mark key="." line="28" column="80" />
       </file>
-      <file name="$USER_HOME$/poli/tcc/alcatraz/services.py" timestamp="1509397649704">
-        <mark key="[" line="0" column="23" />
+      <file name="$USER_HOME$/poli/tcc/alcatraz/services.py" timestamp="1509402324358">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="2" column="47" />
+        <mark key="^" line="2" column="47" />
+        <mark key="." line="2" column="47" />
       </file>
       <file name="$USER_HOME$/work/location_server/recursos/views.py" timestamp="1502314495798">
         <mark key="[" line="46" column="0" />
