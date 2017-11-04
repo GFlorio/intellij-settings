@@ -31,12 +31,12 @@
         <mark key="." line="58" column="77" />
         <mark key="^" line="58" column="77" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1509802031534">
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1509803196118">
         <mark key="'" line="45" column="38" />
-        <mark key="[" line="65" column="71" />
-        <mark key="]" line="66" column="49" />
-        <mark key="." line="66" column="49" />
-        <mark key="^" line="66" column="49" />
+        <mark key="[" line="74" column="4" />
+        <mark key="]" line="74" column="3" />
+        <mark key="." line="74" column="3" />
+        <mark key="^" line="74" column="3" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1509546224478">
         <mark key="[" line="14" column="0" />
@@ -434,11 +434,11 @@
       <jump line="45" column="38" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJFU1VMVEFETyA9ICdyZXN1bHRhZG8nCiAgICBERU1BTkRBID0gJ2RlbWFuZGEnCiAgICBDT05UUk9MRSA9ICdjb250cm9sZScK</text>
+      <register name="&quot;" type="4">
+        <text>valores_aceitaveis</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3NlcyA9IA==</text>
+        <text>valores_aceitaveis</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
