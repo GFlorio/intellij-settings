@@ -24,11 +24,11 @@
         <mark key="." line="58" column="77" />
         <mark key="^" line="58" column="77" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1509918850112">
-        <mark key="[" line="30" column="59" />
-        <mark key="]" line="30" column="24" />
-        <mark key="." line="30" column="24" />
-        <mark key="^" line="30" column="24" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1509921093719">
+        <mark key="[" line="40" column="47" />
+        <mark key="]" line="40" column="85" />
+        <mark key="." line="40" column="85" />
+        <mark key="^" line="40" column="85" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1509546224478">
         <mark key="[" line="14" column="0" />
@@ -416,10 +416,24 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>eventos</text>
+      </register>
+      <register name="l" type="4">
+        <keys>
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>eventos</text>
       </register>
       <register name="/" type="4">
         <text>var.tipo</text>
