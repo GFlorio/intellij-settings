@@ -24,11 +24,11 @@
         <mark key="." line="58" column="77" />
         <mark key="^" line="58" column="77" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1509916544401">
-        <mark key="[" line="28" column="47" />
-        <mark key="]" line="29" column="37" />
-        <mark key="." line="29" column="37" />
-        <mark key="^" line="29" column="37" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1509917781043">
+        <mark key="[" line="33" column="89" />
+        <mark key="]" line="33" column="13" />
+        <mark key="." line="33" column="13" />
+        <mark key="^" line="33" column="12" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1509546224478">
         <mark key="[" line="14" column="0" />
@@ -416,10 +416,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.order_by('timestamp')</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.order_by('timestamp')</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>var.tipo</text>
