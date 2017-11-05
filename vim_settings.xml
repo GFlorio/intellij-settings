@@ -24,11 +24,11 @@
         <mark key="." line="58" column="77" />
         <mark key="^" line="58" column="77" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1509923083350">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="45" column="7" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1509923987939">
+        <mark key="[" line="55" column="65" />
+        <mark key="]" line="55" column="63" />
+        <mark key="." line="55" column="63" />
+        <mark key="^" line="55" column="63" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1509546224478">
         <mark key="[" line="14" column="0" />
@@ -433,7 +433,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGxvZ3MgPSBsb2dz</text>
+        <text>df.pivot()</text>
       </register>
       <register name="/" type="4">
         <text>var.tipo</text>
@@ -445,28 +445,28 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IEltcGxlbWVudGFyIHBhdXNhcyBkZSB0YXJlZmFzCiAgICAgICAgZGZfdGVtcG9zID0gKGRmX2V2ZW50b3MKICAgICAgICAgICAgICAgICAgICAgLmRyb3BfZHVwbGljYXRlcyhbJ2luc3RhbmNpYScsICd0aW1lc3RhbXAnXSkKICAgICAgICAgICAgICAgICAgICAgLnBpdm90KCdpbnN0YW5jaWEnLCAndGlwbycsICd0aW1lc3RhbXAnKSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZl9pbnN0YW5jaWFzLmpvaW4oZGZfdGVtcG9zKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IFRyYXRhciBzb2JyZXNjcml0YXMgZGUgdmFyacOhdmVpcwogICAgICAgIGRmX2luc3RhbmNpYXMgPSBkZl9ldmVudG9zLnBpdm90KCdpbnN0YW5jaWEnLCAndmFyaWF2ZWwnLCAndmFsb3InKQogICAgICAgICMgRWxpbWluYSBpbnN0w6JuY2lhcyBpbmNvbXBsZXRhcy4gUXVlIHRpcG8gZGUgdmnDqXMgaXNzbyBwb2RlIGdlcmFyPwogICAgICAgIGRmX2luc3RhbmNpYXMuZHJvcG5hKGF4aXM9MCwgaG93PSdhbnknLCBpbnBsYWNlPVRydWUpCiAgICAgICAgZm9yIGNvbHVuYSBpbiBkZl9pbnN0YW5jaWFzLmNvbHVtbnM6CiAgICAgICAgICAgIGludGVycHJldGFkb3MgPSB2YXJpYXZlaXNbY29sdW5hXS5nZXRfdGlwbygpLnRvX3B5dGhvbihkZl9pbnN0YW5jaWFzW2NvbHVuYV0pCiAgICAgICAgICAgIGRmX2luc3RhbmNpYXNbY29sdW5hXSA9IGludGVycHJldGFkb3MKICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9iamVjdHM6IG1vZGVscy5RdWVyeVNldAo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IEltcGxlbWVudGFyIHBhdXNhcyBkZSB0YXJlZmFzCiAgICAgICAgZGZfdGVtcG9zID0gKGRmX2V2ZW50b3MKICAgICAgICAgICAgICAgICAgICAgLmRyb3BfZHVwbGljYXRlcyhbJ2luc3RhbmNpYScsICd0aW1lc3RhbXAnXSkKICAgICAgICAgICAgICAgICAgICAgLnBpdm90KCdpbnN0YW5jaWEnLCAndGlwbycsICd0aW1lc3RhbXAnKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBleHRyYWlfdmFsb3JlcyhzZWxmLCBpbnN0YW5jaWFzKSAtPiBJdGVyYWJsZToKICAgICAgICAiIiIKICAgICAgICBQYXJhIGNhZGEgaW5zdMOibmNpYSwgcmV0b3JuYSBvIHZhbG9yIGUgbyBwZXNvIHBhcmEgZXN0YSB2YXJpw6F2ZWwuCgogICAgICAgIDpwYXJhbSBpbnN0YW5jaWFzOiBBcyBpbnN0w6JuY2lhcyBwYXJhIGFzIHF1YWlzIG9zIHZhbG9yZXMgc2Vyw6NvCiAgICAgICAgIGNhbGN1bGFkb3MuCiAgICAgICAgOnJldHVybjogQSBsaXN0YSBkZSB2YWxvcmVzIGUgZGUgcGVzb3MuCiAgICAgICAgIiIiCiAgICAgICAgdmFsb3JlcyA9IFtpbnN0Lm1lZGlkYXMoKS5nZXQoc2VsZi5ub21lLCBOb25lKSBmb3IgaW5zdCBpbiBpbnN0YW5jaWFzXQogICAgICAgIHJldHVybiB2YWxvcmVzCgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBleHRyYWlfdmFsb3JlcyhzZWxmLCBpbnN0YW5jaWFzKSAtPiBJdGVyYWJsZToKICAgICAgICAiIiIK</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Zhci50aXBvL3RpcG9fdmFyL2c=</text>
