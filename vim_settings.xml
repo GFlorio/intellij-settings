@@ -24,12 +24,12 @@
         <mark key="." line="58" column="77" />
         <mark key="^" line="58" column="77" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1510073374287">
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1510129526940">
         <mark key="'" line="211" column="48" />
-        <mark key="[" line="50" column="22" />
-        <mark key="]" line="50" column="22" />
-        <mark key="^" line="50" column="8" />
-        <mark key="." line="50" column="22" />
+        <mark key="[" line="61" column="35" />
+        <mark key="]" line="62" column="71" />
+        <mark key="^" line="62" column="71" />
+        <mark key="." line="62" column="71" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1509546224478">
         <mark key="[" line="14" column="0" />
@@ -161,11 +161,11 @@
         <mark key="." line="54" column="28" />
         <mark key="^" line="54" column="28" />
       </file>
-      <file name="/Python Console" timestamp="1510121511623">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="27" />
+      <file name="/Python Console" timestamp="1510129481402">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/work/location_server/recursos/admin.py" timestamp="1502722200507">
         <mark key="[" line="20" column="0" />
@@ -245,11 +245,11 @@
         <mark key="^" line="80" column="45" />
         <mark key="." line="80" column="45" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/analises/alocador.py" timestamp="1510126591468">
-        <mark key="[" line="16" column="59" />
-        <mark key="]" line="17" column="43" />
-        <mark key="." line="17" column="43" />
-        <mark key="^" line="17" column="43" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/analises/alocador.py" timestamp="1510130003604">
+        <mark key="[" line="67" column="86" />
+        <mark key="]" line="68" column="24" />
+        <mark key="." line="68" column="24" />
+        <mark key="^" line="68" column="24" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/kalman.py" timestamp="1503081735321">
         <mark key="[" line="52" column="27" />
@@ -441,7 +441,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pd.DataFrame()</text>
+        <text>melhor[0].to_dict('records')[0]</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -458,7 +458,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pd.DataFrame()</text>
+        <text>melhor[0].to_dict('records')[0]</text>
       </register>
       <register name="/" type="4">
         <text>var.tipo</text>
