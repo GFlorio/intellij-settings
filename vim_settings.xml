@@ -161,8 +161,11 @@
         <mark key="." line="54" column="28" />
         <mark key="^" line="54" column="28" />
       </file>
-      <file name="/Python Console" timestamp="1510074608960">
-        <mark key="[" line="0" column="0" />
+      <file name="/Python Console" timestamp="1510121511623">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/work/location_server/recursos/admin.py" timestamp="1502722200507">
         <mark key="[" line="20" column="0" />
@@ -242,11 +245,11 @@
         <mark key="^" line="80" column="45" />
         <mark key="." line="80" column="45" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/analises/alocador.py" timestamp="1510074545889">
-        <mark key="[" line="49" column="85" />
-        <mark key="]" line="49" column="96" />
-        <mark key="." line="49" column="96" />
-        <mark key="^" line="49" column="96" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/analises/alocador.py" timestamp="1510122366305">
+        <mark key="[" line="59" column="30" />
+        <mark key="]" line="59" column="30" />
+        <mark key="." line="59" column="30" />
+        <mark key="^" line="21" column="15" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/kalman.py" timestamp="1503081735321">
         <mark key="[" line="52" column="27" />
@@ -266,7 +269,7 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503513734460">
+      <file name="/Dummy.txt" timestamp="1510121202802">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/tests.py" timestamp="1509553510121">
@@ -438,7 +441,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>str</text>
+        <text>escolhas_controle</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -455,7 +458,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>escolhas_controle</text>
       </register>
       <register name="/" type="4">
         <text>var.tipo</text>
@@ -466,31 +469,31 @@
         ]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXN0YXRpY2FzID0gW3ZhciBmb3IgdmFyIGluIHZhcnNfY29udHJvbGUgaWYgbm90IGlzaW5zdGFuY2UodmFyLCBBbG9jYWNhbyldCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXNjb2xoYXNfY29udHJvbGUgPSB7dmFyLm5vbWU6IG1lbGhvclswXVt2YXIubm9tZV1bMF0gZm9yIHZhciBpbiB2YXJzX2NvbnRyb2xlfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvbSA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIGxlbihkZW1hbmRhKSA+IDA6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXN0YXRpY2FzID0gW3ZhciBmb3IgdmFyIGluIHZhcnNfY29udHJvbGUgaWYgbm90IGlzaW5zdGFuY2UodmFyLCBBbG9jYWNhbyldCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBleHBhbmRlX3Bvc3NpYmlsaWRhZGVzKGF0dWFsLCBwcm94aW1vKToKICAgICAgICBwYXNzCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvbSA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHdoaWxlIGxlbihkZW1hbmRhKSA+IDA6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgQWxvY2Fkb3I6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBleHBhbmRlX3Bvc3NpYmlsaWRhZGVzKGF0dWFsLCBwcm94aW1vKToKICAgICAgICBwYXNzCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgQWxvY2Fkb3I6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgRGVtYW5kYToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhdGl2aWRhZGUsIGNhcmFjdGVyaXN0aWNhcyk6CiAgICAgICAgc2VsZi5hdGl2aWRhZGUgPSBhdGl2aWRhZGUKICAgICAgICBzZWxmLmNhcmFjdGVyaXN0aWNhcyA9IGNhcmFjdGVyaXN0aWNhcwoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Zhci50aXBvL3RpcG9fdmFyL2c=</text>
