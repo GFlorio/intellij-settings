@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" timestamp="1510132047160">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="154" column="10" />
-        <mark key="]" line="154" column="13" />
-        <mark key="." line="154" column="13" />
-        <mark key="^" line="154" column="13" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" timestamp="1510145112541">
+        <mark key="'" line="138" column="8" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="153" column="13" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipos.py" timestamp="1506790549424">
         <mark key="[" line="8" column="6" />
@@ -19,18 +19,28 @@
       <file name="/a.dummy" timestamp="1506790555807">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/alcatraz/alcatraz/urls.py" timestamp="1510145212869">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/alcatraz/settings/common.py" timestamp="1510145362993">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/work/location_server/location_server/mq.py" timestamp="1507143021643">
         <mark key="[" line="58" column="69" />
         <mark key="]" line="58" column="77" />
         <mark key="." line="58" column="77" />
         <mark key="^" line="58" column="77" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1510129526940">
-        <mark key="'" line="211" column="48" />
-        <mark key="[" line="61" column="35" />
-        <mark key="]" line="62" column="71" />
-        <mark key="^" line="62" column="71" />
-        <mark key="." line="62" column="71" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1510146114647">
+        <mark key="'" line="64" column="71" />
+        <mark key="[" line="23" column="62" />
+        <mark key="]" line="26" column="28" />
+        <mark key="^" line="26" column="28" />
+        <mark key="." line="26" column="28" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1509546224478">
         <mark key="[" line="14" column="0" />
@@ -66,6 +76,11 @@
         <mark key="]" line="24" column="44" />
         <mark key="^" line="24" column="44" />
         <mark key="." line="24" column="44" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/modelagem/serializers.py" timestamp="1510145169570">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/signals.py" timestamp="1509524837089">
         <mark key="[" line="6" column="0" />
@@ -149,6 +164,12 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/.gitignore" timestamp="1510145303121">
+        <mark key="[" line="73" column="12" />
+        <mark key="]" line="74" column="18" />
+        <mark key="^" line="74" column="18" />
+        <mark key="." line="74" column="18" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/analises/predicao.py" timestamp="1510073302664">
         <mark key="[" line="27" column="34" />
@@ -235,6 +256,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="45" />
       </file>
+      <file name="$USER_HOME$/work/alcatraz/modelagem/views.py" timestamp="1510145189667">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/work/location_server/recursos/models.py" timestamp="1509566052773">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="66" />
@@ -294,11 +320,10 @@
         <mark key="." line="19" column="71" />
         <mark key="^" line="19" column="71" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/admin.py" timestamp="1507303441792">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="26" />
-        <mark key="^" line="19" column="26" />
-        <mark key="." line="19" column="26" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/admin.py" timestamp="1510145146271">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/tests.py" timestamp="1503500704017">
         <mark key="[" line="10" column="44" />
@@ -440,10 +465,16 @@
       <jump line="13" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="211" column="48" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="94" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="19" column="13" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="61" column="71" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="159" column="8" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="139" column="8" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHZhbG9yZXNbMF0sIHN0cik6CiAgICAgICAgICAgIHJldHVybiB2YWxvcmVzCg==</text>
+        <text encoding="base64">ICAgICdtZWRpY2FvJywK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -460,7 +491,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>tarefa</text>
       </register>
       <register name="/" type="4">
         <text>var.tipo</text>
@@ -469,31 +500,31 @@
         <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHZhbG9yZXNbMF0sIHN0cik6CiAgICAgICAgICAgIHJldHVybiB2YWxvcmVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvY3VwYWRvX2F0ZSA9IAo=</text>
+        <text encoding="base64">ICAgICdtZWRpY2FvJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXNjb2xoYXNfY29udHJvbGUgPSB7dmFyLm5vbWU6IG1lbGhvclswXVt2YXIubm9tZV1bMF0gZm9yIHZhciBpbiB2YXJzX2NvbnRyb2xlfQo=</text>
+        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHIncHJvY2Vzc28nLCB2aWV3cy5Qcm9jZXNzb1ZpZXdTZXQpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXN0YXRpY2FzID0gW3ZhciBmb3IgdmFyIGluIHZhcnNfY29udHJvbGUgaWYgbm90IGlzaW5zdGFuY2UodmFyLCBBbG9jYWNhbyldCg==</text>
+        <text encoding="base64">QHBlcm1pc3Npb25fY2xhc3NlcygoQWxsb3dBbnksKSkKY2xhc3MgUHJvY2Vzc29WaWV3U2V0KE1vZGVsVmlld1NldCk6CiAgICBzZXJpYWxpemVyX2NsYXNzID0gc2VyaWFsaXplcnMuUHJvY2Vzc29TZXJpYWxpemVyCiAgICBxdWVyeXNldCA9IFByb2Nlc3NvLm9iamVjdHMuYWxsKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvbSA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIGxlbihkZW1hbmRhKSA+IDA6Cg==</text>
+        <text encoding="base64">Y2xhc3MgUHJvY2Vzc29TZXJpYWxpemVyKHNlcmlhbGl6ZXJzLkh5cGVybGlua2VkTW9kZWxTZXJpYWxpemVyKToKICAgIHZhcmlhdmVpcyA9IFZhcmlhdmVsU2VyaWFsaXplcihtYW55PVRydWUpCgogICAgY2xhc3MgTWV0YToKICAgICAgICBtb2RlbCA9IFByb2Nlc3NvCiAgICAgICAgZmllbGRzID0gKCdub21lJywgJ3RhcmVmYXMnLCAndmFyaWF2ZWlzJykKCiAgICBkZWYgY3JlYXRlKHNlbGYsIHZhbGlkYXRlZF9kYXRhKToKICAgICAgICB2YXJpYXZlbF9kYXRhID0gdmFsaWRhdGVkX2RhdGEucG9wKCd2YXJpYXZlaXMnKQoKICAgICAgICBwcm9jZXNzbyA9IFByb2Nlc3NvKCoqdmFsaWRhdGVkX2RhdGEpLnNhdmUoKQogICAgICAgIGZvciB2YXIgaW4gdmFyaWF2ZWxfZGF0YToKICAgICAgICAgICAgVmFyaWF2ZWwocHJvY2Vzc289cHJvY2Vzc28sICoqdmFyKS5zYXZlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBleHBhbmRlX3Bvc3NpYmlsaWRhZGVzKGF0dWFsLCBwcm94aW1vKToKICAgICAgICBwYXNzCgo=</text>
+        <text encoding="base64">QGFkbWluLnJlZ2lzdGVyKFByb2Nlc3NvKQpjbGFzcyBQcm9jZXNzb0FkbWluKGFkbWluLk1vZGVsQWRtaW4pOgogICAgbGlzdF9kaXNwbGF5ID0gKCdub21lJywgKQogICAgaW5saW5lcyA9IChUYXJlZmFJbmxpbmUsICkKCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgQWxvY2Fkb3I6Cg==</text>
+        <text encoding="base64">ZnJvbSBtb2RlbGFnZW0ubW9kZWxzIGltcG9ydCBSZWN1cnNvCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Zhci50aXBvL3RpcG9fdmFyL2c=</text>
@@ -604,6 +635,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
