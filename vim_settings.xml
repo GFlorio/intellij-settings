@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" timestamp="1510051822764">
-        <mark key="[" line="148" column="32" />
-        <mark key="]" line="148" column="41" />
-        <mark key="." line="148" column="41" />
-        <mark key="^" line="148" column="41" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" timestamp="1510132047160">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="154" column="10" />
+        <mark key="]" line="154" column="13" />
+        <mark key="." line="154" column="13" />
+        <mark key="^" line="154" column="13" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipos.py" timestamp="1506790549424">
         <mark key="[" line="8" column="6" />
@@ -245,11 +246,11 @@
         <mark key="^" line="80" column="45" />
         <mark key="." line="80" column="45" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/analises/alocador.py" timestamp="1510131276287">
-        <mark key="[" line="76" column="40" />
-        <mark key="]" line="77" column="46" />
-        <mark key="^" line="77" column="46" />
-        <mark key="." line="77" column="46" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/analises/alocador.py" timestamp="1510132114734">
+        <mark key="[" line="80" column="16" />
+        <mark key="]" line="80" column="18" />
+        <mark key="^" line="80" column="18" />
+        <mark key="." line="80" column="18" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/kalman.py" timestamp="1503081735321">
         <mark key="[" line="52" column="27" />
@@ -438,10 +439,11 @@
       <jump line="106" column="31" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="13" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="211" column="48" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, melhor_opcao[3]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHZhbG9yZXNbMF0sIHN0cik6CiAgICAgICAgICAgIHJldHVybiB2YWxvcmVzCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -458,15 +460,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, melhor_opcao[3]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>var.tipo</text>
       </register>
-      <register name="0" type="4">
-        <text>fronteira = [
-            item_front+[item_dom] for item_dom in dom for item_front in fronteira
-        ]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHZhbG9yZXNbMF0sIHN0cik6CiAgICAgICAgICAgIHJldHVybiB2YWxvcmVzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvY3VwYWRvX2F0ZSA9IAo=</text>
