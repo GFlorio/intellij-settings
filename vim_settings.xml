@@ -35,8 +35,8 @@
         <mark key="." line="58" column="77" />
         <mark key="^" line="58" column="77" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1510148513425">
-        <mark key="'" line="64" column="71" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1510408924276">
+        <mark key="'" line="115" column="0" />
         <mark key="[" line="26" column="15" />
         <mark key="]" line="26" column="47" />
         <mark key="^" line="26" column="47" />
@@ -471,6 +471,7 @@
       <jump line="159" column="8" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
       <jump line="6" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
       <jump line="139" column="8" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
