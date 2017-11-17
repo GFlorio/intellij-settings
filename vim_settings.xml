@@ -104,6 +104,11 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/work/location_server/gunicorn_start.j2" timestamp="1510941965555">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/demanda.py" timestamp="1502041754017">
         <mark key="[" line="43" column="14" />
         <mark key="]" line="43" column="14" />
@@ -377,11 +382,12 @@
         <mark key="^" line="12" column="43" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/requirements.txt" timestamp="1502985373963">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="$USER_HOME$/work/location_server/requirements.txt" timestamp="1510941808199">
+        <mark key="'" line="13" column="14" />
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="15" />
+        <mark key="^" line="13" column="14" />
+        <mark key="." line="13" column="15" />
       </file>
       <file name="$USER_HOME$/work/location_server/ansible/group_vars/prod.yml" timestamp="1503520949433">
         <mark key="[" line="3" column="12" />
@@ -474,10 +480,11 @@
       <jump line="139" column="8" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
       <jump line="115" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="148" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="13" column="14" filename="$USER_HOME$/work/location_server/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZlcmJvc2VfbmFtZV9wbHVyYWwgPSAnSW5kaWNhZG9yZXMnCiAgICBtb2RlbCA9IG1vZGVscy5JbmRpY2Fkb3IK</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -494,10 +501,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Inline(admin.TabularInline):</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>var.tipo</text>
+        <text>==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgVmFyaWF2ZWxJbmxpbmUoYWRtaW4uVGFidWxhcklubGluZSk6CiAgICB2ZXJib3NlX25hbWVfcGx1cmFsID0gJ1ZhcmlhdmVpcycKICAgIG1vZGVsID0gbW9kZWxzLlZhcmlhdmVsCiAgICBleHRyYSA9IDIKCg==</text>
@@ -530,15 +537,15 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3Zhci50aXBvL3RpcG9fdmFyL2c=</text>
+        <text encoding="base64">JXMvPT0vPj0vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>var.tipo</last-search>
+      <last-search>==</last-search>
       <last-offset />
-      <last-pattern>var.tipo</last-pattern>
-      <last-replace>tipo_var</last-replace>
-      <last-substitute>var.tipo</last-substitute>
+      <last-pattern>==</last-pattern>
+      <last-replace encoding="base64">Pj0=</last-replace>
+      <last-substitute>==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -560,6 +567,7 @@
         <entry>instancia</entry>
         <entry>class</entry>
         <entry>var.tipo</entry>
+        <entry>==</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -574,6 +582,7 @@
         <entry>q</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL3Zhci50aXBvL3RpcG9fdmFyL2c=</entry>
+        <entry encoding="base64">JXMvPT0vPj0vZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
