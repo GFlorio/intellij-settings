@@ -225,11 +225,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/models.py" timestamp="1511109918109">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="59" column="77" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models.py" timestamp="1511110586432">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="17" column="46" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/services.py" timestamp="1503082183465">
         <mark key="[" line="48" column="39" />
@@ -519,7 +519,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgoKICAgICAgICBhdHJhc28gPSB0aW1lZGVsdGEoMCkKICAgICAgICBhdHJhc28gKz0gdWx0aW1vX3BvbnRvIC0gc2VsZi5oYWJpbGl0YWNhb19yZWFsCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -536,40 +536,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>atraso</text>
+        <text>não dá pra calcular atraso DA TAREFA</text>
       </register>
       <register name="/" type="4">
         <text>==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBibGFuaz1UcnVlLCBudWxsPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxhbmVqYWRvID0gc2VsZi5maW1fcGxhbiAtIHNlbGYuaGFiaWxpdGFjYW9fcGxhbgogICAgICAgICAgICByZWFsaXphZG8gPSBzZWxmLmZpbV9yZWFsIC0gc2VsZi5oYWJpbGl0YWNhb19yZWFsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgoKICAgICAgICBhdHJhc28gPSB0aW1lZGVsdGEoMCkKICAgICAgICBhdHJhc28gKz0gdWx0aW1vX3BvbnRvIC0gc2VsZi5oYWJpbGl0YWNhb19yZWFsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdHJhc28gPSB0aW1lZGVsdGEoMCkK</text>
+        <text encoding="base64">ICAgICAgICB1bHRpbW9fcG9udG8gPSBzZWxmLmZpbV9yZWFsIGlmIHNlbGYuZmltX3JlYWwgaXMgbm90IE5vbmUgZWxzZSBzZWxmLmluaWNpb19yZWFsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRpbWVkZWx0YSgwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlbWFuZGFfc2V0OiBRdWVyeVNldAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiB1bHRpbW9fcG9udG8gaXMgTm9uZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAoUExBTkVKQURBLCAnUGxhbmVqYWRhJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIChzZWxmLmZpbV9yZWFsLXNlbGYuaGFiaWxpdGFjYW9fcmVhbCkgLSAoc2VsZi5maW1fcGxhbiAtIHNlbGYuaGFiaWxpdGFjYW9fcGxhbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFBMQU5FSkFEQSA9ICdwbGFuZWphZGEnCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGRlZiBmaW5hbGl6YShzZWxmKToKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCdUT0RPOiBMw7NnaWNhIGRlIGZpbmFsaXphw6fDo28uJyk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmhhYmlsaXRhY2FvX3BsYW4gaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignTsOjbyDDqSBwb3Nzw612ZWwgY2FsY3VsYXIgYXRyYXNvIHNlbSBwbGFuZWphbWVudG8hJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
