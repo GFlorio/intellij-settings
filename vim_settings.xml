@@ -37,12 +37,12 @@
         <mark key="." line="58" column="77" />
         <mark key="^" line="58" column="77" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1511115293964">
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1511120142774">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="113" column="13" />
+        <mark key="[" line="113" column="6" />
+        <mark key="]" line="113" column="23" />
+        <mark key="." line="113" column="23" />
+        <mark key="^" line="113" column="23" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1509546224478">
         <mark key="[" line="14" column="0" />
@@ -542,7 +542,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Evento</text>
+        <text>Execucao</text>
       </register>
       <register name="/" type="4">
         <text>==</text>
