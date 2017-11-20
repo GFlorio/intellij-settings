@@ -226,12 +226,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/models.py" timestamp="1511198290037">
-        <mark key="'" line="64" column="22" />
-        <mark key="[" line="65" column="25" />
-        <mark key="]" line="63" column="73" />
-        <mark key="^" line="65" column="24" />
-        <mark key="." line="63" column="73" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models.py" timestamp="1511200052202">
+        <mark key="'" line="62" column="22" />
+        <mark key="[" line="68" column="67" />
+        <mark key="]" line="68" column="65" />
+        <mark key="." line="68" column="65" />
+        <mark key="^" line="68" column="65" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/services.py" timestamp="1503082183465">
         <mark key="[" line="48" column="39" />
@@ -551,7 +551,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>outra in acoes:</text>
+        <text>demandas</text>
       </register>
       <register name="/" type="4">
         <text>ManyToM</text>
@@ -560,31 +560,31 @@
         <text encoding="base64">ICAgIG9iamVjdHM6IFF1ZXJ5U2V0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZW1hbmRhcyA9IERlbWFuZGEub2JqZWN0cy5maWx0ZXIocGxhbm89c2VsZikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmluaWNpb19wbGFuID4gb3V0cmEuaW5pY2lvX3BsYW46CiAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIFRydWUK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IElzc28gcG9kZSBxdWVicmFyIHNlIGFsZ3VtYXMgZGVtYW5kYXMgY29tZcOnYXJlbSBubyBtZWlvIGRvIHByb2Nlc3NvIQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZW1hbmRhcyA9IHNlbGYuZGVtYW5kYXMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
