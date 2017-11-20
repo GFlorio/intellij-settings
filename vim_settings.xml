@@ -67,6 +67,12 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/work/alcatraz/alocacao/services.py" timestamp="1511215319905">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+      </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/factories.py" timestamp="1503500468562">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="44" />
@@ -226,12 +232,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/models.py" timestamp="1511206486073">
-        <mark key="'" line="191" column="48" />
-        <mark key="[" line="110" column="23" />
-        <mark key="]" line="110" column="27" />
-        <mark key="^" line="110" column="27" />
-        <mark key="." line="110" column="27" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models.py" timestamp="1511215803292">
+        <mark key="'" line="193" column="48" />
+        <mark key="[" line="119" column="64" />
+        <mark key="]" line="119" column="64" />
+        <mark key="^" line="119" column="43" />
+        <mark key="." line="119" column="64" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/services.py" timestamp="1503082183465">
         <mark key="[" line="48" column="39" />
@@ -558,7 +564,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>plano: Plano</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>ManyToM</text>
@@ -567,31 +573,31 @@
         <text encoding="base64">ICAgIGxpc3RfZGlzcGxheSA9ICgnaW5zdGFuY2lhJywgJ2F0aXZpZGFkZScsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgSW5pY2lhbG1lbnRlLCBuZW5odW1hIGRhcwo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBkZW1hbmRhIGluIHF1ZXJ5c2V0LmFsbCgpOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICMgSW5pY2lhbG1lbnRlLCBuZW5odW1hIGRhcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWRtaW4uc2l0ZS5zaXRlX2hlYWRlciA9ICJTZXNzw6NvIEFkbWluaXN0cmF0aXZhIgo=</text>
+        <text encoding="base64">ICAgIGZvciBkZW1hbmRhIGluIHF1ZXJ5c2V0LmFsbCgpOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWRtaW4uc2l0ZS5zaXRlX2hlYWRlciA9ICJTZXNzw6NvIEFkbWluaXN0cmF0aXZhIgphZG1pbi5zaXRlLnNpdGVfdGl0bGUgPSAiQWxjYXRyYXoiCg==</text>
+        <text encoding="base64">YWRtaW4uc2l0ZS5zaXRlX2hlYWRlciA9ICJTZXNzw6NvIEFkbWluaXN0cmF0aXZhIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRtaW4uc2l0ZS5zaXRlX2hlYWRlciA9ICJTZXNzw6NvIEFkbWluaXN0cmF0aXZhIgphZG1pbi5zaXRlLnNpdGVfdGl0bGUgPSAiQWxjYXRyYXoiCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWRtaW4uc2l0ZS5zaXRlX2hlYWRlciA9ICJTZXNzw6NvIEFkbWluaXN0cmF0aXZhIgphZG1pbi5zaXRlLnNpdGVfdGl0bGUgPSAiQWxjYXRyYXoiCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWRtaW4uc2l0ZS4K</text>
+        <text encoding="base64">YWRtaW4uc2l0ZS5zaXRlX2hlYWRlciA9ICJTZXNzw6NvIEFkbWluaXN0cmF0aXZhIgphZG1pbi5zaXRlLnNpdGVfdGl0bGUgPSAiQWxjYXRyYXoiCgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdkamFuZ28uY29udHJpYi5jb250ZW50dHlwZXMnLAo=</text>
+        <text encoding="base64">YWRtaW4uc2l0ZS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
