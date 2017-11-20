@@ -220,12 +220,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/models.py" timestamp="1511204082951">
-        <mark key="'" line="189" column="48" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="84" />
-        <mark key="^" line="28" column="81" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models.py" timestamp="1511206486073">
+        <mark key="'" line="191" column="48" />
+        <mark key="[" line="110" column="23" />
+        <mark key="]" line="110" column="27" />
+        <mark key="^" line="110" column="27" />
+        <mark key="." line="110" column="27" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/services.py" timestamp="1503082183465">
         <mark key="[" line="48" column="39" />
@@ -326,11 +326,11 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/admin.py" timestamp="1511203969566">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="9" column="20" />
-        <mark key="^" line="9" column="20" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/admin.py" timestamp="1511206019547">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+        <mark key="^" line="5" column="35" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" timestamp="1506872780310">
         <mark key="[" line="1" column="0" />
@@ -362,9 +362,9 @@
         <mark key="." line="19" column="71" />
         <mark key="^" line="19" column="71" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/admin.py" timestamp="1511204470245">
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="21" column="3" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/admin.py" timestamp="1511205397489">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="11" column="12" />
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
       </file>
@@ -553,40 +553,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>vertical</text>
+        <text>atividade</text>
       </register>
       <register name="/" type="4">
         <text>ManyToM</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9iamVjdHM6IFF1ZXJ5U2V0Cg==</text>
+        <text encoding="base64">ICAgIGxpc3RfZGlzcGxheSA9ICgnaW5zdGFuY2lhJywgJ2F0aXZpZGFkZScsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICBnZXRfbW9kZWxfcGVybXMgPSBsYW1iZGEgc2VsZiwgcmVxOiB7fQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgUGFwZWxJbmxpbmUoYWRtaW4uU3RhY2tlZElubGluZSk6CiAgICB2ZXJib3NlX25hbWVfcGx1cmFsID0gJ1BhcGVpcycKICAgIG1vZGVsID0gbW9kZWxzLlBhcGVsCgoK</text>
+        <text encoding="base64">ICAgIGxpc3RfZGlzcGxheSA9ICgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhcGVpczogbW9kZWxzLlF1ZXJ5U2V0ID0gbW9kZWxzLk1hbnlUb01hbnlGaWVsZChQYXBlbCwgcmVsYXRlZF9uYW1lPSdyZWN1cnNvcycpCg==</text>
+        <text encoding="base64">ICAgIGFjb2VzOiBtb2RlbHMuUXVlcnlTZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcGVpczogbW9kZWxzLlF1ZXJ5U2V0ID0gbW9kZWxzLk1hbnlUb01hbnlGaWVsZChQYXBlbCwgcmVsYXRlZF9uYW1lPSdyZWN1cnNvcycpCg==</text>
+        <text encoding="base64">ICAgICBnZXRfbW9kZWxfcGVybXMgPSBsYW1iZGEgc2VsZiwgcmVxOiB7fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcGVpczogbW9kZWxzLlF1ZXJ5U2V0ID0gbW9kZWxzLk1hbnlUb01hbnlGaWVsZChQYXBlbCwgcmVsYXRlZF9uYW1lPSdyZWN1cnNvcycpCg==</text>
+        <text encoding="base64">Y2xhc3MgUGFwZWxJbmxpbmUoYWRtaW4uU3RhY2tlZElubGluZSk6CiAgICB2ZXJib3NlX25hbWVfcGx1cmFsID0gJ1BhcGVpcycKICAgIG1vZGVsID0gbW9kZWxzLlBhcGVsCgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcGVpczogbW9kZWxzLlF1ZXJ5U2V0ID0gbW9kZWxzLk1hbnlUb01hbnlGaWVsZChQYXBlbCwgcmVsYXRlZF9uYW1lPSdyZWN1cnNvcycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGFkbWluLnJlZ2lzdGVyKG1vZGVscy5QYXBlbCkKY2xhc3MgUGFwZWxBZG1pbihhZG1pbi5Nb2RlbEFkbWluKToKICAgIAoK</text>
+        <text encoding="base64">ICAgIHBhcGVpczogbW9kZWxzLlF1ZXJ5U2V0ID0gbW9kZWxzLk1hbnlUb01hbnlGaWVsZChQYXBlbCwgcmVsYXRlZF9uYW1lPSdyZWN1cnNvcycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo=</text>
+        <text encoding="base64">ICAgIHBhcGVpczogbW9kZWxzLlF1ZXJ5U2V0ID0gbW9kZWxzLk1hbnlUb01hbnlGaWVsZChQYXBlbCwgcmVsYXRlZF9uYW1lPSdyZWN1cnNvcycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGFkbWluLnJlZ2lzdGVyKG1vZGVscy5SZWN1cnNvKQpjbGFzcyBSZWN1cnNvQWRtaW4oYWRtaW4uTW9kZWxBZG1pbik6CiAgICBsaXN0X2Rpc3BsYXkgPSAoJ2lkZW50aWZpY2FjYW8nLCAncGFwZWwnLCAnY3VzdG9faG9yYScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
