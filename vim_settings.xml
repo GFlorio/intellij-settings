@@ -97,11 +97,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/planejamento.py" timestamp="1511287538596">
-        <mark key="[" line="75" column="77" />
-        <mark key="]" line="76" column="32" />
-        <mark key="^" line="76" column="32" />
-        <mark key="." line="76" column="32" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/planejamento.py" timestamp="1511288275280">
+        <mark key="[" line="46" column="38" />
+        <mark key="]" line="46" column="51" />
+        <mark key="^" line="46" column="51" />
+        <mark key="." line="46" column="51" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/signals.py" timestamp="1509524837089">
         <mark key="[" line="6" column="0" />
@@ -602,7 +602,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(a_planejar.pop(melhor_opcao[0]), melhor_opcao[1], melhor_opcao[2])</text>
+        <text>não executa!</text>
       </register>
       <register name="/" type="4">
         <text>g-d-7</text>
