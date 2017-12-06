@@ -10,6 +10,11 @@
         <mark key="^" line="127" column="8" />
         <mark key="." line="127" column="8" />
       </file>
+      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1512577683489">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+      </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipos.py" timestamp="1506790549424">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="28" />
@@ -40,16 +45,17 @@
         <mark key="]" line="202" column="0" />
         <mark key="." line="202" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1509546224478">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1512577832545">
+        <mark key="[" line="42" column="54" />
+        <mark key="]" line="42" column="54" />
+        <mark key="." line="42" column="54" />
+        <mark key="^" line="42" column="50" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/controle.py" timestamp="1507738959090">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="48" />
-        <mark key="." line="17" column="28" />
-        <mark key="^" line="4" column="14" />
+      <file name="$USER_HOME$/work/location_server/localizadores/controle.py" timestamp="1512577270849">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="39" />
+        <mark key="^" line="14" column="39" />
       </file>
       <file name="$USER_HOME$/work/location_server/places/models.py" timestamp="1506524558369">
         <mark key="[" line="80" column="44" />
@@ -261,11 +267,11 @@
         <mark key="]" line="205" column="0" />
         <mark key="." line="205" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/services.py" timestamp="1503082183465">
-        <mark key="[" line="48" column="39" />
-        <mark key="]" line="48" column="44" />
-        <mark key="^" line="48" column="44" />
-        <mark key="." line="48" column="44" />
+      <file name="$USER_HOME$/work/location_server/localizadores/services.py" timestamp="1512577774248">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="54" />
+        <mark key="^" line="24" column="54" />
+        <mark key="." line="24" column="54" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/tests/factories.py" timestamp="1509838015786">
         <mark key="'" line="50" column="13" />
@@ -584,7 +590,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ENV_NAME</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>g-d-7</text>
@@ -593,31 +599,31 @@
         <text>os.getenv('DJANGO_ENV_NAME', 'stage')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJlZGlvLm9iamVjdHMuZ2V0KHBrPWNhbXBvc1sndW5pZGFkZUlkJ10pLmRlbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgc2VuZGVyOiAKICAgICAgICBpbnN0YW5jZTogCiAgICAgICAgY3JlYXRlZDogCiAgICAgICAgKiprd2FyZ3M6IAoKICAgIFJldHVybnM6Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQb250b0ludGVyZXNzZS5vYmplY3RzLmdldChwaz1jYW1wb3NbJ2dlb2ZlbmNlSWQnXSkuZGVsZXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJlZGlvLm9iamVjdHMuZ2V0KHBrPWNhbXBvc1sncGlzb0lkJ10pLmRlbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6IAogICAgICAgIHVzdWFyaW86IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVkaW8ub2JqZWN0cy5nZXQocGs9Y2FtcG9zWyd1bmlkYWRlSWQnXSkuZGVsZXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgUmV0dXJuczoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXF1aXBhbWVudG8ub2JqZWN0cy5nZXQocGs9Y2FtcG9zWydlcXVpcGFtZW50b0lkJ10pLmRlbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQaXNvLm9iamVjdHMuZ2V0KHBrPWNhbXBvc1sncGlzb0lkJ10pLmRlbGV0ZSgpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgUmV0dXJuczoKIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVsaWYgdmVyYm8gPT0gJ2RlbGV0ZSc6CiAgICAgICAgRXF1aXBhbWVudG8ub2JqZWN0cy5nZXQocGs9Y2FtcG9zWydlcXVpcGFtZW50b0lkJ10pLmRlbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJlZGlvLm9iamVjdHMuZ2V0KHBrPWNhbXBvc1sndW5pZGFkZUlkJ10pLmRlbGV0ZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQb250b0ludGVyZXNzZS5vYmplY3RzLmdldChwaz1jYW1wb3NbJ2dlb2ZlbmNlSWQnXSkuZGVsZXRlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJlZGlvLm9iamVjdHMuZ2V0KHBrPWNhbXBvc1sncGlzb0lkJ10pLmRlbGV0ZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
