@@ -439,11 +439,11 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="14" column="61" />
       </file>
-      <file name="$USER_HOME$/work/location_server/places/tasks.py" timestamp="1512564269813">
-        <mark key="[" line="32" column="52" />
-        <mark key="]" line="32" column="57" />
+      <file name="$USER_HOME$/work/location_server/places/tasks.py" timestamp="1512564319708">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="45" column="89" />
         <mark key="^" line="32" column="57" />
-        <mark key="." line="32" column="57" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/fusao_simples.py" timestamp="1503080017383">
         <mark key="[" line="13" column="0" />
@@ -598,7 +598,7 @@
         <text>g-d-7</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIFBpc28ub2JqZWN0cy5nZXQocGs9Y2FtcG9zWydwaXNvSWQnXSkuZGVsZXRlKCkKICAgICAgICBleGNlcHQgUGlzby5Eb2VzTm90RXhpc3Q6CiAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKCdQZWRpZG8gZGUgZGVsZcOnw6NvIGRlIHVtIHBpc28gbsOjbyBleGlzdGVudGUhJywgZXh0cmE9Y2FtcG9zKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIFByZWRpby5vYmplY3RzLmdldChwaz1jYW1wb3NbJ3VuaWRhZGVJZCddKS5kZWxldGUoKQogICAgICAgIGV4Y2VwdCBQcmVkaW8uRG9lc05vdEV4aXN0OgogICAgICAgICAgICBsb2dnZXIud2FybmluZygnUGVkaWRvIGRlIGRlbGXDp8OjbyBkZSB1bSBwcmVkaW8gbsOjbyBleGlzdGVudGUhJywgZXh0cmE9Y2FtcG9zKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUHJlZGlvLm9iamVjdHMuZ2V0KHBrPWNhbXBvc1sncGlzb0lkJ10pLmRlbGV0ZSgpCg==</text>
