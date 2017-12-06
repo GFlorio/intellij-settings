@@ -196,11 +196,11 @@
         <mark key="^" line="32" column="37" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/settings/prod.py" timestamp="1510942825799">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="78" />
-        <mark key="^" line="8" column="78" />
-        <mark key="." line="8" column="78" />
+      <file name="$USER_HOME$/work/location_server/location_server/settings/prod.py" timestamp="1512568403637">
+        <mark key="[" line="35" column="38" />
+        <mark key="]" line="35" column="49" />
+        <mark key="^" line="35" column="49" />
+        <mark key="." line="35" column="49" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/alcatraz/settings/dev.py" timestamp="1511097371600">
         <mark key="[" line="13" column="28" />
@@ -261,10 +261,6 @@
         <mark key="]" line="205" column="0" />
         <mark key="." line="205" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/dashboard.py" timestamp="1511272708480">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="73" />
-      </file>
       <file name="$USER_HOME$/work/location_server/localizadores/services.py" timestamp="1503082183465">
         <mark key="[" line="48" column="39" />
         <mark key="]" line="48" column="44" />
@@ -289,10 +285,6 @@
         <mark key="]" line="17" column="93" />
         <mark key="^" line="17" column="92" />
         <mark key="." line="17" column="92" />
-      </file>
-      <file name="$USER_HOME$/work/alcatraz/alcatraz/wsgi.py" timestamp="1511112904883">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="61" />
       </file>
       <file name="$USER_HOME$/work/location_server/places/signals.py" timestamp="1509566495795">
         <mark key="[" line="26" column="25" />
@@ -592,13 +584,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>predio</text>
+        <text>ENV_NAME</text>
       </register>
       <register name="/" type="4">
         <text>g-d-7</text>
       </register>
       <register name="0" type="4">
-        <text>PontoInteresse</text>
+        <text>os.getenv('DJANGO_ENV_NAME', 'stage')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUHJlZGlvLm9iamVjdHMuZ2V0KHBrPWNhbXBvc1sndW5pZGFkZUlkJ10pLmRlbGV0ZSgpCg==</text>
