@@ -33,9 +33,9 @@
         <mark key="." line="45" column="49" />
         <mark key="^" line="45" column="49" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/mq.py" timestamp="1512579651906">
-        <mark key="[" line="27" column="39" />
-        <mark key="]" line="27" column="50" />
+      <file name="$USER_HOME$/work/location_server/location_server/mq.py" timestamp="1512580543712">
+        <mark key="[" line="35" column="63" />
+        <mark key="]" line="35" column="78" />
         <mark key="^" line="27" column="50" />
         <mark key="." line="27" column="50" />
       </file>
@@ -599,8 +599,8 @@
       <register name="/" type="4">
         <text>g-d-7</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNoYW4uZXhjaGFuZ2VfZGVjbGFyZShleGNoYW5nZT0nbG9jYWxpemFjYW9fam9icycsIHR5cGU9J3RvcGljJywgZHVyYWJsZT1UcnVlKQo=</text>
+      <register name="0" type="4">
+        <text>localizacao_jobs</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNoYW4uZXhjaGFuZ2VfZGVjbGFyZShleGNoYW5nZT0nbG9jYWxpemFjYW9fam9icycsIHR5cGU9J3RvcGljJywgZHVyYWJsZT1UcnVlKQo=</text>
