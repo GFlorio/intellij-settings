@@ -164,10 +164,10 @@
         <mark key="." line="2" column="55" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/work/location_server/worker.py" timestamp="1507142945685">
-        <mark key="[" line="14" column="49" />
-        <mark key="]" line="14" column="49" />
-        <mark key="." line="14" column="49" />
+      <file name="$USER_HOME$/work/location_server/worker.py" timestamp="1513341586566">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="67" column="38" />
+        <mark key="." line="64" column="0" />
         <mark key="^" line="16" column="48" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/multilateracao.py" timestamp="1502984967357">
@@ -601,7 +601,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>grupo</text>
+        <text>, False, True</text>
       </register>
       <register name="/" type="4">
         <text>g-d-7</text>
@@ -610,31 +610,31 @@
         <text>localizacao_jobs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYW1wb3MgPSBqc29uLmxvYWRzKGJvZHkuZGVjb2RlKCd1dGYtOCcpKQogICAgICAgIGNhbXBvc1sncm91dGluZ19rZXknXSA9IG1ldGhvZC5yb3V0aW5nX2tleQogICAgICAgIGxvZ2dlci5leGNlcHRpb24oIkVycm8gbmEgYXR1YWxpemHDp8OjbyBkZSB7fSEiLmZvcm1hdChlbnRpZGFkZSksCiAgICAgICAgICAgICAgICAgICAgICAgICBleHRyYT1jYW1wb3MpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoYW4uZXhjaGFuZ2VfZGVjbGFyZShleGNoYW5nZT0nbG9jYWxpemFjYW9fam9icycsIHR5cGU9J3RvcGljJywgZHVyYWJsZT1UcnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgc2VuZGVyOiAKICAgICAgICBpbnN0YW5jZTogCiAgICAgICAgKiprd2FyZ3M6IAoKICAgIFJldHVybnM6Cgo=</text>
+        <text encoding="base64">ICAgIGNoYW4uZXhjaGFuZ2VfZGVjbGFyZShleGNoYW5nZT0nbG9jYWxpemFjYW9fam9icycsIHR5cGU9J3RvcGljJywgZHVyYWJsZT1UcnVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgc2VuZGVyOiAKICAgICAgICBpbnN0YW5jZTogCiAgICAgICAgY3JlYXRlZDogCiAgICAgICAgKiprd2FyZ3M6IAoKICAgIFJldHVybnM6Cgo=</text>
+        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgc2VuZGVyOiAKICAgICAgICBpbnN0YW5jZTogCiAgICAgICAgKiprd2FyZ3M6IAoKICAgIFJldHVybnM6Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6IAo=</text>
+        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgc2VuZGVyOiAKICAgICAgICBpbnN0YW5jZTogCiAgICAgICAgY3JlYXRlZDogCiAgICAgICAgKiprd2FyZ3M6IAoKICAgIFJldHVybnM6Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6IAogICAgICAgIHVzdWFyaW86IAo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgUmV0dXJuczoKCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6IAogICAgICAgIHVzdWFyaW86IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgUmV0dXJuczoKCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgUmV0dXJuczoKIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
