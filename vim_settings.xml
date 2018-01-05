@@ -118,11 +118,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/urls.py" timestamp="1502224898985">
-        <mark key="[" line="28" column="56" />
-        <mark key="]" line="28" column="79" />
-        <mark key="." line="28" column="79" />
-        <mark key="^" line="28" column="79" />
+      <file name="$USER_HOME$/work/location_server/location_server/urls.py" timestamp="1515184084091">
+        <mark key="'" line="42" column="16" />
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="35" column="15" />
+        <mark key="." line="35" column="15" />
+        <mark key="^" line="1" column="50" />
       </file>
       <file name="$USER_HOME$/work/location_server/ansible/group_vars/stage.yml" timestamp="1502293957043">
         <mark key="[" line="20" column="20" />
@@ -481,7 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/work/location_server/README.md" />
       <jump line="336" column="0" filename="$USER_HOME$/work/location_server/README.md" />
       <jump line="154" column="27" filename="$USER_HOME$/work/location_server/README.md" />
       <jump line="244" column="57" filename="$USER_HOME$/work/location_server/README.md" />
@@ -581,6 +581,7 @@
       <jump line="9" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
       <jump line="159" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
       <jump line="6" column="54" filename="$USER_HOME$/work/alcatraz/alocacao/serializers.py" />
+      <jump line="42" column="16" filename="$USER_HOME$/work/location_server/location_server/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -601,10 +602,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, False, True</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>g-d-7</text>
+        <text>url(</text>
       </register>
       <register name="0" type="4">
         <text>localizacao_jobs</text>
@@ -641,17 +642,16 @@
       </register>
     </registers>
     <search>
-      <last-search>g-d-7</last-search>
+      <last-search>url(</last-search>
       <last-offset />
-      <last-pattern>g-d-7</last-pattern>
-      <last-replace>c1</last-replace>
-      <last-substitute>g-d-7</last-substitute>
+      <last-pattern>url(</last-pattern>
+      <last-replace>re_path(</last-replace>
+      <last-substitute>url(</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>random</entry>
         <entry>1:</entry>
         <entry>2:</entry>
         <entry>3:</entry>
@@ -671,6 +671,7 @@
         <entry>ManytoM</entry>
         <entry>ManyToM</entry>
         <entry>g-d-7</entry>
+        <entry>url(</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -687,6 +688,7 @@
         <entry encoding="base64">JXMvPT0vPj0vZw==</entry>
         <entry>%s/g-d-7/four/g</entry>
         <entry>%s/g-d-7/c1/g</entry>
+        <entry encoding="base64">JzwsJz4lcy91cmwoL3JlX3BhdGgoLw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
