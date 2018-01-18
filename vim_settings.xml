@@ -76,11 +76,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/equipamento_proximo.py" timestamp="1506525677132">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="24" column="17" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/equipamento_proximo.py" timestamp="1516300448636">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="42" />
+        <mark key="." line="29" column="64" />
+        <mark key="^" line="29" column="64" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/alocacao/services.py" timestamp="1512828315732">
         <mark key="'" line="12" column="0" />
@@ -165,17 +165,19 @@
         <mark key="." line="2" column="55" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/work/location_server/worker.py" timestamp="1513341586566">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="67" column="38" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="16" column="48" />
+      <file name="$USER_HOME$/work/location_server/worker.py" timestamp="1516301060436">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="72" column="50" />
+        <mark key="]" line="72" column="62" />
+        <mark key="." line="72" column="62" />
+        <mark key="^" line="72" column="62" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/multilateracao.py" timestamp="1502984967357">
-        <mark key="[" line="5" column="54" />
-        <mark key="]" line="5" column="59" />
-        <mark key="^" line="5" column="59" />
-        <mark key="." line="5" column="59" />
+      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/multilateracao.py" timestamp="1516300562642">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="53" column="61" />
+        <mark key="]" line="53" column="73" />
+        <mark key="." line="53" column="73" />
+        <mark key="^" line="53" column="73" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/tests/test_manipulacao.py" timestamp="1510004894791">
         <mark key="[" line="15" column="0" />
@@ -482,9 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="0" filename="$USER_HOME$/work/location_server/README.md" />
-      <jump line="154" column="27" filename="$USER_HOME$/work/location_server/README.md" />
-      <jump line="244" column="57" filename="$USER_HOME$/work/location_server/README.md" />
       <jump line="289" column="37" filename="$USER_HOME$/work/location_server/README.md" />
       <jump line="359" column="39" filename="$USER_HOME$/work/location_server/README.md" />
       <jump line="32" column="20" filename="$USER_HOME$/work/location_server/README.md" />
@@ -582,6 +581,9 @@
       <jump line="159" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
       <jump line="6" column="54" filename="$USER_HOME$/work/alcatraz/alocacao/serializers.py" />
       <jump line="42" column="16" filename="$USER_HOME$/work/location_server/location_server/urls.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/work/location_server/localizadores/algoritmos/multilateracao.py" />
+      <jump line="71" column="81" filename="$USER_HOME$/work/location_server/worker.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/work/location_server/worker.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -602,40 +604,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ConnectionClosed</text>
+        <text>str(eq_mais_proximo)</text>
       </register>
       <register name="/" type="4">
         <text>url(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBwaWthLmV4Y2VwdGlvbnMuQ29ubmVjdGlvbkNsb3NlZDoKICAgICAgICBzZXR1cF9jaGFubmVsKCkKICAgICAgICBjaGFubmVsLmJhc2ljX3B1Ymxpc2goZXhjaGFuZ2U9ZXhjaGFuZ2UsICAjIHR5cGU6IGlnbm9yZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3V0aW5nX2tleT1rZXksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJvZHk9anNvbi5kdW1wcyhtc2cpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0aWVzPXByb3BlcnRpZXMpCiAgICAgICAgbG9nLmV4Y2VwdGlvbignTWVuc2FnZW0gcmVlbnZpYWRhIGRldmlkbyBhIHF1ZWRhIGRlIGNhbmFsLicsIGV4dHJhPW1zZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbC5iYXNpY19hY2sobWV0aG9kLmRlbGl2ZXJ5X3RhZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS51cmxyZXNvbHZlcnMgaW1wb3J0IHJldmVyc2UK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS51cmxyZXNvbHZlcnMgaW1wb3J0IHJldmVyc2UK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS51cmxyZXNvbHZlcnMgaW1wb3J0IHJldmVyc2UK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYW1wb3MgPSBqc29uLmxvYWRzKGJvZHkuZGVjb2RlKCd1dGYtOCcpKQogICAgICAgIGNhbXBvc1sncm91dGluZ19rZXknXSA9IG1ldGhvZC5yb3V0aW5nX2tleQogICAgICAgIGxvZ2dlci5leGNlcHRpb24oIkVycm8gbmEgYXR1YWxpemHDp8OjbyBkZSB7fSEiLmZvcm1hdChlbnRpZGFkZSksCiAgICAgICAgICAgICAgICAgICAgICAgICBleHRyYT1jYW1wb3MpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS51cmxyZXNvbHZlcnMgaW1wb3J0IHJldmVyc2UK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS51cmxyZXNvbHZlcnMgaW1wb3J0IHJldmVyc2UK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNoYW4uZXhjaGFuZ2VfZGVjbGFyZShleGNoYW5nZT0nbG9jYWxpemFjYW9fam9icycsIHR5cGU9J3RvcGljJywgZHVyYWJsZT1UcnVlKQo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS51cmxyZXNvbHZlcnMgaW1wb3J0IHJldmVyc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgc2VuZGVyOiAKICAgICAgICBpbnN0YW5jZTogCiAgICAgICAgKiprd2FyZ3M6IAoKICAgIFJldHVybnM6Cgo=</text>
+        <text encoding="base64">ICAgICAgICBjYW1wb3MgPSBqc29uLmxvYWRzKGJvZHkuZGVjb2RlKCd1dGYtOCcpKQogICAgICAgIGNhbXBvc1sncm91dGluZ19rZXknXSA9IG1ldGhvZC5yb3V0aW5nX2tleQogICAgICAgIGxvZ2dlci5leGNlcHRpb24oIkVycm8gbmEgYXR1YWxpemHDp8OjbyBkZSB7fSEiLmZvcm1hdChlbnRpZGFkZSksCiAgICAgICAgICAgICAgICAgICAgICAgICBleHRyYT1jYW1wb3MpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgc2VuZGVyOiAKICAgICAgICBpbnN0YW5jZTogCiAgICAgICAgY3JlYXRlZDogCiAgICAgICAgKiprd2FyZ3M6IAoKICAgIFJldHVybnM6Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6IAo=</text>
+        <text encoding="base64">ICAgIGNoYW4uZXhjaGFuZ2VfZGVjbGFyZShleGNoYW5nZT0nbG9jYWxpemFjYW9fam9icycsIHR5cGU9J3RvcGljJywgZHVyYWJsZT1UcnVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
