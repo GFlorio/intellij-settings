@@ -118,11 +118,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/middleware.py" timestamp="1516378673977">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/work/location_server/location_server/middleware.py" timestamp="1516382205898">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="65" />
+        <mark key="^" line="20" column="65" />
+        <mark key="." line="20" column="65" />
       </file>
       <file name="$USER_HOME$/work/location_server/location_server/urls.py" timestamp="1515184084091">
         <mark key="'" line="42" column="16" />
@@ -243,11 +243,11 @@
         <mark key="." line="54" column="28" />
         <mark key="^" line="54" column="28" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/settings/common.py" timestamp="1510943249633">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="55" column="0" />
+      <file name="$USER_HOME$/work/location_server/location_server/settings/common.py" timestamp="1516381379099">
+        <mark key="[" line="54" column="57" />
+        <mark key="]" line="54" column="57" />
+        <mark key="." line="54" column="57" />
+        <mark key="^" line="54" column="57" />
       </file>
       <file name="/Python Console" timestamp="1510129481402">
         <mark key="[" line="0" column="13" />
@@ -610,40 +610,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text>url(</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNsb3NlX29sZF9jb25uZWN0aW9ucygpCg==</text>
+      <register name="0" type="4">
+        <text>RequestLoggingMiddleware</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ19tZXNzYWdlKHJlcXVlc3QsICdyZXF1ZXN0ICcpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIENvZGUgdG8gYmUgZXhlY3V0ZWQgZm9yIGVhY2ggcmVxdWVzdCBiZWZvcmUKICAgICAgICAjIHRoZSB2aWV3IChhbmQgbGF0ZXIgbWlkZGxld2FyZSkgYXJlIGNhbGxlZC4KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ19tZXNzYWdlKHJlcXVlc3QsICdyZXF1ZXN0ICcpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIENvZGUgdG8gYmUgZXhlY3V0ZWQgZm9yIGVhY2ggcmVxdWVzdC9yZXNwb25zZSBhZnRlcgogICAgICAgICMgdGhlIHZpZXcgaXMgY2FsbGVkLgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBwcm9jZXNzX3Jlc3BvbnNlKHNlbGYsIHJlcXVlc3QsIHJlc3BvbnNlKToKICAgICAgICBzID0gZ2V0YXR0cihyZXNwb25zZSwgJ3N0YXR1c19jb2RlJywgMCkKCiAgICAgICAgcmV0dXJuIHJlc3BvbnNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBsb2dfbWVzc2FnZShyZXF1ZXN0LCB0YWcsIG1lc3NhZ2U9JycpOgoKICAgICAgICAoCiAgICAgICAgICAgICAgICB1JyVzICUtMTBzICVzICUyZCAlcyArJXMgJXMnICUgKAogICAgICAgICAgICBkdC5pc29mb3JtYXQoKSwKICAgICAgICAgICAgdGFnLAogICAgICAgICAgICByZXF1ZXN0Ll9sb2dnaW5nX3V1aWQsCiAgICAgICAgICAgIHJlcXVlc3QuX2xvZ2dpbmdfcGFzcywKICAgICAgICAgICAgcmVxdWVzdC5wYXRoLAogICAgICAgICAgICBkdCAtIHJlcXVlc3QuX2xvZ2dpbmdfc3RhcnRfZHQsCiAgICAgICAgICAgIG1lc3NhZ2UsCiAgICAgICAgKQogICAgICAgICkuZW5jb2RlKCd1dGYtOCcpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBwcm9jZXNzX3JlcXVlc3Qoc2VsZiwgcmVxdWVzdCk6CiAgICAgICAgcmVxdWVzdC5fdGltZSA9IGRhdGV0aW1lLmRhdGV0aW1lLnV0Y25vdygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByID0gc3RyKHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ19tZXNzYWdlKHJlcXVlc3QsICdyZXF1ZXN0ICcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzIGluICgzMDAsIDMwMSwgMzAyLCAzMDcpOgogICAgICAgICAgICByICs9ICcgPT4gJXMnICUgcmVzcG9uc2UuZ2V0KCdMb2NhdGlvbicsICc/JykKICAgICAgICBlbGlmIHJlc3BvbnNlLmNvbnRlbnQ6CiAgICAgICAgICAgIHIgKz0gJyAoJWRiKScgJSBsZW4ocmVzcG9uc2UuY29udGVudCkKICAgICAgICBzZWxmLmxvZ19tZXNzYWdlKHJlcXVlc3QsICdyZXNwb25zZScsIHIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ19tZXNzYWdlKHJlcXVlc3QsICdyZXF1ZXN0ICcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaGFzYXR0cihyZXF1ZXN0LCAnc3RhcnQnKToKICAgICAgICAgICAgcmVxdWVzdC5zdGFydCA9IHQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ID0gZGF0ZXRpbWUuZGF0ZXRpbWUudXRjbm93KCkK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBsb2dfbWVzc2FnZShyZXF1ZXN0LCB0YWcsIG1lc3NhZ2U9JycpOgoKICAgICAgICAoCiAgICAgICAgICAgICAgICB1JyVzICUtMTBzICVzICUyZCAlcyArJXMgJXMnICUgKAogICAgICAgICAgICBkdC5pc29mb3JtYXQoKSwKICAgICAgICAgICAgdGFnLAogICAgICAgICAgICByZXF1ZXN0Ll9sb2dnaW5nX3V1aWQsCiAgICAgICAgICAgIHJlcXVlc3QuX2xvZ2dpbmdfcGFzcywKICAgICAgICAgICAgcmVxdWVzdC5wYXRoLAogICAgICAgICAgICBkdCAtIHJlcXVlc3QuX2xvZ2dpbmdfc3RhcnRfZHQsCiAgICAgICAgICAgIG1lc3NhZ2UsCiAgICAgICAgKQogICAgICAgICkuZW5jb2RlKCd1dGYtOCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbwo=</text>
+        <text encoding="base64">ICAgICAgICByID0gc3RyKHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
