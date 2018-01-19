@@ -146,12 +146,12 @@
         <mark key="." line="2" column="55" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/work/location_server/worker.py" timestamp="1516354138533">
+      <file name="$USER_HOME$/work/location_server/worker.py" timestamp="1516393374058">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="27" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="40" column="7" />
+        <mark key="[" line="91" column="85" />
+        <mark key="]" line="91" column="84" />
+        <mark key="." line="91" column="84" />
+        <mark key="^" line="91" column="84" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/multilateracao.py" timestamp="1516300562642">
         <mark key="'" line="56" column="0" />
@@ -555,7 +555,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text encoding="base64">IGFzIGU=</text>
       </register>
       <register name="/" type="4">
         <text>url(</text>
