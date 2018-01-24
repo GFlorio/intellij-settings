@@ -151,12 +151,12 @@
         <mark key="^" line="105" column="0" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/multilateracao.py" timestamp="1516657291377">
+      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/multilateracao.py" timestamp="1516799230398">
         <mark key="'" line="57" column="0" />
-        <mark key="[" line="29" column="13" />
-        <mark key="]" line="29" column="12" />
-        <mark key="." line="29" column="12" />
-        <mark key="^" line="29" column="12" />
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="26" column="72" />
+        <mark key="." line="26" column="72" />
+        <mark key="^" line="26" column="72" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/alocacao/apps.py" timestamp="1511273055115">
         <mark key="[" line="4" column="21" />
@@ -553,7 +553,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>connection</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="/" type="4">
         <text>url(</text>
@@ -562,31 +562,31 @@
         <text encoding="base64">ICAgIGNyZWRzID0gcGlrYS5QbGFpbkNyZWRlbnRpYWxzKHVzZXJuYW1lPXNldHRpbmdzLk1RX1VTRVIsIHBhc3N3b3JkPXNldHRpbmdzLk1RX1BBU1MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBwcm9jZXNzX3RpbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGlmIGdldGF0dHIoYiwgc2Nhbi5jYW1wb19lcXVpcGFtZW50bykgaW4gc2Nhbi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NwdV9jb3N0JzogKHByb2Nlc3NfdGltZSgpIC0gc3RhcnQpKjEwMDAsCg==</text>
+        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBwcm9jZXNzX3RpbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydCA9IHByb2Nlc3NfdGltZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NwdV9jb3N0JzogKHByb2Nlc3NfdGltZSgpIC0gc3RhcnQpKjEwMDAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXFfdGltZSA9IGRhdGV0aW1lLnV0Y25vdygpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydCA9IHByb2Nlc3NfdGltZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgocHJvY2Vzc190aW1lKCkgLSBzdGFydCkgKiAxMDAwKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXFfdGltZSA9IGRhdGV0aW1lLnV0Y25vdygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgibGFsYWxhbGFsYWxhbGFsYWxsYWxhbGFsYWxhbGFsYWxhbGFsYWxhbGFsYWxhbGFsYWxhbGFsYWxhbGFsYWxhbGFsYWxhbGFsYWxhbGFsYSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgocHJvY2Vzc190aW1lKCkgLSBzdGFydCkgKiAxMDAwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBjb25uZWN0aW9uLmlvbG9vcC5zdGFydCgpCiAgICBleGNlcHQgS2V5Ym9hcmRJbnRlcnJ1cHQ6CiAgICAgICAgY29ubmVjdGlvbi5jbG9zZSgpCiAgICBleGNlcHQgQmFzZUV4Y2VwdGlvbjoKICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCJDb25leMOjbyBkbyB3b3JrZXIgY29tIG8gTVEgY2FpdSEiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgibGFsYWxhbGFsYWxhbGFsYWxsYWxhbGFsYWxhbGFsYWxhbGFsYWxhbGFsYWxhbGFsYWxhbGFsYWxhbGFsYWxhbGFsYWxhbGFsYWxhbGFsYSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBjb25uZWN0aW9uLmlvbG9vcC5zdGFydCgpCiAgICBleGNlcHQgS2V5Ym9hcmRJbnRlcnJ1cHQ6CiAgICAgICAgY29ubmVjdGlvbi5jbG9zZSgpCiAgICBleGNlcHQgQmFzZUV4Y2VwdGlvbjoKICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCJDb25leMOjbyBkbyB3b3JrZXIgY29tIG8gTVEgY2FpdSEiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3Rpb24gPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
