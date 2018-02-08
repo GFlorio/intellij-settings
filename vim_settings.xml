@@ -16,6 +16,12 @@
         <mark key="^" line="45" column="62" />
         <mark key="." line="45" column="62" />
       </file>
+      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1518122082880">
+        <mark key="[" line="81" column="77" />
+        <mark key="]" line="81" column="77" />
+        <mark key="^" line="81" column="13" />
+        <mark key="." line="81" column="77" />
+      </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipos.py" timestamp="1506790549424">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="28" />
@@ -558,7 +564,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text encoding="base64">ICAjIHR5cGU6IFBpc28=</text>
       </register>
       <register name="/" type="4">
         <text>nula</text>
