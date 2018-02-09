@@ -59,11 +59,12 @@
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/work/location_server/places/models.py" timestamp="1506524558369">
-        <mark key="[" line="80" column="44" />
-        <mark key="]" line="80" column="58" />
-        <mark key="^" line="80" column="58" />
-        <mark key="." line="80" column="58" />
+      <file name="$USER_HOME$/work/location_server/places/models.py" timestamp="1518182933645">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="52" column="37" />
+        <mark key="]" line="52" column="46" />
+        <mark key="." line="52" column="37" />
+        <mark key="^" line="42" column="22" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/templates/grappelli/dashboard/dashboard.html" timestamp="1511283440723">
         <mark key="'" line="5" column="19" />
@@ -433,8 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="351" column="0" filename="$USER_HOME$/work/location_server/README.md" />
-      <jump line="3" column="0" filename="$USER_HOME$/work/location_server/localizadores/algoritmos/base.py" />
       <jump line="36" column="8" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" />
       <jump line="3" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" />
@@ -533,6 +532,8 @@
       <jump line="47" column="27" filename="$USER_HOME$/work/location_server/localizadores/services.py" />
       <jump line="6" column="0" filename="$USER_HOME$/work/location_server/localizadores/services.py" />
       <jump line="48" column="29" filename="$USER_HOME$/work/location_server/localizadores/services.py" />
+      <jump line="52" column="32" filename="$USER_HOME$/work/location_server/places/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/location_server/places/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -553,7 +554,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, None</text>
+        <text encoding="base64">IChpZDoge30p</text>
       </register>
       <register name="/" type="4">
         <text>nula</text>
@@ -562,31 +563,31 @@
         <text encoding="base64">U1RBVElDX1JPT1QgPSBvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICdzdGF0aWMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwb3NpY2FvLnNhdmUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBTVEFUSUNGSUxFU19ESVJTID0gWwojICAgICBvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICJzdGF0aWMiKSwKIyBdCg==</text>
+        <text encoding="base64">ICAgICAgICBwaXNvcyA9IFBpc28ub2JqZWN0cy5maWx0ZXIocHJlZGlvPXNlbGYpCiAgICAgICAgZm9yIHBpc28gaW4gcGlzb3M6CiAgICAgICAgICAgIHBpc28ucHJlZGlvX2pzb24gPSBzZWxmLmpzb24KICAgICAgICAgICAgcGlzby5jbGllbnRJZCA9IHNlbGYuY2xpZW50SWQKICAgICAgICAgICAgcGlzby5zYXZlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBsb2NhbGl6YWRvcmVzLnRyZWluYW1lbnRvIGltcG9ydCB0cmVpbmFfbW9kZWxvCg==</text>
+        <text encoding="base64">ICAgICAgICBjcmlhbmRvID0gbm90IHNlbGYucGsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zaWNhbyA9IE5vbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxvX3BhZHJhbyA9IGdldF9sb2NhbGl6YWRvcl9wYWRyYW8ocGlzbykKICAgICAgICAgICAgdHJlaW5hX21vZGVsbyhtb2RlbG9fcGFkcmFvLCBwaXNvKQogICAgICAgICAgICBsb2NhbGl6YWRvci5zZXRfbW9kZWxvKG1vZGVsb19wYWRyYW8pCiAgICAgICAgICAgIGxvY2FsaXphZG9yLnNhdmUoKQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBjcmlhbmRvIGFuZCBzZWxmLnByZWRpbyBpcyBub3QgTm9uZToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgc2VsZi5wcmVkaW8gPSBQcmVkaW8ub2JqZWN0cy5nZXQocGs9c2VsZi5wcmVkaW8pCiAgICAgICAgICAgIGV4Y2VwdCBQcmVkaW8uRG9lc05vdEV4aXN0OgogICAgICAgICAgICAgICAgbG9nZ2VyLmV4Y2VwdGlvbignUGlzbyB7fSB0ZW50b3Ugc2VyIHNhbHZvIHNlbSBwcmVkaW8hJy5mb3JtYXQoc2VsZi5waykpCiAgICAgICAgICAgICAgICByYWlzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnT1BUSU9OUyc6IHsKICAgICAgICAgICAgJ01BWF9FTlRSSUVTJzogMTAwMAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyKCkuc2F2ZSgqYXJncywgKiprd2FyZ3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnVElNRU9VVCc6IDYwLAogICAgICAgICdPUFRJT05TJzogewogICAgICAgICAgICAnTUFYX0VOVFJJRVMnOiAxMDAwCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICMgQ29tbyBvIGNhbXBvIHByZWRpbyBuw6NvIMOpIEZLLCB2YW1vcyBldml0YXIgZG9yIGRlIGNhYmXDp2E6CiAgICBjbGllbnRJZCA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD01MCwgbnVsbD1UcnVlLCBlZGl0YWJsZT1GYWxzZSkKICAgIHByZWRpb19qc29uID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTIwNDgsIGRlZmF1bHQ9J3t9JywgZWRpdGFibGU9RmFsc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q0FDSEUgPSB7CiAgICAnZGVmYXVsdCc6IHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jbGllbnRJZCA9IHByZWRpby5jbGllbnRJZAogICAgICAgICAgICBzZWxmLnByZWRpb19qc29uID0gcHJlZGlvLmpzb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwb3NpY2FvLnNhdmUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
