@@ -401,11 +401,11 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="14" column="61" />
       </file>
-      <file name="$USER_HOME$/work/location_server/places/migrations/0002_auto_20180209_1630.py" timestamp="1518644308188">
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="8" column="40" />
-        <mark key="^" line="8" column="40" />
-        <mark key="." line="8" column="40" />
+      <file name="$USER_HOME$/work/location_server/places/migrations/0002_auto_20180209_1630.py" timestamp="1518702196492">
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="33" column="19" />
+        <mark key="^" line="33" column="19" />
+        <mark key="." line="33" column="19" />
       </file>
       <file name="$USER_HOME$/work/location_server/places/tasks.py" timestamp="1512567401162">
         <mark key="[" line="45" column="87" />
