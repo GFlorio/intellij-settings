@@ -401,11 +401,11 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="14" column="61" />
       </file>
-      <file name="$USER_HOME$/work/location_server/places/migrations/0002_auto_20180209_1630.py" timestamp="1518702196492">
-        <mark key="[" line="32" column="36" />
-        <mark key="]" line="33" column="19" />
-        <mark key="^" line="33" column="19" />
-        <mark key="." line="33" column="19" />
+      <file name="$USER_HOME$/work/location_server/places/migrations/0002_auto_20180209_1630.py" timestamp="1518716780220">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="23" />
       </file>
       <file name="$USER_HOME$/work/location_server/places/tasks.py" timestamp="1512567401162">
         <mark key="[" line="45" column="87" />
@@ -560,13 +560,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Predio</text>
+        <text>Piso</text>
       </register>
       <register name="/" type="4">
         <text>nula</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFByZWRpbyA9IGFwcHMuZ2V0X21vZGVsKCdwbGFjZXMnLCAnUHJlZGlvJykK</text>
+        <text encoding="base64">ICAgIHBpc29zID0gbGlzdChQaXNvLm9iamVjdHMuYWxsKCkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
