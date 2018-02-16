@@ -34,11 +34,12 @@
         <mark key="." line="45" column="49" />
         <mark key="^" line="45" column="49" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/mq.py" timestamp="1516801698348">
-        <mark key="[" line="66" column="78" />
-        <mark key="]" line="66" column="92" />
-        <mark key="^" line="66" column="92" />
-        <mark key="." line="66" column="92" />
+      <file name="$USER_HOME$/work/location_server/location_server/mq.py" timestamp="1518803917797">
+        <mark key="'" line="73" column="30" />
+        <mark key="[" line="74" column="63" />
+        <mark key="]" line="76" column="17" />
+        <mark key="^" line="76" column="17" />
+        <mark key="." line="76" column="17" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1512577832545">
         <mark key="[" line="42" column="54" />
@@ -89,6 +90,11 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
+      <file name="$USER_HOME$/work/location_server/location_server/middleware.py" timestamp="1518803712857">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="36" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/work/location_server/ansible/group_vars/stage.yml" timestamp="1502293957043">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="20" column="25" />
@@ -131,9 +137,9 @@
         <mark key="^" line="44" column="37" />
         <mark key="." line="45" column="38" />
       </file>
-      <file name="$USER_HOME$/work/location_server/worker.py" timestamp="1518636162889">
-        <mark key="[" line="56" column="27" />
-        <mark key="]" line="56" column="27" />
+      <file name="$USER_HOME$/work/location_server/worker.py" timestamp="1518803500174">
+        <mark key="[" line="103" column="48" />
+        <mark key="]" line="103" column="72" />
         <mark key="^" line="55" column="25" />
         <mark key="." line="56" column="27" />
       </file>
@@ -191,6 +197,11 @@
         <mark key="]" line="31" column="55" />
         <mark key="." line="65" column="0" />
         <mark key="^" line="63" column="41" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/recursos/services.py" timestamp="1516803483045">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/work/location_server/location_server/settings/common.py" timestamp="1518134823890">
         <mark key="[" line="73" column="0" />
@@ -342,6 +353,11 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="10" column="44" />
       </file>
+      <file name="$USER_HOME$/work/location_server/location_server/settings/dev.py" timestamp="1518123873550">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/work/location_server/localizadores/admin.py" timestamp="1518799709373">
         <mark key="[" line="16" column="62" />
         <mark key="]" line="16" column="69" />
@@ -404,7 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" />
       <jump line="36" column="6" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="102" column="23" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="110" column="67" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
@@ -504,6 +519,7 @@
       <jump line="103" column="22" filename="$USER_HOME$/work/location_server/places/models.py" />
       <jump line="25" column="26" filename="$USER_HOME$/work/location_server/places/admin.py" />
       <jump line="0" column="22" filename="$USER_HOME$/work/location_server/places/models.py" />
+      <jump line="74" column="30" filename="$USER_HOME$/work/location_server/location_server/mq.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -524,13 +540,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pk</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>nula</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlYWRvbmx5X2ZpZWxkcyA9ICgnc2NvcmUnLCAnbW9kaWZpY2FkbycpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXFfdGltZSA9IGRhdGV0aW1lLnV0Y25vdygpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlCg==</text>
