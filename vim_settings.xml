@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/location_server/recursos/recursos.py" timestamp="1519760574589">
-        <mark key="'" line="58" column="0" />
+      <file name="$USER_HOME$/work/location_server/recursos/recursos.py" timestamp="1519762057310">
+        <mark key="'" line="57" column="0" />
         <mark key="[" line="36" column="76" />
-        <mark key="]" line="31" column="7" />
-        <mark key="." line="31" column="7" />
-        <mark key="^" line="31" column="7" />
+        <mark key="]" line="36" column="17" />
+        <mark key="." line="36" column="17" />
+        <mark key="^" line="36" column="17" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1519135539586">
         <mark key="'" line="205" column="60" />
