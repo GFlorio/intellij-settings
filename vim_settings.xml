@@ -393,11 +393,12 @@
         <mark key="." line="14" column="51" />
         <mark key="^" line="14" column="51" />
       </file>
-      <file name="$USER_HOME$/work/location_server/places/tasks.py" timestamp="1512567401162">
-        <mark key="[" line="45" column="87" />
-        <mark key="]" line="46" column="26" />
-        <mark key="^" line="46" column="26" />
-        <mark key="." line="46" column="26" />
+      <file name="$USER_HOME$/work/location_server/places/tasks.py" timestamp="1520025914294">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="67" column="48" />
+        <mark key="^" line="28" column="15" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/fusao_simples.py" timestamp="1503080017383">
         <mark key="[" line="13" column="0" />
@@ -419,12 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="189" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="185" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="182" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="177" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="17" column="21" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="26" column="27" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/codificacao.py" />
       <jump line="11" column="2" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
       <jump line="163" column="12" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
@@ -519,6 +514,12 @@
       <jump line="75" column="8" filename="$USER_HOME$/work/location_server/recursos/recursos.py" />
       <jump line="52" column="0" filename="$USER_HOME$/work/location_server/recursos/recursos.py" />
       <jump line="58" column="23" filename="$USER_HOME$/work/location_server/recursos/models.py" />
+      <jump line="27" column="18" filename="$USER_HOME$/work/location_server/places/tasks.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/work/location_server/places/tasks.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/work/location_server/places/tasks.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/work/location_server/places/tasks.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/work/location_server/places/tasks.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/work/location_server/places/tasks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -539,13 +540,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>k == eq</text>
+        <text>Predio</text>
       </register>
       <register name="/" type="4">
         <text>prin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlaXR1cmFzX3RyYXRhZGFzW2VxXSA9IG1heCh2IGZvciBrLCB2IGluIGl0ZW5zX2xlaXR1cmEgaWYgayA9PSBlcSkK</text>
+        <text encoding="base64">ICAgIGVsaWYgdmVyYm8gPT0gJ3N5bmMnOgogICAgICAgIGlkc191dGlsaXphZG9zID0gW3hbJ3VuaWRhZGVJZCddIGZvciB4IGluIGNhbXBvc10KICAgICAgICBQcmVkaW8ub2JqZWN0cy5leGNsdWRlKHBrX19pbj1pZHNfdXRpbGl6YWRvcykuZGVsZXRlKCkKICAgICAgICBmb3IgaXRlbSBpbiBjYW1wb3M6CiAgICAgICAgICAgIFByZWRpbyhqc29uPWpzb24uZHVtcHMoaXRlbSkpLnNhdmUoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
