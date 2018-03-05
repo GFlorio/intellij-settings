@@ -393,12 +393,12 @@
         <mark key="." line="14" column="51" />
         <mark key="^" line="14" column="51" />
       </file>
-      <file name="$USER_HOME$/work/location_server/places/tasks.py" timestamp="1520027582655">
+      <file name="$USER_HOME$/work/location_server/places/tasks.py" timestamp="1520027644542">
         <mark key="'" line="67" column="8" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="67" column="48" />
-        <mark key="^" line="28" column="15" />
-        <mark key="." line="63" column="0" />
+        <mark key="[" line="67" column="12" />
+        <mark key="]" line="67" column="25" />
+        <mark key="^" line="67" column="25" />
+        <mark key="." line="67" column="25" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/fusao_simples.py" timestamp="1503080017383">
         <mark key="[" line="13" column="0" />
@@ -576,7 +576,7 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ0dlb2ZlbmNlcyB0ZXN0YWRvcy4nLCBleHRyYT17J2dlb2ZlbmNlcyc6IFt4Lmpzb24gZm9yIHggaW4gcG9pc119KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -621,13 +621,13 @@
         <entry encoding="base64">JzwsJz5zL1svey8=</entry>
         <entry encoding="base64">JzwsJz5zL1woXCkvXCgqXCkv</entry>
         <entry encoding="base64">JzwsJz5zL18vLS9n</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL3Zhci50aXBvL3RpcG9fdmFyL2c=</entry>
         <entry encoding="base64">JXMvPT0vPj0vZw==</entry>
         <entry>%s/g-d-7/four/g</entry>
         <entry>%s/g-d-7/c1/g</entry>
         <entry encoding="base64">JzwsJz4lcy91cmwoL3JlX3BhdGgoLw==</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
