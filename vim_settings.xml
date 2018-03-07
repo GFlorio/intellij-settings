@@ -332,11 +332,11 @@
         <mark key="." line="29" column="19" />
         <mark key="^" line="29" column="19" />
       </file>
-      <file name="$USER_HOME$/work/location_server/gunicorn.conf" timestamp="1520448721969">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="33" />
-        <mark key="." line="8" column="33" />
-        <mark key="^" line="8" column="33" />
+      <file name="$USER_HOME$/work/location_server/gunicorn.conf" timestamp="1520453402969">
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="9" column="56" />
+        <mark key="." line="9" column="56" />
+        <mark key="^" line="9" column="56" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" timestamp="1506872780310">
         <mark key="[" line="1" column="0" />
@@ -550,7 +550,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>prin</text>
