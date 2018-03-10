@@ -110,6 +110,12 @@
         <mark key="." line="19" column="29" />
         <mark key="^" line="19" column="29" />
       </file>
+      <file name="$USER_HOME$/work/location_server/location_server/urls.py" timestamp="1520688079395">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+        <mark key="." line="21" column="34" />
+      </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/demanda.py" timestamp="1502041754017">
         <mark key="[" line="43" column="14" />
         <mark key="]" line="43" column="14" />
@@ -338,6 +344,13 @@
         <mark key="." line="9" column="56" />
         <mark key="^" line="9" column="56" />
       </file>
+      <file name="$USER_HOME$/work/location_server/recursos/serializers.py" timestamp="1520688137521">
+        <mark key="'" line="1" column="46" />
+        <mark key="[" line="72" column="22" />
+        <mark key="]" line="72" column="26" />
+        <mark key="^" line="72" column="26" />
+        <mark key="." line="72" column="26" />
+      </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/operacoes.py" timestamp="1506872780310">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -430,7 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="12" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
       <jump line="14" column="27" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
       <jump line="129" column="37" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
       <jump line="130" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
@@ -530,6 +542,7 @@
       <jump line="14" column="0" filename="$USER_HOME$/work/location_server/places/tasks.py" />
       <jump line="2" column="10" filename="$USER_HOME$/work/location_server/places/tasks.py" />
       <jump line="67" column="8" filename="$USER_HOME$/work/location_server/places/tasks.py" />
+      <jump line="1" column="46" filename="$USER_HOME$/work/location_server/recursos/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -550,7 +563,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>prin</text>
