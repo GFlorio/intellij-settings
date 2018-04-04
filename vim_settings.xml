@@ -241,8 +241,8 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/services.py" timestamp="1522711705491">
-        <mark key="'" line="3" column="13" />
+      <file name="$USER_HOME$/work/location_server/localizadores/services.py" timestamp="1522876157092">
+        <mark key="'" line="86" column="21" />
         <mark key="[" line="59" column="63" />
         <mark key="]" line="59" column="68" />
         <mark key="." line="59" column="68" />
@@ -455,7 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="37" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
       <jump line="130" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
       <jump line="143" column="36" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
       <jump line="144" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
@@ -555,6 +554,7 @@
       <jump line="67" column="8" filename="$USER_HOME$/work/location_server/places/tasks.py" />
       <jump line="1" column="46" filename="$USER_HOME$/work/location_server/recursos/serializers.py" />
       <jump line="3" column="13" filename="$USER_HOME$/work/location_server/localizadores/services.py" />
+      <jump line="86" column="21" filename="$USER_HOME$/work/location_server/localizadores/services.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
