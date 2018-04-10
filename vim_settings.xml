@@ -43,11 +43,11 @@
         <mark key="." line="45" column="49" />
         <mark key="^" line="45" column="49" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/mq.py" timestamp="1523382881273">
+      <file name="$USER_HOME$/work/location_server/location_server/mq.py" timestamp="1523386149343">
         <mark key="'" line="22" column="23" />
-        <mark key="[" line="41" column="8" />
-        <mark key="]" line="41" column="11" />
-        <mark key="." line="41" column="11" />
+        <mark key="[" line="44" column="11" />
+        <mark key="]" line="44" column="11" />
+        <mark key="." line="44" column="11" />
         <mark key="^" line="41" column="11" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1512577832545">
@@ -578,7 +578,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>channel</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>setup</text>
