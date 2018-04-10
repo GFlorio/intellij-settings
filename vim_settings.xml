@@ -99,11 +99,11 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/middleware.py" timestamp="1522694591655">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="41" column="37" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/work/location_server/location_server/middleware.py" timestamp="1523396634473">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/work/location_server/ansible/group_vars/stage.yml" timestamp="1502293957043">
         <mark key="[" line="20" column="20" />
@@ -578,40 +578,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>connections</text>
+        <text>cls</text>
       </register>
       <register name="/" type="4">
         <text>setup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbm4gPSBwaWthLkJsb2NraW5nQ29ubmVjdGlvbihwYXJhbWV0ZXJzPXBhcmFtcykK</text>
+        <text encoding="base64">ICAgICAgICBjbHMubWlsZXN0b25lc1tuYW1lXSA9IChwZXJmX2NvdW50ZXIoKSAtIGxvY2FsKCkucmVxX3RpbWUpKjEwMDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubiA9IHBpa2EuQmxvY2tpbmdDb25uZWN0aW9uKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFuLmJhc2ljX3B1Ymxpc2goZXhjaGFuZ2U9ZXhjaGFuZ2UsICAjIHR5cGU6IGlnbm9yZQogICAgICAgICAgICAgICAgICAgICAgICAgICByb3V0aW5nX2tleT1rZXksCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGJvZHk9anNvbi5kdW1wcyhtc2cpLAogICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0aWVzPXByb3BlcnRpZXMpCiAgICAgICAgY2hhbi5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIG1pbGVzdG9uZShjbHMsIG5hbWUpOgogICAgICAgIGNscy5taWxlc3RvbmVzW25hbWVdID0gKHBlcmZfY291bnRlcigpIC0gbG9jYWwoKS5yZXFfdGltZSkqMTAwMAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFuID0gY29ubi5jaGFubmVsKCkK</text>
+        <text encoding="base64">ICAgIFByb2ZpbGluZ01pZGRsZXdhcmUubWlsZXN0b25lKG5hbWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBjb25uCg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9maWxpbmdNaWRkbGV3YXJlLnJlcV90aW1lID0gcGVyZl9jb3VudGVyKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29ubiA9IHBpa2EuQmxvY2tpbmdDb25uZWN0aW9uKHBhcmFtZXRlcnM9cGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgIHJlcV90aW1lID0gcGVyZl9jb3VudGVyKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFuLmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1pbGVzdG9uZXMgPSB7fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFuID0gY29ubi5jaGFubmVsKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1pbGVzdG9uZXMgPSBsb2NhbCgpLm1pbGVzdG9uZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBEZWNsYXJhIG8gZXhjaGFuZ2UgZSBhcyBmaWxhcwo=</text>
+        <text encoding="base64">ICAgIG1pbGVzdG9uZXMgPSB7fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFuLmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubiA9IHBpa2EuQmxvY2tpbmdDb25uZWN0aW9uKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
