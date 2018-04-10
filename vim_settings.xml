@@ -43,11 +43,12 @@
         <mark key="." line="45" column="49" />
         <mark key="^" line="45" column="49" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/mq.py" timestamp="1523381705340">
-        <mark key="[" line="54" column="58" />
-        <mark key="]" line="54" column="64" />
-        <mark key="^" line="54" column="64" />
-        <mark key="." line="54" column="64" />
+      <file name="$USER_HOME$/work/location_server/location_server/mq.py" timestamp="1523382881273">
+        <mark key="'" line="22" column="23" />
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="41" column="11" />
+        <mark key="." line="41" column="11" />
+        <mark key="^" line="41" column="11" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1512577832545">
         <mark key="[" line="42" column="54" />
@@ -152,8 +153,8 @@
         <mark key="^" line="44" column="37" />
         <mark key="." line="45" column="38" />
       </file>
-      <file name="$USER_HOME$/work/location_server/worker.py" timestamp="1523381741659">
-        <mark key="'" line="11" column="17" />
+      <file name="$USER_HOME$/work/location_server/worker.py" timestamp="1523382640466">
+        <mark key="'" line="12" column="0" />
         <mark key="[" line="103" column="48" />
         <mark key="]" line="103" column="72" />
         <mark key="^" line="55" column="25" />
@@ -457,9 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="36" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
-      <jump line="144" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
-      <jump line="157" column="39" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
       <jump line="158" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
       <jump line="166" column="32" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
       <jump line="174" column="46" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
@@ -556,7 +554,10 @@
       <jump line="1" column="46" filename="$USER_HOME$/work/location_server/recursos/serializers.py" />
       <jump line="3" column="13" filename="$USER_HOME$/work/location_server/localizadores/services.py" />
       <jump line="86" column="21" filename="$USER_HOME$/work/location_server/localizadores/services.py" />
-      <jump line="11" column="17" filename="$USER_HOME$/work/location_server/worker.py" />
+      <jump line="0" column="4" filename="$USER_HOME$/work/location_server/worker.py" />
+      <jump line="11" column="11" filename="$USER_HOME$/work/location_server/worker.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/work/location_server/worker.py" />
+      <jump line="22" column="23" filename="$USER_HOME$/work/location_server/location_server/mq.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -577,49 +578,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>canal</text>
+        <text>channel</text>
       </register>
       <register name="/" type="4">
-        <text>prin</text>
+        <text>setup</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNoYW4gPSBjb25uLmNoYW5uZWwoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBwaWthLmV4Y2VwdGlvbnMuQ2hhbm5lbENsb3NlZDoKICAgICAgICBjb25uID0gcGlrYS5CbG9ja2luZ0Nvbm5lY3Rpb24ocGFyYW1ldGVycz1wYXJhbXMpCiAgICAgICAgc2V0dXBfY2hhbm5lbCgpCiAgICAgICAgY2hhbm5lbC5iYXNpY19wdWJsaXNoKGV4Y2hhbmdlPWV4Y2hhbmdlLCAgIyB0eXBlOiBpZ25vcmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm91dGluZ19rZXk9a2V5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBib2R5PWpzb24uZHVtcHMobXNnKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcz1wcm9wZXJ0aWVzKQogICAgICAgIGxvZy53YXJuaW5nKCdNZW5zYWdlbSByZWVudmlhZGEgZGV2aWRvIGEgcXVlZGEgZGUgY2FuYWwuJywgZXh0cmE9bXNnLCBleGNfaW5mbz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFuLmNsb3NlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoYW4gPSBjb25uLmNoYW5uZWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFuID0gY29ubi5jaGFubmVsKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBzZXR1cF9mZWl0bzoKICAgICAgICBzZXR1cF9jaGFubmVsKCkKCiAgICBpZiBjaGFubmVsIGlzIE5vbmU6CiAgICAgICAgc2V0dXBfY2hhbm5lbCgpCiAgICAgICAgc2V0dXBfZmlsYV9tb250YWdlbShjaGFubmVsKQo=</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHNldHVwX2ZpbGFfbW9udGFnZW0oY2hhbiwgYXN5bmNoPUZhbHNlKToKICAgIGlmIGFzeW5jaDoKICAgICAgICBkZWYgYmluZF9xdWV1ZSgqYXJncywgKiprd2FyZ3MpOgogICAgICAgICAgICBjaGFuLnF1ZXVlX2JpbmQoTm9uZSwgcXVldWU9J21vbnRhZ2VucycsIGV4Y2hhbmdlPSdsb2NhbGl6YWNhb19qb2JzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJvdXRpbmdfa2V5PSdtb250YWdlbS4jJykKCiAgICAgICAgY2hhbi5xdWV1ZV9kZWNsYXJlKGJpbmRfcXVldWUsICdtb250YWdlbnMnLCBkdXJhYmxlPVRydWUpCiAgICBlbHNlOgoK</text>
+        <text encoding="base64">ZGVmIHNldHVwX2NoYW5uZWwoY29ubik6CiAgICAjIERlY2xhcmEgbyBleGNoYW5nZSBlIGFzIGZpbGFzCiAgICBjaGFubmVsID0gY29ubi5jaGFubmVsKCkKICAgIGNoYW5uZWwuZXhjaGFuZ2VfZGVjbGFyZShleGNoYW5nZT0nbG9jYWxpemFjb2VzJywgZXhjaGFuZ2VfdHlwZT0ndG9waWMnLCBkdXJhYmxlPVRydWUpCgogICAgY2hhbm5lbC5xdWV1ZV9kZWNsYXJlKCdsb2NhbGl6YWNhb191cGRhdGVzZ2VzdGFvJywgZHVyYWJsZT1UcnVlKQogICAgY2hhbm5lbC5xdWV1ZV9iaW5kKHF1ZXVlPSdsb2NhbGl6YWNhb191cGRhdGVzZ2VzdGFvJywgZXhjaGFuZ2U9J2xvY2FsaXphY29lcycsCiAgICAgICAgICAgICAgICAgICAgICAgcm91dGluZ19rZXk9J2dlc3Rhb2xvY2FsaXphY2FvLiMnKQogICAgY2hhbm5lbC5leGNoYW5nZV9kZWNsYXJlKGV4Y2hhbmdlPSdsb2NhbGl6YWNhb19qb2JzJywgZXhjaGFuZ2VfdHlwZT0ndG9waWMnLCBkdXJhYmxlPVRydWUpCgogICAgY2hhbm5lbC5xdWV1ZV9kZWNsYXJlKCdtb250YWdlbnMnLCBkdXJhYmxlPVRydWUpCiAgICBjaGFubmVsLnF1ZXVlX2JpbmQocXVldWU9J21vbnRhZ2VucycsIGV4Y2hhbmdlPSdsb2NhbGl6YWNhb19qb2JzJywKICAgICAgICAgICAgICAgICAgICAgICByb3V0aW5nX2tleT0nbW9udGFnZW0uIycpCiAgICBjaGFubmVsLmNsb3NlKCkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFuLnF1ZXVlX2RlY2xhcmUoJ21vbnRhZ2VucycsIGR1cmFibGU9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFuLnF1ZXVlX2JpbmQocXVldWU9J21vbnRhZ2VucycsIGV4Y2hhbmdlPSdsb2NhbGl6YWNhb19qb2JzJywKICAgICAgICAgICAgICAgICAgICAgICAgcm91dGluZ19rZXk9J21vbnRhZ2VtLiMnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2V0dXBfZmVpdG8gPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBwaWthLmV4Y2VwdGlvbnMuQ2hhbm5lbENsb3NlZDoKICAgICAgICBjb25uID0gcGlrYS5CbG9ja2luZ0Nvbm5lY3Rpb24ocGFyYW1ldGVycz1wYXJhbXMpCiAgICAgICAgc2V0dXBfY2hhbm5lbCgpCiAgICAgICAgY2hhbm5lbC5iYXNpY19wdWJsaXNoKGV4Y2hhbmdlPWV4Y2hhbmdlLCAgIyB0eXBlOiBpZ25vcmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm91dGluZ19rZXk9a2V5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBib2R5PWpzb24uZHVtcHMobXNnKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcz1wcm9wZXJ0aWVzKQogICAgICAgIGxvZy53YXJuaW5nKCdNZW5zYWdlbSByZWVudmlhZGEgZGV2aWRvIGEgcXVlZGEgZGUgY2FuYWwuJywgZXh0cmE9bXNnLCBleGNfaW5mbz1UcnVlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHNldHVwX2NoYW5uZWwoKToKICAgIGdsb2JhbCBjb25uCgoKCg==</text>
+        <text encoding="base64">ICAgIGNoYW4gPSBjb25uLmNoYW5uZWwoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>prin</last-search>
+      <last-search>setup</last-search>
       <last-offset />
-      <last-pattern>prin</last-pattern>
+      <last-pattern>setup</last-pattern>
       <last-replace>re_path(</last-replace>
       <last-substitute>url(</last-substitute>
       <last-dir>1</last-dir>
@@ -627,7 +628,6 @@
     </search>
     <history>
       <history-search>
-        <entry>3:</entry>
         <entry>List</entry>
         <entry>[/{/</entry>
         <entry>###</entry>
@@ -647,6 +647,7 @@
         <entry>url(</entry>
         <entry>nula</entry>
         <entry>prin</entry>
+        <entry>setup</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
