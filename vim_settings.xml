@@ -10,11 +10,12 @@
         <mark key="." line="36" column="17" />
         <mark key="^" line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1519135539586">
-        <mark key="'" line="205" column="60" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1523471156469">
+        <mark key="'" line="77" column="19" />
+        <mark key="[" line="125" column="15" />
+        <mark key="]" line="125" column="36" />
+        <mark key="." line="125" column="36" />
+        <mark key="^" line="125" column="36" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipos.py" timestamp="1506790549424">
         <mark key="[" line="8" column="6" />
@@ -43,12 +44,12 @@
         <mark key="." line="45" column="49" />
         <mark key="^" line="45" column="49" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/mq.py" timestamp="1523393616461">
-        <mark key="'" line="22" column="23" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="48" column="11" />
+      <file name="$USER_HOME$/work/location_server/location_server/mq.py" timestamp="1523470459236">
+        <mark key="'" line="23" column="23" />
+        <mark key="[" line="44" column="11" />
+        <mark key="]" line="44" column="14" />
+        <mark key="." line="44" column="14" />
+        <mark key="^" line="44" column="14" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1512577832545">
         <mark key="[" line="42" column="54" />
@@ -99,11 +100,12 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/middleware.py" timestamp="1523396634473">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/work/location_server/location_server/middleware.py" timestamp="1523471371741">
+        <mark key="'" line="38" column="6" />
+        <mark key="[" line="32" column="47" />
+        <mark key="]" line="32" column="53" />
+        <mark key="." line="32" column="53" />
+        <mark key="^" line="32" column="53" />
       </file>
       <file name="$USER_HOME$/work/location_server/ansible/group_vars/stage.yml" timestamp="1502293957043">
         <mark key="[" line="20" column="20" />
@@ -166,11 +168,11 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" timestamp="1515417445815">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="51" column="49" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" timestamp="1523469579805">
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="25" column="30" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="25" column="30" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/agregacao.py" timestamp="1503526061481">
         <mark key="[" line="55" column="0" />
@@ -401,11 +403,11 @@
         <mark key="^" line="16" column="69" />
         <mark key="." line="16" column="69" />
       </file>
-      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" timestamp="1515326402713">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="28" column="80" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" timestamp="1523469921402">
+        <mark key="[" line="104" column="31" />
+        <mark key="]" line="104" column="34" />
+        <mark key="^" line="104" column="34" />
+        <mark key="." line="104" column="34" />
       </file>
       <file name="$USER_HOME$/poli/tcc/alcatraz/services.py" timestamp="1509402324358">
         <mark key="[" line="3" column="4" />
@@ -458,8 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
-      <jump line="166" column="32" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
       <jump line="174" column="46" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
       <jump line="45" column="19" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/ativacao.py" />
       <jump line="26" column="0" filename="$USER_HOME$/work/location_server/places/tests.py" />
@@ -558,6 +558,8 @@
       <jump line="11" column="11" filename="$USER_HOME$/work/location_server/worker.py" />
       <jump line="12" column="0" filename="$USER_HOME$/work/location_server/worker.py" />
       <jump line="22" column="23" filename="$USER_HOME$/work/location_server/location_server/mq.py" />
+      <jump line="40" column="6" filename="$USER_HOME$/work/location_server/location_server/middleware.py" />
+      <jump line="77" column="19" filename="$USER_HOME$/work/location_server/localizadores/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -578,57 +580,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cls</text>
+        <text>ProfilingMiddleware</text>
       </register>
       <register name="/" type="4">
-        <text>setup</text>
+        <text>local()</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbHMubWlsZXN0b25lc1tuYW1lXSA9IChwZXJmX2NvdW50ZXIoKSAtIGxvY2FsKCkucmVxX3RpbWUpKjEwMDAK</text>
+      <register name="0" type="4">
+        <text>channels.get(get_ident(), None)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIG1pbGVzdG9uZShjbHMsIG5hbWUpOgogICAgICAgIGNscy5taWxlc3RvbmVzW25hbWVdID0gKHBlcmZfY291bnRlcigpIC0gbG9jYWwoKS5yZXFfdGltZSkqMTAwMAoK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFByb2ZpbGluZ01pZGRsZXdhcmUubWlsZXN0b25lKG5hbWUpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9maWxpbmdNaWRkbGV3YXJlLnJlcV90aW1lID0gcGVyZl9jb3VudGVyKCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcV90aW1lID0gcGVyZl9jb3VudGVyKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1pbGVzdG9uZXMgPSB7fQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1pbGVzdG9uZXMgPSBsb2NhbCgpLm1pbGVzdG9uZXMK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIG1pbGVzdG9uZXMgPSB7fQo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBQcm9maWxpbmdNaWRkbGV3YXJlLm1pbGVzdG9uZXMgPSB7fQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9tb2RlbG9fdW5waWNrbGVkCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbiA9IAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGluaWNpYWxpemFkbzoKICAgICAgICAgICAgICAgIGluaWNpYWxpemFfZmlsYXMoY2hhbm5lbHNbZ2V0X2lkZW50KCldKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNoYW4uY2xvc2UoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNoYW4gPSBjb25uLmNoYW5uZWwoKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbm4gPSBwaWthLkJsb2NraW5nQ29ubmVjdGlvbihwYXJhbWV0ZXJzPXBhcmFtcykK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubiA9IHBpa2EuQmxvY2tpbmdDb25uZWN0aW9uKCkK</text>
+        <text encoding="base64">ICAgIHByaW50KGdldF9pZGVudCgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setup</last-search>
+      <last-search>local()</last-search>
       <last-offset />
-      <last-pattern>setup</last-pattern>
-      <last-replace>re_path(</last-replace>
-      <last-substitute>url(</last-substitute>
+      <last-pattern>local()</last-pattern>
+      <last-replace>_locais</last-replace>
+      <last-substitute>local()</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>List</entry>
         <entry>[/{/</entry>
         <entry>###</entry>
         <entry>grupo</entry>
@@ -648,6 +649,7 @@
         <entry>nula</entry>
         <entry>prin</entry>
         <entry>setup</entry>
+        <entry>local()</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -665,6 +667,7 @@
         <entry>%s/g-d-7/c1/g</entry>
         <entry encoding="base64">JzwsJz4lcy91cmwoL3JlX3BhdGgoLw==</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL2xvY2FsKCkvX2xvY2Fpcy9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
