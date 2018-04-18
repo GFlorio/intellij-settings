@@ -10,12 +10,12 @@
         <mark key="." line="36" column="17" />
         <mark key="^" line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1523471156469">
-        <mark key="'" line="77" column="19" />
-        <mark key="[" line="125" column="15" />
-        <mark key="]" line="125" column="36" />
-        <mark key="." line="125" column="36" />
-        <mark key="^" line="125" column="36" />
+      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1524058628090">
+        <mark key="'" line="78" column="19" />
+        <mark key="[" line="129" column="40" />
+        <mark key="]" line="129" column="47" />
+        <mark key="." line="129" column="47" />
+        <mark key="^" line="129" column="47" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipos.py" timestamp="1506790549424">
         <mark key="[" line="8" column="6" />
@@ -246,12 +246,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/services.py" timestamp="1522876157092">
-        <mark key="'" line="86" column="21" />
-        <mark key="[" line="59" column="63" />
-        <mark key="]" line="59" column="68" />
-        <mark key="." line="59" column="68" />
-        <mark key="^" line="59" column="68" />
+      <file name="$USER_HOME$/work/location_server/localizadores/services.py" timestamp="1524058294587">
+        <mark key="'" line="87" column="21" />
+        <mark key="[" line="59" column="70" />
+        <mark key="]" line="60" column="48" />
+        <mark key="." line="60" column="48" />
+        <mark key="^" line="60" column="48" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/apps.py" timestamp="1509545440172">
         <mark key="[" line="7" column="15" />
@@ -313,11 +313,12 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="19" column="27" />
       </file>
-      <file name="$USER_HOME$/work/location_server/recursos/models.py" timestamp="1522708201783">
-        <mark key="'" line="58" column="23" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/work/location_server/recursos/models.py" timestamp="1524058971395">
+        <mark key="'" line="59" column="23" />
+        <mark key="[" line="102" column="23" />
+        <mark key="]" line="103" column="32" />
+        <mark key="." line="103" column="32" />
+        <mark key="^" line="103" column="32" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/views.py" timestamp="1522940151258">
         <mark key="[" line="3" column="0" />
@@ -580,13 +581,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ProfilingMiddleware</text>
+        <text>construtor</text>
       </register>
       <register name="/" type="4">
         <text>local()</text>
       </register>
-      <register name="0" type="4">
-        <text>channels.get(get_ident(), None)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWlsZXN0b25lKCdtb2RlbG9fdW5waWNrbGVkX2NvbnN0cnV0b3InKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1pbGVzdG9uZXMgPSB7fQo=</text>
