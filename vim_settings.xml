@@ -313,12 +313,12 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="19" column="27" />
       </file>
-      <file name="$USER_HOME$/work/location_server/recursos/models.py" timestamp="1524058971395">
+      <file name="$USER_HOME$/work/location_server/recursos/models.py" timestamp="1524059910406">
         <mark key="'" line="59" column="23" />
-        <mark key="[" line="102" column="23" />
-        <mark key="]" line="103" column="32" />
-        <mark key="." line="103" column="32" />
-        <mark key="^" line="103" column="32" />
+        <mark key="[" line="160" column="80" />
+        <mark key="]" line="160" column="79" />
+        <mark key="." line="160" column="79" />
+        <mark key="^" line="160" column="79" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/views.py" timestamp="1522940151258">
         <mark key="[" line="3" column="0" />
