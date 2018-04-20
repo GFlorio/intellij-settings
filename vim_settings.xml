@@ -179,11 +179,11 @@
         <mark key="^" line="32" column="37" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/settings/prod.py" timestamp="1522701668891">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="88" />
-        <mark key="^" line="21" column="88" />
-        <mark key="." line="21" column="88" />
+      <file name="$USER_HOME$/work/location_server/location_server/settings/prod.py" timestamp="1524237774564">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/alcatraz/settings/dev.py" timestamp="1511097371600">
         <mark key="[" line="13" column="28" />
@@ -221,11 +221,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/settings/common.py" timestamp="1518134823890">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="46" />
-        <mark key="." line="54" column="57" />
-        <mark key="^" line="54" column="57" />
+      <file name="$USER_HOME$/work/location_server/location_server/settings/common.py" timestamp="1524237523805">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="/Python Console" timestamp="1510129481402">
         <mark key="[" line="0" column="13" />
@@ -354,9 +354,9 @@
         <mark key="." line="29" column="19" />
         <mark key="^" line="29" column="19" />
       </file>
-      <file name="$USER_HOME$/work/location_server/gunicorn.conf" timestamp="1520454352759">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="33" />
+      <file name="$USER_HOME$/work/location_server/gunicorn.conf" timestamp="1524237490374">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="24" />
         <mark key="." line="9" column="56" />
         <mark key="^" line="9" column="56" />
       </file>
@@ -579,40 +579,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>.lower()</text>
       </register>
       <register name="/" type="4">
         <text>local()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWlsZXN0b25lKCdtb2RlbG9fdW5waWNrbGVkX2NvbnN0cnV0b3InKQo=</text>
+        <text encoding="base64">Zm9yIGssdiBpbiBvcy5lbnZpcm9uLml0ZW1zKCk6CiAgICBpZiBrLnN0YXJ0c3dpdGgoIkdVTklDT1JOXyIpOgogICAgICAgIGtleSA9IGsuc3BsaXQoJ18nLCAxKVsxXS5sb3dlcigpCiAgICAgICAgbG9jYWxzKClba2V5XSA9IHYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2Zyb20gZGphbmdvLmNvcmUuY2FjaGUgaW1wb3J0IGNhY2hlCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjbG9jYWxpemFkb3IgPSBjYWNoZS5nZXQoJ2xvY2FsaXphZG9yXycgKyBwaXNvLnBrKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjY2FjaGUuc2V0KCdsb2NhbGl6YWRvcl8nICsgcGlzby5waywgbG9jYWxpemFkb3IsIE5vbmUpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">I2Zyb20gZGphbmdvLmNvcmUuY2FjaGUgaW1wb3J0IGNhY2hlCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjbG9jYWxpemFkb3IgPSBjYWNoZS5nZXQoJ2xvY2FsaXphZG9yXycgKyBwaXNvLnBrKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjY2FjaGUuc2V0KCdsb2NhbGl6YWRvcl8nICsgcGlzby5waywgbG9jYWxpemFkb3IsIE5vbmUpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2FjaGUgPSB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbGl6YWRvciA9IGNhY2hlLmdldChwaXNvLnBrLCBOb25lKQo=</text>
+        <text encoding="base64">Y2FjaGUgPSB7fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWNoZVtwaXNvLnBrXSA9IGxvY2FsaXphZG9yCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbGl6YWRvciA9IGNhY2hlLmdldChwaXNvLnBrLCBOb25lKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBtZW1fdG9wIGltcG9ydCBtZW1fdG9wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWNoZVtwaXNvLnBrXSA9IGxvY2FsaXphZG9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhtZW1fdG9wKCkpCg==</text>
+        <text encoding="base64">ZnJvbSBtZW1fdG9wIGltcG9ydCBtZW1fdG9wCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
