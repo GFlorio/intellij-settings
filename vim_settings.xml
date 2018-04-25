@@ -10,12 +10,11 @@
         <mark key="." line="36" column="17" />
         <mark key="^" line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1524058628090">
-        <mark key="'" line="78" column="19" />
-        <mark key="[" line="129" column="40" />
-        <mark key="]" line="129" column="47" />
-        <mark key="." line="129" column="47" />
-        <mark key="^" line="129" column="47" />
+      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1524689158813">
+        <mark key="'" line="127" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipos.py" timestamp="1506790549424">
         <mark key="[" line="8" column="6" />
@@ -245,11 +244,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/services.py" timestamp="1524162898012">
-        <mark key="'" line="77" column="12" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/work/location_server/localizadores/services.py" timestamp="1524689256299">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="73" column="47" />
+        <mark key="]" line="74" column="7" />
+        <mark key="." line="74" column="7" />
+        <mark key="^" line="74" column="7" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/apps.py" timestamp="1509545440172">
         <mark key="[" line="7" column="15" />
@@ -318,11 +318,12 @@
         <mark key="." line="160" column="79" />
         <mark key="^" line="160" column="79" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/views.py" timestamp="1524155552327">
-        <mark key="'" line="86" column="43" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/work/location_server/localizadores/views.py" timestamp="1524689057378">
+        <mark key="'" line="87" column="43" />
+        <mark key="[" line="87" column="60" />
+        <mark key="]" line="88" column="23" />
+        <mark key="." line="88" column="23" />
+        <mark key="^" line="88" column="23" />
       </file>
       <file name="$USER_HOME$/work/location_server/Dockerfile" timestamp="1510946367173">
         <mark key="[" line="2" column="7" />
@@ -459,10 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="13" filename="$USER_HOME$/work/alcatraz/modelagem/tests/factories.py" />
-      <jump line="33" column="19" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="35" column="37" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="106" column="31" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="13" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="211" column="48" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="94" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
@@ -559,6 +556,10 @@
       <jump line="62" column="8" filename="$USER_HOME$/work/location_server/recursos/recursos.py" />
       <jump line="8" column="0" filename="$USER_HOME$/work/location_server/recursos/models.py" />
       <jump line="87" column="43" filename="$USER_HOME$/work/location_server/localizadores/views.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/work/location_server/localizadores/models.py" />
+      <jump line="31" column="12" filename="$USER_HOME$/work/location_server/localizadores/models.py" />
+      <jump line="128" column="0" filename="$USER_HOME$/work/location_server/localizadores/models.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/work/location_server/localizadores/services.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -582,46 +583,46 @@
         <text>.lower()</text>
       </register>
       <register name="/" type="4">
-        <text>local()</text>
+        <text>mileston</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Zm9yIGssdiBpbiBvcy5lbnZpcm9uLml0ZW1zKCk6CiAgICBpZiBrLnN0YXJ0c3dpdGgoIkdVTklDT1JOXyIpOgogICAgICAgIGtleSA9IGsuc3BsaXQoJ18nLCAxKVsxXS5sb3dlcigpCiAgICAgICAgbG9jYWxzKClba2V5XSA9IHYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtaWxlc3RvbmUoJ2xvY2FsaXphZG9yX3JlY3VwZXJhZG8nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q09OTl9NQVhfQUdFID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtaWxlc3RvbmUoJ2xvY2FsaXphZG9yX2F0dWFsaXphZG8nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1pbGVzdG9uZSgncmVjdXJzb3NfcG9wdWxhZG9zJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2Zyb20gZGphbmdvLmNvcmUuY2FjaGUgaW1wb3J0IGNhY2hlCg==</text>
+        <text encoding="base64">ICAgIG1pbGVzdG9uZSgnY2hhbWFkYV9zZXJ2aWNvJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjbG9jYWxpemFkb3IgPSBjYWNoZS5nZXQoJ2xvY2FsaXphZG9yXycgKyBwaXNvLnBrKQo=</text>
+        <text encoding="base64">ZnJvbSBsb2NhdGlvbl9zZXJ2ZXIubWlkZGxld2FyZSBpbXBvcnQgbWlsZXN0b25lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjY2FjaGUuc2V0KCdsb2NhbGl6YWRvcl8nICsgcGlzby5waywgbG9jYWxpemFkb3IsIE5vbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWlsZXN0b25lKCdtb2RlbG9fdW5waWNrbGVkX2xvY2FsaXphJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWlsZXN0b25lKCdtb2RlbG9fdW5waWNrbGVkX2NvbnN0cnV0b3InKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2FjaGUgPSB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbGl6YWRvciA9IGNhY2hlLmdldChwaXNvLnBrLCBOb25lKQo=</text>
+        <text encoding="base64">Q09OTl9NQVhfQUdFID0gTm9uZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>local()</last-search>
+      <last-search>mileston</last-search>
       <last-offset />
-      <last-pattern>local()</last-pattern>
+      <last-pattern>mileston</last-pattern>
       <last-replace>_locais</last-replace>
       <last-substitute>local()</last-substitute>
       <last-dir>1</last-dir>
@@ -629,9 +630,6 @@
     </search>
     <history>
       <history-search>
-        <entry>[/{/</entry>
-        <entry>###</entry>
-        <entry>grupo</entry>
         <entry>\(\)</entry>
         <entry encoding="base64">PGE+</entry>
         <entry encoding="base64">XDxhXD4=</entry>
@@ -649,6 +647,9 @@
         <entry>prin</entry>
         <entry>setup</entry>
         <entry>local()</entry>
+        <entry>milestone</entry>
+        <entry>milest</entry>
+        <entry>mileston</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
