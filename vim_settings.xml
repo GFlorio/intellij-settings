@@ -10,8 +10,8 @@
         <mark key="." line="36" column="17" />
         <mark key="^" line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1525733773488">
-        <mark key="'" line="159" column="52" />
+      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1526004217914">
+        <mark key="'" line="6" column="10" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipos.py" timestamp="1506790549424">
         <mark key="[" line="8" column="6" />
@@ -394,11 +394,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/admin.py" timestamp="1518799709373">
-        <mark key="[" line="16" column="62" />
-        <mark key="]" line="16" column="69" />
-        <mark key="^" line="16" column="69" />
-        <mark key="." line="16" column="69" />
+      <file name="$USER_HOME$/work/location_server/localizadores/admin.py" timestamp="1526004352818">
+        <mark key="[" line="29" column="33" />
+        <mark key="]" line="29" column="49" />
+        <mark key="^" line="29" column="49" />
+        <mark key="." line="29" column="49" />
+        <mark key="o" line="26" column="23" />
       </file>
       <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" timestamp="1523469921402">
         <mark key="[" line="104" column="31" />
@@ -463,7 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="48" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="94" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
       <jump line="19" column="13" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
       <jump line="61" column="71" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
@@ -563,6 +563,7 @@
       <jump line="128" column="0" filename="$USER_HOME$/work/location_server/localizadores/models.py" />
       <jump line="61" column="0" filename="$USER_HOME$/work/location_server/localizadores/services.py" />
       <jump line="162" column="52" filename="$USER_HOME$/work/location_server/localizadores/models.py" />
+      <jump line="6" column="10" filename="$USER_HOME$/work/location_server/localizadores/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -583,13 +584,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Lightwei</text>
+        <text>Erro Médio</text>
       </register>
       <register name="/" type="4">
-        <text>mileston</text>
+        <text>taman</text>
       </register>
-      <register name="0" type="4">
-        <text>LightweightModelPickleMixin</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGVycm9fbWVkaW8uc2hvcnRfZGVzY3JpcHRpb24gPSAnRXJybyBNw6lkaW8nCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRlZiBfX3NldHN0YXRlX18oc2VsZiwgc3RhdGUpOgo=</text>
@@ -623,9 +624,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mileston</last-search>
+      <last-search>taman</last-search>
       <last-offset />
-      <last-pattern>mileston</last-pattern>
+      <last-pattern>taman</last-pattern>
       <last-replace>_locais</last-replace>
       <last-substitute>local()</last-substitute>
       <last-dir>1</last-dir>
@@ -633,7 +634,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\(\)</entry>
         <entry encoding="base64">PGE+</entry>
         <entry encoding="base64">XDxhXD4=</entry>
         <entry>_</entry>
@@ -653,6 +653,7 @@
         <entry>milestone</entry>
         <entry>milest</entry>
         <entry>mileston</entry>
+        <entry>taman</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
