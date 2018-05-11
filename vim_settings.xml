@@ -430,11 +430,11 @@
         <mark key="." line="14" column="51" />
         <mark key="^" line="14" column="51" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/model_pickling.py" timestamp="1526033185887">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="32" />
-        <mark key="^" line="12" column="36" />
-        <mark key="." line="12" column="36" />
+      <file name="$USER_HOME$/work/location_server/location_server/model_pickling.py" timestamp="1526036032744">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="34" />
       </file>
       <file name="$USER_HOME$/work/location_server/places/tasks.py" timestamp="1520027644542">
         <mark key="'" line="67" column="8" />
@@ -583,7 +583,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>taman</text>
