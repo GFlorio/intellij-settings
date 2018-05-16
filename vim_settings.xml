@@ -117,8 +117,8 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/AuthService.kt" timestamp="1526399714211">
-        <mark key="[" line="23" column="0" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/AuthService.kt" timestamp="1526428472544">
+        <mark key="[" line="23" column="63" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
@@ -163,6 +163,12 @@
         <mark key="]" line="6" column="109" />
         <mark key="^" line="6" column="109" />
         <mark key="." line="6" column="109" />
+      </file>
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/AuthRequestFactory.kt" timestamp="1526428732163">
+        <mark key="[" line="13" column="77" />
+        <mark key="]" line="13" column="87" />
+        <mark key="." line="13" column="87" />
+        <mark key="^" line="13" column="87" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/SensorReader.kt" timestamp="1526139307044">
         <mark key="[" line="22" column="0" />
@@ -419,9 +425,9 @@
         <mark key="^" line="5" column="37" />
         <mark key="." line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerRequestFactory.kt" timestamp="1526382652712">
-        <mark key="[" line="18" column="53" />
-        <mark key="]" line="18" column="55" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerRequestFactory.kt" timestamp="1526428710349">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="40" column="94" />
         <mark key="." line="18" column="55" />
         <mark key="^" line="18" column="55" />
       </file>
@@ -798,40 +804,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>OrDefault</text>
+        <text>Fingerprint</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCB0YWcgPSBMb2NhdGlvblNlcnZlcjo6Y2xhc3MuamF2YS5zaW1wbGVOYW1lISEKICAgIG92ZXJyaWRlIHZhbCBzZXJpYWxGb3JtYXQ6IFNlcmlhbEZvcm1hdCA9IEpTT05Gb3JtYXQKICAgIG92ZXJyaWRlIHZhbCBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2Uoc2VyaWFsRm9ybWF0Lm1lZGlhVHlwZSkKICAgIG92ZXJyaWRlIHZhbCBodHRwQ2xpZW50ID0gT2tIdHRwQ2xpZW50CiAgICAgICAgICAgIC5CdWlsZGVyKCkKICAgICAgICAgICAgLnJlYWRUaW1lb3V0KHRpbWVvdXQsIFRpbWVVbml0Lk1JTExJU0VDT05EUykKICAgICAgICAgICAgLmJ1aWxkKCkhIQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG92ZXJyaWRlIHZhbCBkYXRhRXh0cmFjdG9yID0gRmluZ2VycHJpbnREYXRhRXh0cmFjdG9yKCkKICAgICAgICAgICAgICAgIG92ZXJyaWRlIHZhbCBtZXRob2QgPSBtZXRob2QKICAgICAgICAgICAgICAgIG92ZXJyaWRlIHZhbCBzZXJpYWxpemVyRmFjdG9yeSA9IFNlcmlhbGl6ZXJGYWN0b3J5LmNyZWF0ZUZhY3Rvcnk8RmluZ2VycHJpbnQ+KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGF0YTogTXV0YWJsZU1hcDxTdHJpbmcsIEFueT4gPSBIYXNoTWFwKDMpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBhc3N3b3JkOiBTdHJpbmcgPSBleHRyYXMuZ2V0U3RyaW5nKFBBU1NXT1JEKSEhCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHRyYXMuZ2V0U3RyaW5nKCkK</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgZGF0YTogTXV0YWJsZU1hcDxTdHJpbmcsIEFueT4gPSBIYXNoTWFwKDMpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBhc3N3b3JkOiBTdHJpbmcgPSBleHRyYXMuZ2V0U3RyaW5nKFBBU1NXT1JEKSEhCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBhdXRoZW50aWNhdGUodXNlcjogU3RyaW5nLCBwYXNzd29yZDogU3RyaW5nKSB7CgogICAgfQoKICAgIGZ1biBhdXRoZW50aWNhdGUodG9rZW46IFN0cmluZykgewogICAgICAgIAogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgb3ZlcnJpZGUgdmFsIHBhdGggPSAiZ3J1cG9zLyIrZ3JvdXA/LmlkKyJmaW5nZXJwcmludHMvIgo=</text>
+        <text encoding="base64">ICAgICAgICBleHRyYXMuZ2V0U3RyaW5nKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
