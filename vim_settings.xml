@@ -306,6 +306,11 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="37" />
       </file>
+      <file name="$USER_HOME$/work/PluginLocalizacao/app/build.gradle" timestamp="1526472506814">
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="27" column="59" />
+        <mark key="." line="27" column="59" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerRequest.kt" timestamp="1525885202204">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="6" />
@@ -415,10 +420,10 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/build.gradle" timestamp="1526469645435">
-        <mark key="[" line="29" column="54" />
-        <mark key="]" line="29" column="55" />
-        <mark key="." line="29" column="55" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/build.gradle" timestamp="1526472512530">
+        <mark key="[" line="29" column="58" />
+        <mark key="]" line="29" column="59" />
+        <mark key="." line="29" column="59" />
         <mark key="^" line="36" column="17" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/SensorScanFactory.kt" timestamp="1525033278062">
