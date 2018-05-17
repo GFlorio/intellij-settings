@@ -432,11 +432,11 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/settings/SettingsValues.kt" timestamp="1526576655454">
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/settings/SettingsValues.kt" timestamp="1526576934837">
         <mark key="[" line="4" column="50" />
-        <mark key="]" line="4" column="13" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="4" column="13" />
+        <mark key="]" line="4" column="63" />
+        <mark key="^" line="4" column="63" />
+        <mark key="." line="4" column="63" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/SensorScanFactory.kt" timestamp="1525033278062">
         <mark key="[" line="4" column="15" />
