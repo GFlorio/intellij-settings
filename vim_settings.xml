@@ -420,9 +420,9 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/AuthServer.kt" timestamp="1526563141573">
-        <mark key="[" line="12" column="48" />
-        <mark key="]" line="12" column="48" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/AuthServer.kt" timestamp="1526567796590">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="20" column="21" />
         <mark key="^" line="12" column="89" />
         <mark key="." line="12" column="48" />
       </file>
@@ -468,12 +468,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulHTTPServer.kt" timestamp="1526566302132">
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulHTTPServer.kt" timestamp="1526567859503">
         <mark key="'" line="72" column="0" />
-        <mark key="[" line="54" column="51" />
-        <mark key="]" line="54" column="85" />
-        <mark key="." line="54" column="85" />
-        <mark key="^" line="54" column="85" />
+        <mark key="[" line="8" column="73" />
+        <mark key="]" line="8" column="79" />
+        <mark key="." line="8" column="79" />
+        <mark key="^" line="8" column="79" />
       </file>
       <file name="/fragment.java" timestamp="1526467747806">
         <mark key="[" line="0" column="0" />
@@ -853,13 +853,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>protected</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBodHRwQ2xpZW50ID0gT2tIdHRwQ2xpZW50CiAgICAgICAgICAgIC5CdWlsZGVyKCkKICAgICAgICAgICAgLnJlYWRUaW1lb3V0KHRpbWVvdXQsIFRpbWVVbml0Lk1JTExJU0VDT05EUykKICAgICAgICAgICAgLmJ1aWxkKCkhIQo=</text>
+      <register name="0" type="4">
+        <text>OkHttpClient
+            .Builder()
+            .readTimeout(timeout, TimeUnit.MILLISECONDS)
+            .build()!!</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxib29sIG5hbWU9ImxvY2F0aW9uX3VzZV9odHRwcyI+ZmFsc2U8L2Jvb2w+Cg==</text>
