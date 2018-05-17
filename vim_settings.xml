@@ -269,6 +269,9 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/settings/SettingsServer.kt" timestamp="1526557674676">
+        <mark key="[" line="4" column="20" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServer.kt" timestamp="1526400109897">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="18" column="21" />
@@ -456,7 +459,8 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulHTTPServer.kt" timestamp="1526147110225">
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulHTTPServer.kt" timestamp="1526557317920">
+        <mark key="'" line="72" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -520,6 +524,7 @@
       <jump line="77" column="12" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" />
       <jump line="99" column="37" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" />
+      <jump line="72" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulHTTPServer.kt" />
     </jumps>
     <registers>
       <register name="l" type="4">
