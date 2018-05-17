@@ -269,11 +269,14 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/settings/SettingsServer.kt" timestamp="1526557674676">
-        <mark key="[" line="4" column="20" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/settings/SettingsServer.kt" timestamp="1526558571545">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServer.kt" timestamp="1526400109897">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServer.kt" timestamp="1526558549001">
+        <mark key="[" line="15" column="0" />
         <mark key="]" line="18" column="21" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="11" />
@@ -429,11 +432,11 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/settings/SettingsValues.kt" timestamp="1526558324092">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="33" />
-        <mark key="^" line="5" column="33" />
-        <mark key="." line="5" column="33" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/settings/SettingsValues.kt" timestamp="1526558400054">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="8" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/SensorScanFactory.kt" timestamp="1525033278062">
         <mark key="[" line="4" column="15" />
@@ -850,41 +853,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>startTracking</text>
+        <text encoding="base64">ICAgICAgIGdldCgpID0gVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgaW5pdGlhbGl6ZXIgb2YgY3JlYXRlZCBwcm9wZXJ0aWVzIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biBzdGFydFRyYWNraW5nKHVzZXI6IFN0cmluZywgcGFzc3dvcmQ6IFN0cmluZykgewoKICAgIH0KCiAgICBmdW4gc3RhcnRUcmFja2luZyh0b2tlbjogU3RyaW5nKSB7CgogICAgfQo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBodHRwQ2xpZW50ID0gT2tIdHRwQ2xpZW50CiAgICAgICAgICAgIC5CdWlsZGVyKCkKICAgICAgICAgICAgLnJlYWRUaW1lb3V0KHRpbWVvdXQsIFRpbWVVbml0Lk1JTExJU0VDT05EUykKICAgICAgICAgICAgLmJ1aWxkKCkhIQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBodHRwQ2xpZW50OiBPa0h0dHBDbGllbnQKICAgICAgICBnZXQoKSA9IFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGluaXRpYWxpemVyIG9mIGNyZWF0ZWQgcHJvcGVydGllcyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBtZWRpYVR5cGU6IE1lZGlhVHlwZT8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBtZWRpYVR5cGU6IE1lZGlhVHlwZT8KICAgICAgICBnZXQoKSA9IFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGluaXRpYWxpemVyIG9mIGNyZWF0ZWQgcHJvcGVydGllcyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGJyLmNvbS5ub3ZpZGEubG9jYWxpemFjYW8ucmVzdHJlcG9zaXRvcnkuc2VyaWFsaXphdGlvbi5TZXJpYWxGb3JtYXQK</text>
+      </register>
+      <register name="6" type="4">
+        <text>: SerialFormat
+        get() = TODO(&quot;not implemented&quot;) //To change initializer of created properties use File | Settings | File Templates.</text>
+      </register>
+      <register name="7" type="4">
         <text>: String
         get() = TODO(&quot;not implemented&quot;) //To change initializer of created properties use File | Settings | File Templates.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uZmFjZWJvb2sucmVhY3Q6cmVhY3QtbmF0aXZlOjAuMjAuMScK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uZmFjZWJvb2sucmVhY3Q6cmVhY3QtbmF0aXZlOjAuMjAuMScK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBSZWFjdE1ldGhvZAogICAgZnVuIHN0YXJ0VHJhY2tpbmcoKSB7CiAgICAgICAgCiAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YVtdIAo=</text>
+      <register name="8" type="4">
+        <text>: String
+        get() = TODO(&quot;not implemented&quot;) //To change initializer of created properties use File | Settings | File Templates.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uZmFjZWJvb2sucmVhY3Q6cmVhY3QtbmF0aXZlOjAuMjAuMScK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
