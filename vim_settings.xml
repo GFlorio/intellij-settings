@@ -190,11 +190,11 @@
         <mark key="^" line="10" column="52" />
         <mark key="." line="10" column="52" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/res/values/strings.xml" timestamp="1526430933828">
-        <mark key="[" line="9" column="51" />
-        <mark key="]" line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="3" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/res/values/strings.xml" timestamp="1526560425099">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/rest/RestClient.kt" timestamp="1523628439387">
         <mark key="[" line="5" column="33" />
@@ -862,34 +862,32 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBodHRwQ2xpZW50ID0gT2tIdHRwQ2xpZW50CiAgICAgICAgICAgIC5CdWlsZGVyKCkKICAgICAgICAgICAgLnJlYWRUaW1lb3V0KHRpbWVvdXQsIFRpbWVVbml0Lk1JTExJU0VDT05EUykKICAgICAgICAgICAgLmJ1aWxkKCkhIQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBodHRwQ2xpZW50OiBPa0h0dHBDbGllbnQKICAgICAgICBnZXQoKSA9IFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGluaXRpYWxpemVyIG9mIGNyZWF0ZWQgcHJvcGVydGllcyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">ICAgIDxib29sIG5hbWU9ImxvY2F0aW9uX3VzZV9odHRwcyI+ZmFsc2U8L2Jvb2w+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIDxib29sIG5hbWU9InNldHRpbmdfdXNlX2h0dHBzIj5mYWxzZTwvYm9vbD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBtZWRpYVR5cGU6IE1lZGlhVHlwZT8K</text>
+        <text encoding="base64">ICAgIDxib29sIG5hbWU9ImF1dGhfdXNlX2h0dHBzIj50cnVlPC9ib29sPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBtZWRpYVR5cGU6IE1lZGlhVHlwZT8KICAgICAgICBnZXQoKSA9IFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGluaXRpYWxpemVyIG9mIGNyZWF0ZWQgcHJvcGVydGllcyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBodHRwQ2xpZW50OiBPa0h0dHBDbGllbnQKICAgICAgICBnZXQoKSA9IFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGluaXRpYWxpemVyIG9mIGNyZWF0ZWQgcHJvcGVydGllcyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBtZWRpYVR5cGU6IE1lZGlhVHlwZT8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBtZWRpYVR5cGU6IE1lZGlhVHlwZT8KICAgICAgICBnZXQoKSA9IFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGluaXRpYWxpemVyIG9mIGNyZWF0ZWQgcHJvcGVydGllcyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGJyLmNvbS5ub3ZpZGEubG9jYWxpemFjYW8ucmVzdHJlcG9zaXRvcnkuc2VyaWFsaXphdGlvbi5TZXJpYWxGb3JtYXQK</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>: SerialFormat
         get() = TODO(&quot;not implemented&quot;) //To change initializer of created properties use File | Settings | File Templates.</text>
-      </register>
-      <register name="7" type="4">
-        <text>: String
-        get() = TODO(&quot;not implemented&quot;) //To change initializer of created properties use File | Settings | File Templates.</text>
-      </register>
-      <register name="8" type="4">
-        <text>: String
-        get() = TODO(&quot;not implemented&quot;) //To change initializer of created properties use File | Settings | File Templates.</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uZmFjZWJvb2sucmVhY3Q6cmVhY3QtbmF0aXZlOjAuMjAuMScK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
