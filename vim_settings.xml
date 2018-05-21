@@ -300,11 +300,11 @@
         <mark key="." line="9" column="57" />
         <mark key="^" line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaTracking.kt" timestamp="1526895910069">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="13" column="80" />
-        <mark key="^" line="13" column="80" />
-        <mark key="." line="13" column="80" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaTracking.kt" timestamp="1526898281004">
+        <mark key="[" line="18" column="66" />
+        <mark key="]" line="18" column="77" />
+        <mark key="^" line="18" column="77" />
+        <mark key="." line="18" column="77" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/Credentials.kt" timestamp="1526577410744">
         <mark key="[" line="6" column="50" />
@@ -853,7 +853,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDogdGhpcygiIikg</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
