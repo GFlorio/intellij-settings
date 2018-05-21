@@ -21,6 +21,12 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="10" column="37" />
       </file>
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulRequest.kt" timestamp="1526909828897">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="7" column="87" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/SerializationStrategyFactory.kt" timestamp="1525089667759">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="11" column="0" />
@@ -105,12 +111,11 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPServer.kt" timestamp="1526906656306">
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPServer.kt" timestamp="1526909811454">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="63" column="43" />
-        <mark key="]" line="63" column="43" />
-        <mark key="." line="63" column="43" />
-        <mark key="^" line="63" column="23" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/BasicRequest.kt" timestamp="1526906804638">
         <mark key="[" line="7" column="24" />
@@ -190,6 +195,13 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="2" column="90" />
       </file>
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/sensors/BluetoothReader.kt" timestamp="1526432020682">
+        <mark key="'" line="44" column="32" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="14" column="66" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/SerializerFactory.kt" timestamp="1525892830539">
         <mark key="[" line="9" column="106" />
         <mark key="]" line="10" column="52" />
@@ -201,6 +213,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="8" column="3" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/RequestModifier.kt" timestamp="1526909993665">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="8" />
+        <mark key="^" line="2" column="8" />
+        <mark key="." line="2" column="8" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/rest/RestClient.kt" timestamp="1523628439387">
         <mark key="[" line="5" column="33" />
@@ -214,11 +232,11 @@
         <mark key="." line="8" column="52" />
         <mark key="^" line="8" column="52" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RequestFactory.kt" timestamp="1526906831841">
-        <mark key="[" line="7" column="64" />
-        <mark key="]" line="7" column="80" />
-        <mark key="." line="7" column="80" />
-        <mark key="^" line="7" column="80" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RequestFactory.kt" timestamp="1526910441353">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="15" column="16" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/SensorReader.kt" timestamp="1525016538051">
         <mark key="[" line="2" column="0" />
@@ -249,6 +267,13 @@
         <mark key="]" line="7" column="52" />
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="48" />
+      </file>
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" timestamp="1526432704999">
+        <mark key="'" line="99" column="37" />
+        <mark key="[" line="99" column="20" />
+        <mark key="]" line="99" column="37" />
+        <mark key="." line="99" column="37" />
+        <mark key="^" line="99" column="37" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/PersistentTrackingController.kt" timestamp="1526577484503">
         <mark key="[" line="14" column="22" />
@@ -292,6 +317,13 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulServer.kt" timestamp="1526908971307">
+        <mark key="'" line="55" column="1" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="16" column="33" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/IntermittentBluetoothReader.kt" timestamp="1525353808166">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="15" />
@@ -304,11 +336,17 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPResponse.kt" timestamp="1526904714918">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/SensorFactory.kt" timestamp="1526219419044">
+        <mark key="'" line="11" column="52" />
+        <mark key="[" line="9" column="54" />
+        <mark key="]" line="9" column="57" />
+        <mark key="." line="9" column="57" />
+        <mark key="^" line="9" column="57" />
+      </file>
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPResponse.kt" timestamp="1526907015818">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaTracking.kt" timestamp="1526898780416">
         <mark key="[" line="27" column="5" />
@@ -346,10 +384,11 @@
         <mark key="^" line="27" column="51" />
         <mark key="." line="27" column="51" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPRequest.kt" timestamp="1526906667208">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="16" />
-        <mark key="." line="9" column="16" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPRequest.kt" timestamp="1526909713175">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="27" column="18" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/LocationServer.kt" timestamp="1525099456077">
         <mark key="[" line="46" column="0" />
@@ -489,12 +528,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulHTTPServer.kt" timestamp="1526906889125">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="54" column="38" />
-        <mark key="]" line="54" column="51" />
-        <mark key="." line="54" column="51" />
-        <mark key="^" line="54" column="51" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulHTTPServer.kt" timestamp="1526907266878">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+        <mark key="^" line="53" column="51" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RequestDecorator.kt" timestamp="1526904568873">
         <mark key="[" line="3" column="55" />
@@ -570,6 +609,8 @@
       <jump line="10" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulHTTPServer.kt" />
       <jump line="70" column="9" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPServer.kt" />
       <jump line="14" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPServer.kt" />
+      <jump line="20" column="52" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulServer.kt" />
+      <jump line="67" column="1" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulServer.kt" />
     </jumps>
     <registers>
       <register name="l" type="4">
@@ -889,42 +930,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HTTPRequest</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVudW0gY2xhc3MgSFRUUE1ldGhvZCB7CiAgICAgICAgR0VULAogICAgICAgIFBPU1QsCiAgICAgICAgUFVULAogICAgICAgIERFTEVURQogICAgfQoKICAgIGFic3RyYWN0IHZhbCByZXF1ZXN0RmFjdG9yeTogUmVxdWVzdEZhY3Rvcnk8cmVzb3VyY2VDbGFzcz4KICAgIHByb3RlY3RlZCBhYnN0cmFjdCB2YWwgdGFnOiBTdHJpbmcKICAgIHByb3RlY3RlZCBhYnN0cmFjdCB2YWwgc2VyaWFsRm9ybWF0OiBTZXJpYWxGb3JtYXQKICAgIHByb3RlY3RlZCBhYnN0cmFjdCB2YWwgaG9zdDogU3RyaW5nCiAgICBwcm90ZWN0ZWQgYWJzdHJhY3QgdmFsIHRpbWVvdXQ6IExvbmcKCiAgICBwcm90ZWN0ZWQgYWJzdHJhY3QgdmFsIG1lZGlhVHlwZTogTWVkaWFUeXBlPwogICAgcHJvdGVjdGVkIGFic3RyYWN0IHZhbCBodHRwQ2xpZW50OiBPa0h0dHBDbGllbnQKCiAgICBmdW4gZXhlY3V0ZShyZXF1ZXN0OiBIVFRQUmVxdWVzdDxvdXQgcmVzb3VyY2VDbGFzcz4pOiBSRVNURnVsSFRUUFJlc3BvbnNlPG91dCByZXNvdXJjZUNsYXNzPiB7CiAgICAgICAgdmFsIHJlcSA9IGJ1aWxkUmVxdWVzdChyZXF1ZXN0LCBidWlsZFVybChyZXF1ZXN0KSkKCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgdmFsIHJlc3BvbnNlID0gaHR0cENsaWVudC5uZXdDYWxsKHJlcSkuZXhlY3V0ZSgpCiAgICAgICAgICAgIHZhbCBib2R5ICA9IHJlc3BvbnNlLmJvZHkoKS50b1N0cmluZygpCiAgICAgICAgICAgIHZhbCBzdGF0dXMgPSByZXNwb25zZS5jb2RlKCkKICAgICAgICAgICAgaWYgKCFyZXNwb25zZS5pc1N1Y2Nlc3NmdWwpIHsKICAgICAgICAgICAgICAgIExvZy5lKHRhZywgYm9keSkKICAgICAgICAgICAgfQogICAgICAgICAgICByZXNwb25zZS5jbG9zZSgpCiAgICAgICAgICAgIHJldHVybiByZXF1ZXN0LnBhcnNlUmVzcG9uc2UoYm9keSwgc3RhdHVzLCBzZXJpYWxGb3JtYXQpCiAgICAgICAgfSBjYXRjaCAoZXg6IElPRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIHRocm93IFJlbW90ZVNlcnZlckV4Y2VwdGlvbihleCkKICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBmdW4gYnVpbGRVcmwocmVxdWVzdDogSFRUUFJlcXVlc3Q8b3V0IHJlc291cmNlQ2xhc3M+KTogSHR0cFVybCB7CiAgICAgICAgdmFsIHVybEJ1aWxkZXIgPSBIdHRwVXJsLkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLmhvc3QoaG9zdCkKICAgICAgICAgICAgICAgIC5lbmNvZGVkUGF0aChyZXF1ZXN0LnBhdGgpCiAgICAgICAgZm9yIChpdGVtIGluIHJlcXVlc3QuZ2V0UXVlcnlQYXJhbXMoKSkKICAgICAgICAgICAgdXJsQnVpbGRlci5hZGRRdWVyeVBhcmFtZXRlcihpdGVtLmtleSwgaXRlbS52YWx1ZSkKCiAgICAgICAgcmV0dXJuIHVybEJ1aWxkZXIuYnVpbGQoKQogICAgfQoKICAgIHByaXZhdGUgZnVuIGJ1aWxkUmVxdWVzdChyZXF1ZXN0OiBIVFRQUmVxdWVzdDxvdXQgcmVzb3VyY2VDbGFzcz4sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXJsOiBIdHRwVXJsKTogUmVxdWVzdCB7CiAgICAgICAgdmFsIHJlcUJ1aWxkZXIgPSBSZXF1ZXN0LkJ1aWxkZXIoKS51cmwodXJsKQogICAgICAgIGZvciAoaGVhZGVyIGluIHJlcXVlc3QuZ2V0SGVhZGVycygpKSB7CiAgICAgICAgICAgIHJlcUJ1aWxkZXIuaGVhZGVyKGhlYWRlci5rZXksIGhlYWRlci52YWx1ZSkKICAgICAgICB9CgogICAgICAgIHdoZW4gKHJlcXVlc3QubWV0aG9kKSB7CiAgICAgICAgICAgIEhUVFBNZXRob2QuR0VUIC0+IHJlcUJ1aWxkZXIuZ2V0KCkKICAgICAgICAgICAgSFRUUE1ldGhvZC5QT1NUIC0+IHsKICAgICAgICAgICAgICAgIHZhbCBqc29uID0gcmVxdWVzdC5nZXRCb2R5KHNlcmlhbEZvcm1hdCkKICAgICAgICAgICAgICAgIHZhbCBib2R5ID0gUmVxdWVzdEJvZHkuY3JlYXRlKG1lZGlhVHlwZSwganNvbikKICAgICAgICAgICAgICAgIHJlcUJ1aWxkZXIucG9zdChib2R5KQogICAgICAgICAgICB9CiAgICAgICAgICAgIEhUVFBNZXRob2QuUFVUIC0+IHsKICAgICAgICAgICAgICAgIHZhbCBqc29uID0gcmVxdWVzdC5nZXRCb2R5KHNlcmlhbEZvcm1hdCkKICAgICAgICAgICAgICAgIHZhbCBib2R5ID0gUmVxdWVzdEJvZHkuY3JlYXRlKG1lZGlhVHlwZSwganNvbikKICAgICAgICAgICAgICAgIHJlcUJ1aWxkZXIucHV0KGJvZHkpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgSFRUUE1ldGhvZC5ERUxFVEUgLT4gcmVxQnVpbGRlci5kZWxldGUoKQogICAgICAgIH0KICAgICAgICByZXR1cm4gcmVxQnVpbGRlci5idWlsZCgpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBhZGRIZWFkZXIobmFtZTogU3RyaW5nLCB2YWx1ZTogU3RyaW5nKSB7CiAgICAgICAgaGVhZGVyc1tuYW1lXSA9IHZhbHVlCiAgICB9CgogICAgZnVuIHJlbW92ZUhlYWRlcihuYW1lOiBTdHJpbmcpIHsKICAgICAgICBoZWFkZXJzLnJlbW92ZShuYW1lKQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1biBwYXJzZVJlc3BvbnNlKGJvZHk6IFN0cmluZywgc3RhdHVzOiBJbnQsIHNlcmlhbEZvcm1hdDogU2VyaWFsRm9ybWF0KTogUkVTVEZ1bFJlc3BvbnNlPFQ+Cg==</text>
+        <text encoding="base64">ICAgIGZ1biByZW1vdmVNb2RpZmllcihpbmRleDogSW50KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFic3RyYWN0IHZhbCByZXF1ZXN0RmFjdG9yeTogUmVxdWVzdEZhY3Rvcnk8cmVzb3VyY2VDbGFzcz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBhYnN0cmFjdCB2YWwgc2VyaWFsRm9ybWF0OiBTZXJpYWxGb3JtYXQK</text>
+        <text encoding="base64">aW1wb3J0IGJyLmNvbS5ub3ZpZGEubG9jYWxpemFjYW8ucmVzdHJlcG9zaXRvcnkuaHR0cC5SZXF1ZXN0TW9kaWZpZXIK</text>
       </register>
-      <register name="5" type="4">
-        <text>,
-                                                      private val body: String,
-                                                      private val status: Int)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhbCBtb2RpZmllcnM6IExpc3Q8UmVxdWVzdE1vZGlmaWVyPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1biBpc1N1Y2Nlc3NmdWwoKTogQm9vbGVhbiB7CiAgICAgICAgcmV0dXJuIHN0YXR1cyBpbiAyMDAuLjI5OQogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cmwuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biBjcmVhdGVSZXF1ZXN0KHJlc291cmNlOiByZXNvdXJjZUNsYXNzLCBhY3Rpb246IEFjdGlvbik6IFJFU1RmdWxIVFRQUmVxdWVzdDxvdXQgcmVzb3VyY2VDbGFzcz4K</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
