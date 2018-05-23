@@ -361,9 +361,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaTracking.kt" timestamp="1526990270741">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaTracking.kt" timestamp="1527078100615">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="33" />
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/Credentials.kt" timestamp="1526577410744">
@@ -504,9 +504,9 @@
         <mark key="^" line="11" column="85" />
         <mark key="." line="11" column="85" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/build.gradle" timestamp="1526478890741">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/build.gradle" timestamp="1527078756771">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="36" column="72" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="36" column="17" />
       </file>
@@ -951,7 +951,7 @@
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZUludGVudC5wdXRFeHRyYShBdXRoU2VydmljZS5QQVNTV09SRCwgY3JlZGVudGlhbHMucGFzc3dvcmQpCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uc3F1YXJldXAub2todHRwMzpva2h0dHA6My4xMC4wJwogICAgaW1wbGVtZW50YXRpb24gJ2NvbS5nb29nbGUuYW5kcm9pZC5nbXM6cGxheS1zZXJ2aWNlcy1iYXNlbWVudDoxNS4wLjEnCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmdvb2dsZS5hbmRyb2lkLmdtczpwbGF5LXNlcnZpY2VzLWxvY2F0aW9uOjE1LjAuMScK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
