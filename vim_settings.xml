@@ -457,11 +457,11 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/FingerprintController.kt" timestamp="1527103750840">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="31" column="24" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/FingerprintController.kt" timestamp="1527105194774">
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="15" />
+        <mark key="." line="34" column="15" />
+        <mark key="^" line="34" column="15" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RequestFactory.kt" timestamp="1526988683146">
         <mark key="e" line="10" column="8" />
@@ -993,7 +993,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>stopTracking</text>
+        <text>Timer()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
@@ -1002,18 +1002,30 @@
         <text encoding="base64">KHByaXZhdGUgdmFsIHNlcnZlcjogUkVTVGZ1bFNlcnZlcjxMb2NhdGlvblNlcnZlclJlc291cmNlPiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcml2YXRlIHZhbCBzY2FuRmFjdG9yeTogU2NhbkZhY3RvcnksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpdmF0ZSB2YWwgdHJhY2tpbmdDeWNsZVBlcmlvZDogTG9uZykgewogICAgcHJpdmF0ZSB2YXIgbG9jYXRpb25UaW1lcjogVGltZXIgPSBUaW1lcigibG9jYXRpb25UaW1lciIpCgogICAgZnVuIHN0YXJ0VHJhY2tpbmcoY2xpZW50SWQ6IFN0cmluZywgZGV2aWNlSWQ6IFN0cmluZykgewogICAgICAgIGxvY2F0aW9uVGltZXIuc2NoZWR1bGUob2JqZWN0IDogVGltZXJUYXNrKCkgewogICAgICAgICAgICBvdmVycmlkZSBmdW4gcnVuKCkgewogICAgICAgICAgICAgICAgdmFsIHNjYW46IFNjYW4gPSBzY2FuRmFjdG9yeS5jb2xsZWN0UmVzb3VyY2VzKCkKICAgICAgICAgICAgICAgIHZhbCByZXF1ZXN0ID0gc2VydmVyLnJlcXVlc3RGYWN0b3J5LmNyZWF0ZVJlcXVlc3QoCiAgICAgICAgICAgICAgICAgICAgICAgIFBvc2l0aW9uaW5nU2Vuc29yc1JlYWRpbmdzKGNsaWVudElkLCBkZXZpY2VJZCwgc2NhbiksCiAgICAgICAgICAgICAgICAgICAgICAgIFJlcXVlc3RGYWN0b3J5LkFjdGlvbi5DUkVBVEUpCiAgICAgICAgICAgICAgICBzZXJ2ZXIuZXhlY3V0ZShyZXF1ZXN0KQogICAgICAgICAgICB9CiAgICAgICAgfSwgMCwgdHJhY2tpbmdDeWNsZVBlcmlvZCkKICAgIH0KCiAgICBmdW4gc3RvcFRyYWNraW5nKCkgewogICAgICAgIHNjYW5GYWN0b3J5LnNodXRkb3duKCkKICAgICAgICBsb2NhdGlvblRpbWVyLmNhbmNlbCgpCiAgICAgICAgbG9jYXRpb25UaW1lciA9IFRpbWVyKCJsb2NhdGlvblRpbWVyIikKICAgIH0KfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzY2FuRmFjdG9yeS5zaHV0ZG93bigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5nZXJwcmludFRpbWVyLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5EdXJhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGZ1biBjYW5jZWxGaW5nZXJwcmludCgpIHsKICAgICAgICBmaW5nZXJwcmludFRpbWVyLmNhbmNlbCgpCiAgICAgICAgZmluZ2VycHJpbnRUaW1lciA9IFRpbWVyKCJmaW5nZXJwcmludFRpbWVyIikKICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzY2FuRmFjdG9yeS5zaHV0ZG93bigpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5EdXJhdGlvbgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBsb2NhdGlvblRpbWVyLgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>{
     private var fingerprinting: Boolean = false
     private var locationTimer: Timer = Timer(&quot;locationTimer&quot;)
@@ -1036,18 +1048,6 @@
         locationTimer = Timer(&quot;locationTimer&quot;)
     }
 }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biBtYWtlRmluZ2VycHJpbnRzKGxhdDogRmxvYXQsIGxuZzogRmxvYXQpIHsKICAgICAgICAKICAgIH0KCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhciBsb2NhdGlvblRpbWVyOiBUaW1lciA9IFRpbWVyKCJsb2NhdGlvblRpbWVyIikK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CmltcG9ydCBhbmRyb2lkLmFwcC5JbnRlbnRTZXJ2aWNlCmltcG9ydCBhbmRyb2lkLmNvbnRlbnQuSW50ZW50CmltcG9ydCBhbmRyb2lkLnV0aWwuTG9nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
