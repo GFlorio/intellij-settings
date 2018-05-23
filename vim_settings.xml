@@ -275,12 +275,12 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/TrackingForegroundService.kt" timestamp="1527102159514">
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/TrackingForegroundService.kt" timestamp="1527106230945">
         <mark key="'" line="71" column="56" />
-        <mark key="[" line="60" column="33" />
-        <mark key="]" line="60" column="33" />
-        <mark key="^" line="48" column="7" />
-        <mark key="." line="60" column="33" />
+        <mark key="[" line="81" column="93" />
+        <mark key="]" line="82" column="7" />
+        <mark key="^" line="82" column="7" />
+        <mark key="." line="82" column="7" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/PositioningResourcesFactory.kt" timestamp="1525099947894">
         <mark key="[" line="6" column="68" />
@@ -408,12 +408,12 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPServer.kt" timestamp="1526912235633">
-        <mark key="'" line="71" column="4" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="8" column="62" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPServer.kt" timestamp="1527106139532">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="77" column="3" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/SerializationStrategy.kt" timestamp="1525097866235">
         <mark key="[" line="2" column="19" />
@@ -463,12 +463,12 @@
         <mark key="." line="34" column="15" />
         <mark key="^" line="34" column="15" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RequestFactory.kt" timestamp="1526988683146">
-        <mark key="e" line="10" column="8" />
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="13" />
-        <mark key="." line="28" column="13" />
-        <mark key="^" line="28" column="13" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RequestFactory.kt" timestamp="1527106131199">
+        <mark key="e" line="7" column="8" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="13" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/SerializationException.kt" timestamp="1524929821285">
         <mark key="[" line="2" column="28" />
@@ -674,6 +674,7 @@
       <jump line="39" column="7" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaTracking.kt" />
       <jump line="53" column="15" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaTracking.kt" />
       <jump line="4" column="31" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaTracking.kt" />
+      <jump line="54" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPServer.kt" />
     </jumps>
     <registers>
       <register name="l" type="4">
@@ -993,7 +994,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Timer()</text>
+        <text>requestFactory</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
@@ -1002,52 +1003,31 @@
         <text encoding="base64">KHByaXZhdGUgdmFsIHNlcnZlcjogUkVTVGZ1bFNlcnZlcjxMb2NhdGlvblNlcnZlclJlc291cmNlPiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcml2YXRlIHZhbCBzY2FuRmFjdG9yeTogU2NhbkZhY3RvcnksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpdmF0ZSB2YWwgdHJhY2tpbmdDeWNsZVBlcmlvZDogTG9uZykgewogICAgcHJpdmF0ZSB2YXIgbG9jYXRpb25UaW1lcjogVGltZXIgPSBUaW1lcigibG9jYXRpb25UaW1lciIpCgogICAgZnVuIHN0YXJ0VHJhY2tpbmcoY2xpZW50SWQ6IFN0cmluZywgZGV2aWNlSWQ6IFN0cmluZykgewogICAgICAgIGxvY2F0aW9uVGltZXIuc2NoZWR1bGUob2JqZWN0IDogVGltZXJUYXNrKCkgewogICAgICAgICAgICBvdmVycmlkZSBmdW4gcnVuKCkgewogICAgICAgICAgICAgICAgdmFsIHNjYW46IFNjYW4gPSBzY2FuRmFjdG9yeS5jb2xsZWN0UmVzb3VyY2VzKCkKICAgICAgICAgICAgICAgIHZhbCByZXF1ZXN0ID0gc2VydmVyLnJlcXVlc3RGYWN0b3J5LmNyZWF0ZVJlcXVlc3QoCiAgICAgICAgICAgICAgICAgICAgICAgIFBvc2l0aW9uaW5nU2Vuc29yc1JlYWRpbmdzKGNsaWVudElkLCBkZXZpY2VJZCwgc2NhbiksCiAgICAgICAgICAgICAgICAgICAgICAgIFJlcXVlc3RGYWN0b3J5LkFjdGlvbi5DUkVBVEUpCiAgICAgICAgICAgICAgICBzZXJ2ZXIuZXhlY3V0ZShyZXF1ZXN0KQogICAgICAgICAgICB9CiAgICAgICAgfSwgMCwgdHJhY2tpbmdDeWNsZVBlcmlvZCkKICAgIH0KCiAgICBmdW4gc3RvcFRyYWNraW5nKCkgewogICAgICAgIHNjYW5GYWN0b3J5LnNodXRkb3duKCkKICAgICAgICBsb2NhdGlvblRpbWVyLmNhbmNlbCgpCiAgICAgICAgbG9jYXRpb25UaW1lciA9IFRpbWVyKCJsb2NhdGlvblRpbWVyIikKICAgIH0KfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0RmFjdG9yeS5hcHBlbmRNb2RpZmllcihvYmplY3QgOiBSZXF1ZXN0TW9kaWZpZXIgewogICAgICAgICAgICBvdmVycmlkZSBmdW4gYXBwbHkocmVxdWVzdDogSFRUUFJlcXVlc3QpIHsKICAgICAgICAgICAgICAgIHJlcXVlc3QuYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJlYXJlciAkdG9rZW4iKQogICAgICAgICAgICB9CiAgICAgICAgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5nZXJwcmludFRpbWVyLgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZ1biBhcHBlbmRNb2RpZmllcihtb2RpZmllcjogUmVxdWVzdE1vZGlmaWVyKSB7CiAgICAgICAgbW9kaWZpZXJzLmFkZChtb2RpZmllcikKICAgIH0KCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1biBjYW5jZWxGaW5nZXJwcmludCgpIHsKICAgICAgICBmaW5nZXJwcmludFRpbWVyLmNhbmNlbCgpCiAgICAgICAgZmluZ2VycHJpbnRUaW1lciA9IFRpbWVyKCJmaW5nZXJwcmludFRpbWVyIikKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKG1vZCBpbiBtb2RpZmllcnMpCiAgICAgICAgICAgIG1vZC5hcHBseShyZXF1ZXN0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzY2FuRmFjdG9yeS5zaHV0ZG93bigpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1vZGlmaWVycyA6IE11dGFibGVMaXN0PFJlcXVlc3RNb2RpZmllcj4gPSBMaW5rZWRMaXN0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5EdXJhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5nZXJwcmludFRpbWVyLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvblRpbWVyLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-    private var fingerprinting: Boolean = false
-    private var locationTimer: Timer = Timer(&quot;locationTimer&quot;)
-
-    fun startTracking(clientId: String, deviceId: String) {
-        locationTimer.schedule(object : TimerTask() {
-            override fun run() {
-                val scan: Scan = scanFactory.collectResources()
-                val request = server.requestFactory.createRequest(
-                        PositioningSensorsReadings(clientId, deviceId, scan),
-                        RequestFactory.Action.CREATE)
-                server.execute(request)
-            }
-        }, 0, trackingCyclePeriod)
-    }
-
-    fun stopTracking() {
-        scanFactory.shutdown()
-        locationTimer.cancel()
-        locationTimer = Timer(&quot;locationTimer&quot;)
-    }
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGZ1biBjYW5jZWxGaW5nZXJwcmludCgpIHsKICAgICAgICBmaW5nZXJwcmludFRpbWVyLmNhbmNlbCgpCiAgICAgICAgZmluZ2VycHJpbnRUaW1lciA9IFRpbWVyKCJmaW5nZXJwcmludFRpbWVyIikKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
