@@ -384,11 +384,11 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/Authenticator.kt" timestamp="1526990173925">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="36" />
-        <mark key="^" line="11" column="36" />
-        <mark key="." line="11" column="36" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/Authenticator.kt" timestamp="1527083818454">
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="23" column="34" />
+        <mark key="^" line="23" column="34" />
+        <mark key="." line="23" column="34" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulHTTPRequest.kt" timestamp="1526904278026">
         <mark key="'" line="31" column="12" />
@@ -433,12 +433,12 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/TrackingForegroundService.kt" timestamp="1527083384519">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="86" column="58" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/TrackingForegroundService.kt" timestamp="1527083747263">
+        <mark key="'" line="63" column="56" />
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="33" column="3" />
+        <mark key="." line="33" column="3" />
+        <mark key="^" line="33" column="3" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/PositioningResourcesFactory.kt" timestamp="1525099947894">
         <mark key="[" line="6" column="68" />
@@ -628,6 +628,9 @@
       <jump line="67" column="1" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulServer.kt" />
       <jump line="71" column="4" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPServer.kt" />
       <jump line="21" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/TrackingForegroundService.kt" />
+      <jump line="35" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/TrackingForegroundService.kt" />
+      <jump line="88" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/TrackingForegroundService.kt" />
+      <jump line="36" column="56" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/TrackingForegroundService.kt" />
     </jumps>
     <registers>
       <register name="l" type="4">
@@ -947,40 +950,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>clientId</text>
+        <text>viceId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2xpZW50SWQgPSBleHRyYXMuZ2V0U3RyaW5nKGNsaWVudElkKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZGV2aWNlSWQgPSBleHRyYXMuZ2V0U3RyaW5nKGRldmljZUlkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblN0YXJ0Q29tbWFuZChpbnRlbnQ6IEludGVudD8sIGZsYWdzOiBJbnQsIHN0YXJ0SWQ6IEludCk6IEludCB7CiAgICAgICAgc3VwZXIub25TdGFydENvbW1hbmQoaW50ZW50LCBmbGFncywgc3RhcnRJZCkKICAgICAgICBpZiAoaW50ZW50ID09IG51bGwpIHJldHVybiBTVEFSVF9OT1RfU1RJQ0tZCgogICAgICAgIHZhbCBleHRyYXMgPSBpbnRlbnQuZXh0cmFzCiAgICAgICAgdmFsIGNsaWVudElkID0gZXh0cmFzLmdldFN0cmluZyhjbGllbnRJZCkKICAgICAgICB2YWwgZGV2aWNlSWQgPSBleHRyYXMuZ2V0U3RyaW5nKGRldmljZUlkKQogICAgICAgIHZhbCB0b2tlbiA9IGV4dHJhcy5nZXRTdHJpbmcodG9rZW4pCiAgICAgICAgdmFsIHBlbmRpbmdJbnRlbnQgPSBQZW5kaW5nSW50ZW50LmdldEFjdGl2aXR5KHRoaXMsIDAsIGludGVudCwgMCkKCiAgICAgICAgdmFsIG5vdGlmaWNhdGlvbkJ1aWxkZXIgPSBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UID49IEJ1aWxkLlZFUlNJT05fQ09ERVMuTykKICAgICAgICAgICAgTm90aWZpY2F0aW9uLkJ1aWxkZXIodGhpcywgY2xpZW50SWQpCiAgICAgICAgZWxzZQogICAgICAgICAgICBOb3RpZmljYXRpb24uQnVpbGRlcih0aGlzKQogICAgICAgIHZhbCBub3RpZmljYXRpb24gPSBub3RpZmljYXRpb25CdWlsZGVyCiAgICAgICAgICAgICAgICAgICAgLnNldENvbnRlbnRUaXRsZSgiTG9jYWxpemHDp8OjbyBQZXJzaXN0ZW50ZSIpCiAgICAgICAgICAgICAgICAgICAgLnNldENvbnRlbnRUZXh0KCJOb3ZpZMOhIC0gTG9jYWxpemHDp8OjbyBJbmRvb3IgZSBPdXRkb29yIikKICAgICAgICAgICAgICAgICAgICAuc2V0U21hbGxJY29uKGFuZHJvaWQuUi5kcmF3YWJsZS5pY19tZW51X215bG9jYXRpb24pCiAgICAgICAgICAgICAgICAgICAgLnNldENvbnRlbnRJbnRlbnQocGVuZGluZ0ludGVudCkKICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKQoKICAgICAgICBzdGFydEZvcmVncm91bmQoY2xpZW50SWQuaGFzaENvZGUoKSwgbm90aWZpY2F0aW9uKQogICAgICAgIGluaXRDb250cm9sbGVyKHRva2VuKQogICAgICAgIHRyYWNraW5nQ29udHJvbGxlci5zdGFydFRyYWNraW5nKGNsaWVudElkLCBkZXZpY2VJZCkKICAgICAgICByZXR1cm4gU1RBUlRfUkVERUxJVkVSX0lOVEVOVAogICAgfQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbi5zcGxpdCgnICcpWzFdCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc2VydmVyID0gYXNzZW1ibGVTZXJ2ZXIoc2V0dGluZ3NSZXBvc2l0b3J5KQogICAgICAgIHZhbCBzY2FubmVyID0gYXNzZW1ibGVTY2FubmVyKHNldHRpbmdzUmVwb3NpdG9yeSkKICAgICAgICB2YWwgdHJhY2tpbmdDeWNsZVBlcmlvZCA9IHNldHRpbmdzUmVwb3NpdG9yeS5nZXRJbnQoU2V0dGluZ3NSZXBvc2l0b3J5LkludFNldHRpbmdzLkZPUkVHUk9VTkRfQ1lDTEVfVElNRSkKICAgICAgICB0cmFja2luZ0NvbnRyb2xsZXIgPSBQZXJzaXN0ZW50VHJhY2tpbmdDb250cm9sbGVyKHNlcnZlciwgc2Nhbm5lciwgdHJhY2tpbmdDeWNsZVBlcmlvZC50b0xvbmcoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc2VydmVyID0gYXNzZW1ibGVTZXJ2ZXIoc2V0dGluZ3NSZXBvc2l0b3J5KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc2VydmljZUludGVudCA9IEludGVudChjb250ZXh0LCBUcmFja2luZ0ZvcmVncm91bmRTZXJ2aWNlOjpjbGFzcy5qYXZhKQovLyAgICAgICAgc2VydmljZUludGVudC5wdXRFeHRyYShUcmFja2luZ0ZvcmVncm91bmRTZXJ2aWNlLmNsaWVudElkLCApCiAgICAgICAgaWYgKEJ1aWxkLlZFUlNJT04uU0RLX0lOVCA+PSBCdWlsZC5WRVJTSU9OX0NPREVTLk8pIHsKICAgICAgICAgICAgY29udGV4dC5zdGFydEZvcmVncm91bmRTZXJ2aWNlKHNlcnZpY2VJbnRlbnQpCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgY29udGV4dC5zdGFydFNlcnZpY2Uoc2VydmljZUludGVudCkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGF1dGhlbnRpY2F0ZShjb250ZXh0OiBDb250ZXh0KSB7CiAgICAgICAgdmFsIHNlcnZpY2VJbnRlbnQgPSBJbnRlbnQoY29udGV4dCwgQXV0aFNlcnZpY2U6OmNsYXNzLmphdmEpCiAgICAgICAgc2VydmljZUludGVudC5wdXRFeHRyYSgiUmVzdWx0TGlzdGVuZXIiLCBvYmplY3QgOiBSZXN1bHRSZWNlaXZlcihudWxsKSB7CgogICAgICAgIH0pCgogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbi5zcGxpdCgnICcpWzFdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVkZW50aWFscyA9IENyZWRlbnRpYWxzKHVzZXJuYW1lID0gbnVsbCwgcGFzc3dvcmQgPSBudWxsLCB0b2tlbiA9IHRva2VuKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc2VydmljZUludGVudCA9IEludGVudChjb250ZXh0LCBUcmFja2luZ0ZvcmVncm91bmRTZXJ2aWNlOjpjbGFzcy5qYXZhKQovLyAgICAgICAgc2VydmljZUludGVudC5wdXRFeHRyYShUcmFja2luZ0ZvcmVncm91bmRTZXJ2aWNlLmNsaWVudElkLCApCiAgICAgICAgaWYgKEJ1aWxkLlZFUlNJT04uU0RLX0lOVCA+PSBCdWlsZC5WRVJTSU9OX0NPREVTLk8pIHsKICAgICAgICAgICAgY29udGV4dC5zdGFydEZvcmVncm91bmRTZXJ2aWNlKHNlcnZpY2VJbnRlbnQpCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgY29udGV4dC5zdGFydFNlcnZpY2Uoc2VydmljZUludGVudCkKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
