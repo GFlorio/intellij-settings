@@ -257,11 +257,11 @@
         <mark key="^" line="27" column="51" />
         <mark key="." line="27" column="51" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPRequest.kt" timestamp="1527109758169">
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="17" column="39" />
-        <mark key="^" line="17" column="39" />
-        <mark key="." line="17" column="39" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPRequest.kt" timestamp="1527210144113">
+        <mark key="[" line="24" column="28" />
+        <mark key="]" line="25" column="37" />
+        <mark key="^" line="25" column="37" />
+        <mark key="." line="25" column="37" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao.kt" timestamp="1523651855486">
         <mark key="[" line="5" column="10" />
@@ -994,13 +994,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>: HTTPRequest</text>
+        <text>headers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>method: HTTPServer.HTTPMethod</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBoZWFkZXJzOiBNdXRhYmxlTWFwPFN0cmluZywgU3RyaW5nPiA9IEhhc2hNYXAoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
