@@ -446,11 +446,11 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/RequestModifier.kt" timestamp="1527595215285">
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="4" column="46" />
-        <mark key="^" line="4" column="46" />
-        <mark key="." line="4" column="46" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/RequestModifier.kt" timestamp="1527682753511">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="7" column="47" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="47" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/tracking/LocationServerRequestFactory.kt" timestamp="1527593883171">
         <mark key="[" line="40" column="0" />
@@ -531,10 +531,10 @@
         <mark key="." line="9" column="57" />
         <mark key="^" line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPResponse.kt" timestamp="1526907015818">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPResponse.kt" timestamp="1527682674501">
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="46" />
+        <mark key="." line="2" column="46" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/Credentials.kt" timestamp="1526577410744">
         <mark key="[" line="6" column="50" />
@@ -547,11 +547,11 @@
         <mark key="]" line="27" column="59" />
         <mark key="." line="27" column="59" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/AuthRequestModifier.kt" timestamp="1527596331446">
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="19" column="38" />
-        <mark key="^" line="19" column="38" />
-        <mark key="." line="19" column="38" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/AuthRequestModifier.kt" timestamp="1527682787543">
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="8" />
+        <mark key="^" line="20" column="38" />
+        <mark key="." line="28" column="8" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/LocationServer.kt" timestamp="1525099456077">
         <mark key="[" line="46" column="0" />
@@ -1007,7 +1007,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Array</text>
+        <text>TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
@@ -1016,31 +1016,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFJFU1RmdWxSZXF1ZXN0KHNlcmlhbGl6ZXIsIHJlcUJ1aWxkZXIsIHJlc291cmNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGJyLmNvbS5ub3ZpZGEubG9jYWxpemFjYW8uYXV0aC5BdXRoZW50aWNhdG9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhdG9yID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBwcm9jZXNzUmVzcG9uc2UocmVzcG9uc2U6IEhUVFBSZXNwb25zZSkgewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGF1dGhlbnRpY2F0b3I6IEF1dGhlbnRpY2F0b3I/Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJyLmNvbS5ub3ZpZGEubG9jYWxpemFjYW8uYXV0aC5BdXRoZW50aWNhdG9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhdG9yID0gQXV0aGVudGljYXRvcih1c2VyLCBwYXNzd29yZCkK</text>
+        <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhdG9yID0gbnVsbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGJyLmNvbS5ub3ZpZGEubG9jYWxpemFjYW8uYXV0aC5BdXRoUmVxdWVzdEZhY3RvcnkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGF1dGhlbnRpY2F0b3I6IEF1dGhlbnRpY2F0b3I/Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2YWwgdG9rZW4gPSAidG9rZW4iCg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhdG9yID0gQXV0aGVudGljYXRvcih1c2VyLCBwYXNzd29yZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGJyLmNvbS5ub3ZpZGEubG9jYWxpemFjYW8uYXV0aC5BdXRoUmVxdWVzdEZhY3RvcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlSW50ZW50LnB1dEV4dHJhKFRyYWNraW5nRm9yZWdyb3VuZFNlcnZpY2UudG9rZW4sIHRva2VuKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB2YWwgdG9rZW4gPSAidG9rZW4iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGJyLmNvbS5ub3ZpZGEubG9jYWxpemFjYW8ucmVzdHJlcG9zaXRvcnkuaHR0cC5SZXF1ZXN0TW9kaWZpZXIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
