@@ -136,11 +136,11 @@
         <mark key="^" line="14" column="66" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaAPI.kt" timestamp="1527671534198">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="55" column="90" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaAPI.kt" timestamp="1527764957937">
+        <mark key="[" line="44" column="60" />
+        <mark key="]" line="44" column="78" />
+        <mark key="^" line="44" column="78" />
+        <mark key="." line="44" column="78" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/SerializerFactory.kt" timestamp="1525892830539">
         <mark key="[" line="9" column="106" />
@@ -1012,7 +1012,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWVkaWFUeXBlLCA=</text>
+        <text>AuthRequestModifier(token)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
@@ -1021,31 +1021,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFJFU1RmdWxSZXF1ZXN0KHNlcmlhbGl6ZXIsIHJlcUJ1aWxkZXIsIHJlc291cmNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWVkaWFUeXBlID0gcmVxdWVzdEZhY3Rvcnkuc2VyaWFsRm9ybWF0Lm1lZGlhVHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRva2VuID0gdG9rZW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWVkaWFUeXBlID0gcmVxdWVzdEZhY3Rvcnkuc2VyaWFsRm9ybWF0Lm1lZGlhVHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIGF1dGhlbnRpY2F0b3IuYXV0aGVudGljYXRlKGNvbnRleHQsIHsgdG9rZW46IFN0cmluZyAtPgogICAgICAgICAgICB0aGlzQE5vdmlkYUFQSS50b2tlbiA9IHRva2VuCiAgICAgICAgICAgIHN0YXJ0VHJhY2tpbmdTZXJ2aWNlKGNvbnRleHQsIHRva2VuKQogICAgICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKHJlcXVlc3QubWVkaWFUeXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYXV0aGVudGljYXRvciA9PSBudWxsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2UobWVkaWFUeXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIGF1dGhlbnRpY2F0b3IuYXV0aGVudGljYXRlKGNvbnRleHQsIHsgdG9rZW46IFN0cmluZyAtPgogICAgICAgICAgICB0aGlzQE5vdmlkYUFQSS50b2tlbiA9IHRva2VuCiAgICAgICAgICAgIHN0YXJ0VHJhY2tpbmdTZXJ2aWNlKGNvbnRleHQsIHRva2VuKQogICAgICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYXV0aGVudGljYXRvciA9PSBudWxsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhYmxlID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWVkaWFUeXBlID0gcmVxdWVzdEZhY3Rvcnkuc2VyaWFsRm9ybWF0Lm1lZGlhVHlwZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhYmxlID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWVkaWFUeXBlID0gcmVxdWVzdEZhY3Rvcnkuc2VyaWFsRm9ybWF0Lm1lZGlhVHlwZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGF1dGhlbnRpY2FibGU6IEJvb2xlYW4K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKHJlcXVlc3QubWVkaWFUeXBlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHBhc3N3b3JkOiAK</text>
+        <text encoding="base64">ICAgIHZhbCBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2UobWVkaWFUeXBlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
