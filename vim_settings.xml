@@ -51,11 +51,11 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/BasicCredentials.kt" timestamp="1527859098518">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="5" column="57" />
-        <mark key="^" line="5" column="46" />
-        <mark key="." line="5" column="57" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/BasicCredentials.kt" timestamp="1527859741357">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="37" />
+        <mark key="^" line="10" column="37" />
+        <mark key="." line="10" column="37" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/Serializable.kt" timestamp="1524925443877">
         <mark key="[" line="6" column="27" />
@@ -1018,7 +1018,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, val token: String?</text>
+        <text>: String get() = k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
