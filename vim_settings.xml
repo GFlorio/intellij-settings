@@ -15,11 +15,11 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulRequest.kt" timestamp="1528115192226">
-        <mark key="[" line="5" column="92" />
-        <mark key="]" line="5" column="99" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulRequest.kt" timestamp="1528118024140">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
         <mark key="^" line="5" column="99" />
-        <mark key="." line="5" column="99" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/serialization/Serializer.kt" timestamp="1527593659196">
         <mark key="[" line="3" column="47" />
@@ -511,10 +511,11 @@
         <mark key="." line="34" column="15" />
         <mark key="^" line="34" column="15" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RequestFactory.kt" timestamp="1528115250525">
-        <mark key="[" line="8" column="38" />
-        <mark key="]" line="8" column="38" />
-        <mark key="." line="8" column="64" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RequestFactory.kt" timestamp="1528118062501">
+        <mark key="[" line="12" column="78" />
+        <mark key="]" line="13" column="68" />
+        <mark key="." line="13" column="68" />
+        <mark key="^" line="13" column="68" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/SerializationException.kt" timestamp="1524929821285">
         <mark key="[" line="2" column="28" />
@@ -1032,7 +1033,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHJlc291cmNlQ2xhc3M6IFJlbW90ZVJlc291cmNlPg==</text>
+        <text encoding="base64">IDogUkVTVGZ1bFJlcXVlc3Q=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
@@ -1041,31 +1042,31 @@
         <text encoding="base64">aW50ZXJuYWwgYWJzdHJhY3QgY2xhc3MgUmVxdWVzdEZhY3Rvcnk8cmVzb3VyY2VDbGFzczogUmVtb3RlUmVzb3VyY2U+KHByaXZhdGUgdmFsIGhvc3Q6IFN0cmluZywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVudW0gY2xhc3MgQWN0aW9uIHsKICAgICAgICBDUkVBVEUsIFJFVFJJRVZFLCBVUERBVEUsIERFTEVURQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVudW0gY2xhc3MgQWN0aW9uIHsKICAgICAgICBDUkVBVEUsIFJFVFJJRVZFLCBVUERBVEUsIERFTEVURQogICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcml2YXRlIHZhbCBzZXJ2ZXI6IFJFU1RmdWxTZXJ2ZXI8aW4gcmVxVD4sCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIGVudW0gY2xhc3MgQWN0aW9uIHsKICAgICAgICBDUkVBVEUsIFJFVFJJRVZFLCBVUERBVEUsIERFTEVURQogICAgfQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHJlc3BvbnNlOiBSZXNwb25zZT8gPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcml2YXRlIHZhbCBzZXJ2ZXI6IFJFU1RmdWxTZXJ2ZXI8aW4gcmVxVD4sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVudW0gY2xhc3MgQWN0aW9uIHsKICAgICAgICBDUkVBVEUsIFJFVFJJRVZFLCBVUERBVEUsIERFTEVURQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biBwYXJzZVJlc3BvbnNlKGh0dHBSZXNwb25zZTogUmVzcG9uc2UpOiByZXNUIHsKICAgICAgICByZXR1cm4gUkVTVEZ1bFJlc3BvbnNlKHNlcmlhbGl6ZXIsIGh0dHBSZXNwb25zZSkKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHJlc3BvbnNlOiBSZXNwb25zZT8gPSBudWxsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBleGVjdXRlKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBwYXJzZVJlc3BvbnNlKGh0dHBSZXNwb25zZTogUmVzcG9uc2UpOiByZXNUIHsKICAgICAgICByZXR1cm4gUkVTVEZ1bFJlc3BvbnNlKHNlcmlhbGl6ZXIsIGh0dHBSZXNwb25zZSkKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
