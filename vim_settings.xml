@@ -15,11 +15,11 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulRequest.kt" timestamp="1528118768180">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="7" column="106" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulRequest.kt" timestamp="1528122588126">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="6" column="78" />
+        <mark key="^" line="6" column="78" />
+        <mark key="." line="6" column="78" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/serialization/Serializer.kt" timestamp="1527593659196">
         <mark key="[" line="3" column="47" />
@@ -248,10 +248,8 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RemoteServer.kt" timestamp="1528119164814">
-        <mark key="]" line="9" column="44" />
-        <mark key="^" line="9" column="44" />
-        <mark key="." line="9" column="44" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RemoteServer.kt" timestamp="1528121967006">
+        <mark key="^" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaTracking.kt" timestamp="1527098347746">
         <mark key="'" line="5" column="31" />
@@ -522,11 +520,9 @@
         <mark key="." line="34" column="15" />
         <mark key="^" line="34" column="15" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RequestFactory.kt" timestamp="1528118700270">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="13" column="68" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RequestFactory.kt" timestamp="1528121964062">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="25" column="4" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/SerializationException.kt" timestamp="1524929821285">
         <mark key="[" line="2" column="28" />
@@ -1044,13 +1040,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>RESTful</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW50ZXJuYWwgYWJzdHJhY3QgY2xhc3MgUmVxdWVzdEZhY3Rvcnk8cmVzb3VyY2VDbGFzczogUmVtb3RlUmVzb3VyY2U+KHByaXZhdGUgdmFsIGhvc3Q6IFN0cmluZywK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHNldFZlcmIocmVzb3VyY2U6IHJlc291cmNlQ2xhc3MsIGFjdGlvbjogUkVTVGZ1bFNlcnZlci5BY3Rpb24sIGJ1aWxkZXI6IFJlcXVlc3QuQnVpbGRlcik6IFJlcXVlc3QuQnVpbGRlciB7CiAgICAgICAgcmV0dXJuIHdoZW4gKGFjdGlvbikgewogICAgICAgICAgICBSRVNUZnVsU2VydmVyLkFjdGlvbi5DUkVBVEUgLT4gYnVpbGRlci5wb3N0KGdldEJvZHkocmVzb3VyY2UpKQogICAgICAgICAgICBSRVNUZnVsU2VydmVyLkFjdGlvbi5SRVRSSUVWRSAtPiBidWlsZGVyLmdldCgpCiAgICAgICAgICAgIFJFU1RmdWxTZXJ2ZXIuQWN0aW9uLlVQREFURSAtPiBidWlsZGVyLnB1dChnZXRCb2R5KHJlc291cmNlKSkKICAgICAgICAgICAgUkVTVGZ1bFNlcnZlci5BY3Rpb24uREVMRVRFIC0+IGJ1aWxkZXIuZGVsZXRlKCkKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2VQYXJzZXIucGFyc2VSZXNwb25zZShyZXNwb25zZSkK</text>
