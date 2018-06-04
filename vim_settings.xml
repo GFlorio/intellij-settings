@@ -15,11 +15,11 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulRequest.kt" timestamp="1528122588126">
-        <mark key="[" line="6" column="50" />
-        <mark key="]" line="6" column="78" />
-        <mark key="^" line="6" column="78" />
-        <mark key="." line="6" column="78" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulRequest.kt" timestamp="1528122654911">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="5" column="78" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/serialization/Serializer.kt" timestamp="1527593659196">
         <mark key="[" line="3" column="47" />
@@ -1040,7 +1040,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>, resT: RemoteResource</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
@@ -1049,13 +1049,13 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHNldFZlcmIocmVzb3VyY2U6IHJlc291cmNlQ2xhc3MsIGFjdGlvbjogUkVTVGZ1bFNlcnZlci5BY3Rpb24sIGJ1aWxkZXI6IFJlcXVlc3QuQnVpbGRlcik6IFJlcXVlc3QuQnVpbGRlciB7CiAgICAgICAgcmV0dXJuIHdoZW4gKGFjdGlvbikgewogICAgICAgICAgICBSRVNUZnVsU2VydmVyLkFjdGlvbi5DUkVBVEUgLT4gYnVpbGRlci5wb3N0KGdldEJvZHkocmVzb3VyY2UpKQogICAgICAgICAgICBSRVNUZnVsU2VydmVyLkFjdGlvbi5SRVRSSUVWRSAtPiBidWlsZGVyLmdldCgpCiAgICAgICAgICAgIFJFU1RmdWxTZXJ2ZXIuQWN0aW9uLlVQREFURSAtPiBidWlsZGVyLnB1dChnZXRCb2R5KHJlc291cmNlKSkKICAgICAgICAgICAgUkVTVGZ1bFNlcnZlci5BY3Rpb24uREVMRVRFIC0+IGJ1aWxkZXIuZGVsZXRlKCkKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2VQYXJzZXIucGFyc2VSZXNwb25zZShyZXNwb25zZSkK</text>
+        <text encoding="base64">aW1wb3J0IGJyLmNvbS5ub3ZpZGEubG9jYWxpemFjYW8ucmVzdHJlcG9zaXRvcnkuc2VyaWFsaXphdGlvbi5TZXJpYWxpemVyRmFjdG9yeQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHNlcmlhbGl6ZXIgPSBTZXJpYWxpemVyRmFjdG9yeS5jcmVhdGVGYWN0b3J5PHJlcVQ+KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVudW0gY2xhc3MgQWN0aW9uIHsKICAgICAgICBDUkVBVEUsIFJFVFJJRVZFLCBVUERBVEUsIERFTEVURQogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2VQYXJzZXIucGFyc2VSZXNwb25zZShyZXNwb25zZSkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1064,16 +1064,16 @@
         <text encoding="base64">ICAgIGVudW0gY2xhc3MgQWN0aW9uIHsKICAgICAgICBDUkVBVEUsIFJFVFJJRVZFLCBVUERBVEUsIERFTEVURQogICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVudW0gY2xhc3MgQWN0aW9uIHsKICAgICAgICBDUkVBVEUsIFJFVFJJRVZFLCBVUERBVEUsIERFTEVURQogICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVudW0gY2xhc3MgQWN0aW9uIHsKICAgICAgICBDUkVBVEUsIFJFVFJJRVZFLCBVUERBVEUsIERFTEVURQogICAgfQoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcml2YXRlIHZhbCBzZXJ2ZXI6IFJFU1RmdWxTZXJ2ZXI8aW4gcmVxVD4sCg==</text>
+        <text encoding="base64">ICAgIGVudW0gY2xhc3MgQWN0aW9uIHsKICAgICAgICBDUkVBVEUsIFJFVFJJRVZFLCBVUERBVEUsIERFTEVURQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVudW0gY2xhc3MgQWN0aW9uIHsKICAgICAgICBDUkVBVEUsIFJFVFJJRVZFLCBVUERBVEUsIERFTEVURQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
