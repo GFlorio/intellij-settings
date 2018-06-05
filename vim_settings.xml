@@ -15,11 +15,11 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulRequest.kt" timestamp="1528196528325">
-        <mark key="[" line="14" column="61" />
-        <mark key="]" line="14" column="66" />
-        <mark key="." line="14" column="66" />
-        <mark key="^" line="14" column="66" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulRequest.kt" timestamp="1528197571513">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="14" column="50" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/serialization/Serializer.kt" timestamp="1527593659196">
         <mark key="[" line="3" column="47" />
@@ -294,11 +294,11 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/Authenticator.kt" timestamp="1528133582094">
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="8" column="28" />
-        <mark key="^" line="8" column="28" />
-        <mark key="." line="8" column="28" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/Authenticator.kt" timestamp="1528199639160">
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="9" column="40" />
+        <mark key="^" line="9" column="40" />
+        <mark key="." line="9" column="40" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulHTTPRequest.kt" timestamp="1526904278026">
         <mark key="'" line="31" column="12" />
@@ -1076,40 +1076,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>requestFactory.createRequest(</text>
+        <text>authenticate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBtZWRpYVR5cGU6IE1lZGlhVHlwZSA9IFJlbW90ZVJlc291cmNlLkpTT04K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzcG9uc2U6IFJlc3BvbnNlID0gc2VydmVyLmV4ZWN1dGUoYnVpbGRSZXF1ZXN0KHNlcnZlcikpCiAgICAgICAgcmV0dXJuIGdzb24uZnJvbUpzb24ocmVzcG9uc2UuYm9keSgpLnRvU3RyaW5nKCksIHJlc291cmNlOjpjbGFzcy5qYXZhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRoU2VydmVyLmV4ZWN1dGUoY3JlZGVudGlhbHMsIFJFU1RmdWxSZXF1ZXN0LkFjdGlvbi5DUkVBVEUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVxdWVzdEZhY3RvcnkubWFrZUZhY3Rvcnkoc2VydmVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbmxpbmUgZnVuIDxyZWlmaWVkIFQ+IGdldENscygpIDogQ2xhc3M8VD4gewogICAgICAgICAgICByZXR1cm4gVDo6Y2xhc3MuamF2YQogICAgICAgIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2xpZW50SWQgPSBleHRyYXMuZ2V0U3RyaW5nKGNsaWVudElkKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzcG9uc2U6IFJlc3BvbnNlID0gc2VydmVyLmV4ZWN1dGUoYnVpbGRSZXF1ZXN0KHNlcnZlcikpCiAgICAgICAgcmV0dXJuIGdzb24uZnJvbUpzb24ocmVzcG9uc2UuYm9keSgpLnRvU3RyaW5nKCksIHJlc291cmNlOjpjbGFzcy5qYXZhKQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVxdWVzdEZhY3RvcnkgPSAKICAgICAgICAgICAgICAgIAogICAgICAgIHJldHVybiBSRVNUZnVsU2VydmVyKGxvY2F0aW9uSG9zdCwgaHR0cENsaWVudCwgcmVxdWVzdEZhY3RvcnkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVxdWVzdEZhY3RvcnkgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc2VydmVyID0gUmVtb3RlU2VydmVyKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVxdWVzdEZhY3RvcnkubWFrZUZhY3Rvcnkoc2VydmVyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9jYXRpb25Ib3N0ID0gc2V0dGluZ3MuZ2V0U3RyaW5nKFNldHRpbmdzUmVwb3NpdG9yeS5TdHJpbmdTZXR0aW5ncy5MT0NBVElPTl9IT1NUKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY2xpZW50SWQgPSBleHRyYXMuZ2V0U3RyaW5nKGNsaWVudElkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
