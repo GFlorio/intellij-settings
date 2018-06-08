@@ -45,11 +45,11 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/tracking/PersistentTrackingController.kt" timestamp="1528196731648">
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-        <mark key="^" line="18" column="23" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/tracking/PersistentTrackingController.kt" timestamp="1528459969335">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/AuthenticatorFactory.kt" timestamp="1528456114547">
         <mark key="[" line="21" column="28" />
@@ -171,9 +171,9 @@
         <mark key="^" line="6" column="109" />
         <mark key="." line="6" column="109" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/sensors/BluetoothReader.kt" timestamp="1526432020682">
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/sensors/BluetoothReader.kt" timestamp="1528459713135">
         <mark key="'" line="44" column="32" />
-        <mark key="[" line="55" column="0" />
+        <mark key="[" line="46" column="41" />
         <mark key="]" line="55" column="0" />
         <mark key="^" line="14" column="66" />
         <mark key="." line="55" column="0" />
@@ -648,12 +648,12 @@
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/SensorFactory.kt" timestamp="1526219419044">
-        <mark key="'" line="11" column="52" />
-        <mark key="[" line="9" column="54" />
-        <mark key="]" line="9" column="57" />
-        <mark key="." line="9" column="57" />
-        <mark key="^" line="9" column="57" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/SensorFactory.kt" timestamp="1528460591742">
+        <mark key="'" line="14" column="52" />
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+        <mark key="^" line="28" column="27" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPResponse.kt" timestamp="1527715068638">
         <mark key="[" line="2" column="61" />
@@ -737,9 +737,6 @@
         <mark key="]" line="6" column="3" />
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
-      </file>
-      <file name="/fragment.java" timestamp="1528420984027">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1157,45 +1154,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>BLUETOOTH</text>
+        <text>GPS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQkxVRVRPT1RIIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICByZXRvcm5vLmFkZChEZXZpY2VSZWFkZXIobGlzdGVuZXIsIGdwc0ludGVydmFsLCBjb250ZXh0KSkKICAgICAgICB9IGNhdGNoKGV4OiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgTG9nLncodGFnLCAiR1BTIHVuYXZhaWxhYmxlISIpCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSh0YWcsICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0b3Juby5hZGQoRGV2aWNlUmVhZGVyKGxpc3RlbmVyLCBncHNJbnRlcnZhbCwgY29udGV4dCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXRvcm5vLmFkZChXaWZpUmVhZGVyKGxpc3RlbmVyLCBjb250ZXh0KSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFja2luZ0NvbnRyb2xsZXIgPSBpbml0Q29udHJvbGxlcigpCiAgICAgICAgdHJhY2tpbmdDb250cm9sbGVyLnN0YXJ0VHJhY2tpbmcoZGV2aWNlSWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0b3Juby5hZGQoRGV2aWNlUmVhZGVyKGxpc3RlbmVyLCBncHNJbnRlcnZhbCwgY29udGV4dCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFja2luZ0NvbnRyb2xsZXIgPSBpbml0Q29udHJvbGxlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXRvcm5vLmFkZChCbHVldG9vdGhSZWFkZXIobGlzdGVuZXIsIGNvbnRleHQsIGJsdWV0b290aFNjYW5UaW1lKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3QuZXhlY3V0ZShsb2NhdGlvblNlcnZlcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm92aWRhQVBJLnN0YXJ0VHJhY2tpbmcoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>new Runnable() {
-            @Override
-            public void run() {
-                novidaAPI.startTracking();
-            }
-        };</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuaSh0YWcsICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
