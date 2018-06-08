@@ -9,6 +9,12 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="8" />
       </file>
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/res/values/integers.xml" timestamp="1528470306644">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+        <mark key="^" line="2" column="43" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/IntermittentWifiReader.kt" timestamp="1525354078968">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
@@ -1151,7 +1157,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rssi</text>
+        <text>60</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
