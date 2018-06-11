@@ -1179,7 +1179,7 @@
         <text encoding="base64">ICAgICAgICBUaHJlYWQoe1BlbnRlbGhhdGlvblNlcnZpY2UudXBkYXRlUGVudGVsaGF0aW9uU3RhdGUoY29udGV4dCl9KS5zdGFydCgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1196,6 +1196,7 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
