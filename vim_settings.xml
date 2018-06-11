@@ -251,12 +251,12 @@
         <mark key="." line="79" column="39" />
         <mark key="^" line="79" column="39" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/tracking/TrackingForegroundService.kt" timestamp="1528457862634">
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/tracking/TrackingForegroundService.kt" timestamp="1528741269412">
         <mark key="'" line="21" column="77" />
-        <mark key="[" line="45" column="16" />
-        <mark key="]" line="46" column="27" />
-        <mark key="." line="46" column="27" />
-        <mark key="^" line="46" column="27" />
+        <mark key="[" line="51" column="15" />
+        <mark key="]" line="51" column="37" />
+        <mark key="." line="51" column="15" />
+        <mark key="^" line="51" column="14" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/AuthClient.kt" timestamp="1526990089890">
         <mark key="[" line="8" column="15" />
@@ -1172,7 +1172,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>inicia</text>
+        <text>START_REDELIVER_INTENT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
