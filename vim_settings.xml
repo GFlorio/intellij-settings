@@ -399,11 +399,11 @@
         <mark key="." line="3" column="31" />
         <mark key="^" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/app/src/main/java/br/com/novida/gerdau/MainActivity.java" timestamp="1528843340604">
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="22" column="427" />
-        <mark key="^" line="65" column="16" />
-        <mark key="." line="58" column="54" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/app/src/main/java/br/com/novida/gerdau/MainActivity.java" timestamp="1528844610807">
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="406" />
+        <mark key="^" line="66" column="16" />
+        <mark key="." line="23" column="39" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/TextFormat.kt" timestamp="1525137018896">
         <mark key="[" line="2" column="19" />
@@ -1172,13 +1172,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiIwNDkyMDdmZi04NGQ1LTQwNjYtYTdjMi0yODczMTg3Njk3NDciLCJ1c2VySWQiOiI1OTkyM2NiYWZkMzI5Yzc0OTU3ODU2M2QiLCJjbGllbnRJZCI6IjU5MmM5NDVhYTNlN2NiNWZlYjc0NTlhNSIsImlzQWRtaW4iOmZhbHNlLCJlbmRwb2ludHMiOlsiZ2VyZGF1Lm5vdmlkYS5jbyIsImdlb2ZlbmNlcy5ub3ZpZGEuY28iXSwibWF4U2Vzc2lvbnMiOi0xLCJpYXQiOjE1Mjg0MjE4MTl9.5CLxaBI7YLYb4krC9tZz_70jpnbFSXHHudFtXuJyPRA</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiIwNDkyMDdmZi04NGQ1LTQwNjYtYTdjMi0yODczMTg3Njk3NDciLCJ1c2VySWQiOiI1OTkyM2NiYWZkMzI5Yzc0OTU3ODU2M2QiLCJjbGllbnRJZCI6IjU5MmM5NDVhYTNlN2NiNWZlYjc0NTlhNSIsImlzQWRtaW4iOmZhbHNlLCJlbmRwb2ludHMiOlsiZ2VyZGF1Lm5vdmlkYS5jbyIsImdlb2ZlbmNlcy5ub3ZpZGEuY28iXSwibWF4U2Vzc2lvbnMiOi0xLCJpYXQiOjE1Mjg0MjE4MTl9.5CLxaBI7YLYb4krC9tZz_70jpnbFSXHHudFtXuJyPRA</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIGF1dGhUb2tlbiA9ICJleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKelpYTnphVzl1U1dRaU9pSXdORGt5TURkbVppMDROR1ExTFRRd05qWXRZVGRqTWkweU9EY3pNVGczTmprM05EY2lMQ0oxYzJWeVNXUWlPaUkxT1RreU0yTmlZV1prTXpJNVl6YzBPVFUzT0RVMk0yUWlMQ0pqYkdsbGJuUkpaQ0k2SWpVNU1tTTVORFZoWVRObE4yTmlOV1psWWpjME5UbGhOU0lzSW1selFXUnRhVzRpT21aaGJITmxMQ0psYm1Sd2IybHVkSE1pT2xzaVoyVnlaR0YxTG01dmRtbGtZUzVqYnlJc0ltZGxiMlpsYm1ObGN5NXViM1pwWkdFdVkyOGlYU3dpYldGNFUyVnpjMmx2Ym5NaU9pMHhMQ0pwWVhRaU9qRTFNamcwTWpFNE1UbDkuNUNMeGFCSTdZTFliNGtyQzl0WnpfNzBqcG5iRlNYSEh1ZEZ0WHVKeVBSQSI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
