@@ -177,12 +177,12 @@
         <mark key="^" line="6" column="109" />
         <mark key="." line="6" column="109" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/sensors/BluetoothReader.kt" timestamp="1528459713135">
-        <mark key="'" line="44" column="32" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/sensors/BluetoothReader.kt" timestamp="1528922898053">
+        <mark key="'" line="42" column="32" />
         <mark key="[" line="46" column="41" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="14" column="66" />
-        <mark key="." line="55" column="0" />
+        <mark key="]" line="46" column="51" />
+        <mark key="^" line="46" column="51" />
+        <mark key="." line="46" column="51" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaAPI.kt" timestamp="1528467391126">
         <mark key="[" line="58" column="0" />
@@ -1172,7 +1172,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiIwNDkyMDdmZi04NGQ1LTQwNjYtYTdjMi0yODczMTg3Njk3NDciLCJ1c2VySWQiOiI1OTkyM2NiYWZkMzI5Yzc0OTU3ODU2M2QiLCJjbGllbnRJZCI6IjU5MmM5NDVhYTNlN2NiNWZlYjc0NTlhNSIsImlzQWRtaW4iOmZhbHNlLCJlbmRwb2ludHMiOlsiZ2VyZGF1Lm5vdmlkYS5jbyIsImdlb2ZlbmNlcy5ub3ZpZGEuY28iXSwibWF4U2Vzc2lvbnMiOi0xLCJpYXQiOjE1Mjg0MjE4MTl9.5CLxaBI7YLYb4krC9tZz_70jpnbFSXHHudFtXuJyPRA</text>
+        <text>ArrayList(results)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
