@@ -213,12 +213,12 @@
         <mark key="." line="1" column="33" />
         <mark key="^" line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" timestamp="1529086244971">
+      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" timestamp="1529102898782">
         <mark key="'" line="171" column="0" />
-        <mark key="[" line="234" column="39" />
-        <mark key="]" line="234" column="40" />
-        <mark key="." line="234" column="40" />
-        <mark key="^" line="234" column="40" />
+        <mark key="[" line="237" column="22" />
+        <mark key="]" line="237" column="22" />
+        <mark key="." line="237" column="22" />
+        <mark key="^" line="237" column="56" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/serialization/SerialFormat.kt" timestamp="1526134194228">
         <mark key="[" line="8" column="38" />
@@ -1252,7 +1252,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, choice</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>self.controle</text>
