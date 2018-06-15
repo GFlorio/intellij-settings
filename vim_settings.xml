@@ -45,6 +45,11 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
+      <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1529066258933">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/SensorResult.kt" timestamp="1524930398971">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="4" column="36" />
@@ -177,12 +182,12 @@
         <mark key="^" line="6" column="109" />
         <mark key="." line="6" column="109" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/sensors/BluetoothReader.kt" timestamp="1529072330231">
-        <mark key="'" line="45" column="32" />
-        <mark key="[" line="62" column="8" />
-        <mark key="]" line="62" column="15" />
-        <mark key="^" line="62" column="15" />
-        <mark key="." line="62" column="15" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/sensors/BluetoothReader.kt" timestamp="1528459713135">
+        <mark key="'" line="44" column="32" />
+        <mark key="[" line="46" column="41" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="14" column="66" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaAPI.kt" timestamp="1528467391126">
         <mark key="[" line="58" column="0" />
@@ -207,6 +212,13 @@
         <mark key="]" line="1" column="33" />
         <mark key="." line="1" column="33" />
         <mark key="^" line="1" column="33" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" timestamp="1529068660741">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="230" column="49" />
+        <mark key="]" line="231" column="31" />
+        <mark key="^" line="231" column="31" />
+        <mark key="." line="231" column="31" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/serialization/SerialFormat.kt" timestamp="1526134194228">
         <mark key="[" line="8" column="38" />
@@ -237,11 +249,11 @@
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/serializers.py" timestamp="1528918781922">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="14" />
-        <mark key="." line="20" column="14" />
-        <mark key="^" line="20" column="14" />
+      <file name="$USER_HOME$/work/location_server/localizadores/serializers.py" timestamp="1528974972933">
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="53" />
+        <mark key="." line="21" column="53" />
+        <mark key="^" line="21" column="53" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" timestamp="1526432704999">
         <mark key="'" line="99" column="37" />
@@ -374,9 +386,12 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/work/location_server/recursos/serializers.py" timestamp="1528919765918">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="78" column="33" />
+      <file name="$USER_HOME$/work/location_server/recursos/serializers.py" timestamp="1528977775823">
+        <mark key="'" line="14" column="9" />
+        <mark key="[" line="85" column="46" />
+        <mark key="]" line="85" column="59" />
+        <mark key="." line="85" column="59" />
+        <mark key="^" line="85" column="59" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/TokenUpdateSubscriber.kt" timestamp="1528028040274">
         <mark key="[" line="2" column="42" />
@@ -415,11 +430,24 @@
         <mark key="^" line="65" column="16" />
         <mark key="." line="65" column="16" />
       </file>
+      <file name="$USER_HOME$/work/location_server/localizadores/admin.py" timestamp="1529060428921">
+        <mark key="[" line="28" column="55" />
+        <mark key="]" line="28" column="58" />
+        <mark key="." line="28" column="58" />
+        <mark key="^" line="28" column="58" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/TextFormat.kt" timestamp="1525137018896">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
         <mark key="^" line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" timestamp="1529068965546">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="100" column="49" />
+        <mark key="]" line="100" column="65" />
+        <mark key="." line="100" column="65" />
+        <mark key="^" line="100" column="65" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/Serializer.kt" timestamp="1525888501333">
         <mark key="[" line="5" column="44" />
@@ -445,6 +473,12 @@
         <mark key="]" line="9" column="3" />
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/location_server/model_pickling.py" timestamp="1529005902385">
+        <mark key="[" line="17" column="45" />
+        <mark key="]" line="17" column="50" />
+        <mark key="." line="17" column="50" />
+        <mark key="^" line="17" column="50" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/serialization/DataExtractor.kt" timestamp="1526133183080">
         <mark key="[" line="5" column="23" />
@@ -489,6 +523,11 @@
         <mark key="^" line="10" column="71" />
         <mark key="." line="10" column="71" />
       </file>
+      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1529060946663">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/AuthDataExtractor.kt" timestamp="1527860377454">
         <mark key="[" line="18" column="56" />
         <mark key="]" line="18" column="56" />
@@ -517,6 +556,9 @@
         <mark key="]" line="5" column="29" />
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/places/models.py" timestamp="1528973239908">
+        <mark key="'" line="66" column="22" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/SensorResult.kt" timestamp="1528469343676">
         <mark key="[" line="17" column="24" />
@@ -548,6 +590,12 @@
         <mark key="]" line="65" column="0" />
         <mark key="^" line="24" column="45" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/location_server/middleware.py" timestamp="1529069451409">
+        <mark key="[" line="57" column="31" />
+        <mark key="]" line="57" column="53" />
+        <mark key="." line="57" column="53" />
+        <mark key="^" line="57" column="53" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/SerializationStrategy.kt" timestamp="1525097866235">
         <mark key="[" line="2" column="19" />
@@ -695,6 +743,12 @@
         <mark key="." line="9" column="42" />
         <mark key="^" line="9" column="42" />
       </file>
+      <file name="$USER_HOME$/work/location_server/localizadores/views.py" timestamp="1529069492860">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="97" column="53" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/LocationServer.kt" timestamp="1525099456077">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -768,8 +822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="56" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RemoteServerException.kt" />
-      <jump line="14" column="16" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/LocationServer.kt" />
       <jump line="39" column="58" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/JSONSerializationStrategy.kt" />
       <jump line="6" column="22" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/JSONSerializationStrategy.kt" />
       <jump line="45" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/JSONSerializationStrategy.kt" />
@@ -853,6 +905,23 @@
       <jump line="20" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/pentelhation/PentelhationService.kt" />
       <jump line="7" column="69" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/AndroidManifest.xml" />
       <jump line="70" column="0" filename="$USER_HOME$/work/location_server/recursos/serializers.py" />
+      <jump line="16" column="45" filename="$USER_HOME$/work/location_server/recursos/serializers.py" />
+      <jump line="66" column="22" filename="$USER_HOME$/work/location_server/places/models.py" />
+      <jump line="34" column="67" filename="$USER_HOME$/work/location_server/recursos/serializers.py" />
+      <jump line="0" column="3" filename="$USER_HOME$/work/location_server/recursos/serializers.py" />
+      <jump line="14" column="9" filename="$USER_HOME$/work/location_server/recursos/serializers.py" />
+      <jump line="9" column="45" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/location_server/localizadores/signals.py" />
+      <jump line="208" column="30" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
+      <jump line="77" column="8" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
+      <jump line="27" column="8" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
+      <jump line="228" column="12" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
+      <jump line="85" column="25" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
+      <jump line="231" column="31" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" />
     </jumps>
     <registers>
       <register name="h" type="4">
@@ -1183,43 +1252,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>scanTime</text>
+        <text>HTTP_AUTHORIZATION</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzY2FuVGltZXIuY2FuY2VsKCkKICAgICAgICBzY2FuVGltZXIgPSBUaW1lcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAnSFRUUF9BVVRIT1JJWkFUSU9OJyBpbiByZXF1ZXN0Lk1FVEEua2V5cygpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RlbmVyKEJsdWV0b290aFJlc3VsdChsYXN0UmVzdWx0cykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplciA9IHNlcmlhbGl6ZXJzLlBvc2ljYW9TZXJpYWxpemVyKHBvc2ljYW8sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250ZXh0PXsncmVxdWVzdCc6IHJlcXVlc3R9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdHMgPSBBcnJheUxpc3QoMjAwKQo=</text>
+        <text encoding="base64">ICAgICAgICBwb3Nfbm92YSA9IHJlc3AuZGF0YQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBsYXN0UmVzdWx0cyA9IHJlc3VsdHMK</text>
+        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBzbGVlcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnRyb2xlID0gQ29udHJvbGVTZXJpYWxpemVyKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnRyb2xlID0gewogICAgICAgICAgICAncHJpb3JpZGFkZSc6IGNob2ljZShbMCwgMiwgNF0pLAogICAgICAgICAgICAnaW50ZXJ2YWxvJzogcmFuZGludCgxMDAwLCA2MCo2MCoxMDAwKSAgIyAxIHNlZ3VuZG8gYSAxIGhvcmEKICAgICAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgQ29udHJvbGVTZXJpYWxpemVyKHNlcmlhbGl6ZXJzLlNlcmlhbGl6ZXIpOgogICAgcHJpb3JpZGFkZSA9IHNlcmlhbGl6ZXJzLkludGVnZXJGaWVsZCgpCiAgICBpbnRlcnZhbG8gPSBzZXJpYWxpemVycy5JbnRlZ2VyRmllbGQoKQoKCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3Auc3RhdHVzX2NvZGUsIHN0YXR1cy5IVFRQXzIwMF9PSywgcmVzcC5kYXRhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgpjbGFzcyBQb3NpY2FvU2VyaWFsaXplcihzZXJpYWxpemVycy5TZXJpYWxpemVyKToKICAgIHVzdWFyaW8gPSBzZXJpYWxpemVycy5DaGFyRmllbGQoKQogICAgcHJlY2lzYW8gPSBzZXJpYWxpemVycy5GbG9hdEZpZWxkKCkKICAgIGxvY2F0aW9uID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkKICAgIHRpbWVzdGFtcCA9IHNlcmlhbGl6ZXJzLkRhdGVUaW1lRmllbGQoKQogICAgZ2VvZmVuY2UgPSBzZXJpYWxpemVycy5TZXJpYWxpemVyTWV0aG9kRmllbGQoKQogICAgdW5pZGFkZSA9IEpTT05GaWVsZChzb3VyY2U9J3Bpc28ucHJlZGlvLmpzb24nLCByZXF1aXJlZD1GYWxzZSkKICAgIHBpc28gPSBKU09ORmllbGQoc291cmNlPSdwaXNvLmpzb24nLCByZXF1aXJlZD1GYWxzZSkKICAgIGNvbnRyb2xlID0gQ29udHJvbGVTZXJpYWxpemVyKCkKCiAgICBkZWYgZ2V0X2dlb2ZlbmNlKHNlbGYsIG9iaik6CiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBkZWYgZ2V0X2xvY2F0aW9uKHNlbGYsIG9iaik6CiAgICAgICAgcmV0dXJuIHsidHlwZSI6ICJQb2ludCIsICJjb29yZGluYXRlcyI6IFtvYmoubG5nLCBvYmoubGF0XX0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3Auc3RhdHVzX2NvZGUsIHN0YXR1cy5IVFRQXzIwMF9PSywgcmVzcC5kYXRhKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQ29udHJvbGVTZXJpYWxpemVyKHNlcmlhbGl6ZXJzLlNlcmlhbGl6ZXIpOgogICAgcHJpb3JpZGFkZSA9IHNlcmlhbGl6ZXJzLkludGVnZXJGaWVsZCgpCiAgICBpbnRlcnZhbG8gPSBzZXJpYWxpemVycy5JbnRlZ2VyRmllbGQoKQoKCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3Auc3RhdHVzX2NvZGUsIHN0YXR1cy5IVFRQXzIwMF9PSywgcmVzcC5kYXRhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3Auc3RhdHVzX2NvZGUsIHN0YXR1cy5IVFRQXzIwMF9PSykK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1235,8 +1304,8 @@
         <entry encoding="base64">XDxBcnJheUxpc3RcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
