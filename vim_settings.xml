@@ -45,10 +45,10 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1528986787534">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/work/location_server/localizadores/signals.py" timestamp="1529066258933">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/SensorResult.kt" timestamp="1524930398971">
         <mark key="[" line="4" column="33" />
@@ -212,6 +212,11 @@
         <mark key="]" line="1" column="33" />
         <mark key="." line="1" column="33" />
         <mark key="^" line="1" column="33" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" timestamp="1529064955498">
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/serialization/SerialFormat.kt" timestamp="1526134194228">
         <mark key="[" line="8" column="38" />
@@ -435,7 +440,7 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" timestamp="1529060942286">
+      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" timestamp="1529066321759">
         <mark key="'" line="9" column="45" />
         <mark key="[" line="28" column="81" />
         <mark key="]" line="28" column="81" />
@@ -730,6 +735,11 @@
         <mark key="." line="9" column="42" />
         <mark key="^" line="9" column="42" />
       </file>
+      <file name="$USER_HOME$/work/location_server/localizadores/views.py" timestamp="1529065629870">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/LocationServer.kt" timestamp="1525099456077">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -894,6 +904,7 @@
       <jump line="0" column="3" filename="$USER_HOME$/work/location_server/recursos/serializers.py" />
       <jump line="14" column="9" filename="$USER_HOME$/work/location_server/recursos/serializers.py" />
       <jump line="9" column="45" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/location_server/localizadores/signals.py" />
     </jumps>
     <registers>
       <register name="h" type="4">
@@ -1233,31 +1244,31 @@
         <text encoding="base64">ICAgICAgICBmaWVsZHNbJ2RiJ10gPSBkdW1wcyhzZWxmLl9zdGF0ZS5kYikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi50YW1hbmhvX21vZGVsbykK</text>
+        <text encoding="base64">ICAgIG1zZy5wb3AoJ2NvbnRyb2xlJywgTm9uZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnRhbWFuaG9fbW9kZWxvKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb250cm9sZSA9IHJlcV9kYXRhLnBvcCgnY29udHJvbGUnLCBOb25lKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRpbmcgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaWNhby5jb250cm9sZSA9IGNvbnRyb2xlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYiA9IGoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udHJvbGUgPSBjYWxjdWxhX25vdm9zX3BhcmFtZXRyb3MocmVxX2RhdGEsIGNvbnRyb2xlLCBhcHA9YXBwcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWlsZXN0b25lKCdjb250cm9sZV9jYWxjdWxhZG8nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICB0cmllcyA9IDMKICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICBzZWxmLmFzc2VydE5vdEVxdWFsKHRyaWVzLCAwLCAiTW9udGFnZW0gZGVtb3JvdSBkZW1haXMhIikKICAgICAgICAgICAgdHJpZXMgLT0gMQogICAgICAgICAgICByID0gc2VsZi5jbGllbnQuZ2V0KHJldmVyc2UoJ2xvY2FsaXphZG9yLWRldGFpbCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAga3dhcmdzPXsncGsnOiBzZWxmLnBpc28ucGt9KSkKICAgICAgICAgICAgc2xlZXAoMSkK</text>
+        <text encoding="base64">ICAgICAgICBkYWRvc1snY29udHJvbGUnXSA9IHNlbGYuY29udHJvbGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZXN0YWRvID09ICdwcm9udG8nOgogICAgICAgICAgICAgICAgc2VsZi5hc3NlcnRJc05vdE5vbmUoci5kYXRhWydzY29yZSddKQogICAgICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUZXN0YW5kbyBxdWUgb3MgcGFyYW1ldHJvcyBkZSBjb250cm9sZSBlc3RhbyBzZW5kbyBkZXZvbHZpZG9zLi4uCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0SXNOb3ROb25lKHBvc19ub3ZhLmdldCgnY29udHJvbGUnKSkKICAgICAgICAgICAgY29udHJvbGUgPSBwb3Nfbm92YS5nZXQoJ2NvbnRyb2xlJykKICAgICAgICAgICAgc2VsZi5hc3NlcnRJc05vdE5vbmUoY29udHJvbGUuZ2V0KCdwcmlvcmlkYWRlJykpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0SXNOb3ROb25lKGNvbnRyb2xlLmdldCgnaW50ZXJ2YWxvJykpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXN0YWRvID0gci5kYXRhWydlc3RhZG8nXQogICAgICAgICAgICBzZWxmLmFzc2VydE5vdEVxdWFsKGVzdGFkbywgJ2Vycm8nLCAiRXJybyBuYSBtb250YWdlbSEiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi50YW1hbmhvX21vZGVsbykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
