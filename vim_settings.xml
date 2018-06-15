@@ -177,12 +177,12 @@
         <mark key="^" line="6" column="109" />
         <mark key="." line="6" column="109" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/sensors/BluetoothReader.kt" timestamp="1528459713135">
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/sensors/BluetoothReader.kt" timestamp="1529070500369">
         <mark key="'" line="44" column="32" />
-        <mark key="[" line="46" column="41" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="14" column="66" />
-        <mark key="." line="55" column="0" />
+        <mark key="[" line="58" column="54" />
+        <mark key="]" line="59" column="15" />
+        <mark key="^" line="59" column="15" />
+        <mark key="." line="59" column="15" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaAPI.kt" timestamp="1528467391126">
         <mark key="[" line="58" column="0" />
@@ -695,7 +695,6 @@
         <mark key="." line="9" column="42" />
         <mark key="^" line="9" column="42" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/views.py" timestamp="1528918616873" />
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/LocationServer.kt" timestamp="1525099456077">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -1184,7 +1183,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>geofence</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
