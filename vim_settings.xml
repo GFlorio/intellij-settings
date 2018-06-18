@@ -331,11 +331,11 @@
         <mark key="." line="12" column="64" />
         <mark key="^" line="12" column="64" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/app/src/main/res/layout/activity_main.xml" timestamp="1528467364974">
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="30" />
-        <mark key="." line="17" column="30" />
-        <mark key="^" line="17" column="30" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/app/src/main/res/layout/activity_main.xml" timestamp="1529334164572">
+        <mark key="[" line="37" column="22" />
+        <mark key="]" line="37" column="26" />
+        <mark key="." line="37" column="26" />
+        <mark key="^" line="37" column="26" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaTracking.kt" timestamp="1527098347746">
         <mark key="'" line="5" column="31" />
@@ -762,7 +762,7 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="21" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528467298678">
+      <file name="/Dummy.txt" timestamp="1529333815800">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1253,31 +1253,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HTTP_AUTHORIZATION</text>
+        <text>Nome de usuário</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnSFRUUF9BVVRIT1JJWkFUSU9OJyBpbiByZXF1ZXN0Lk1FVEEua2V5cygpOgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmhpbnQ9Ik5vbWUgZGUgdXN1w6FyaW8iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplciA9IHNlcmlhbGl6ZXJzLlBvc2ljYW9TZXJpYWxpemVyKHBvc2ljYW8sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250ZXh0PXsncmVxdWVzdCc6IHJlcXVlc3R9KQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmRUaW50PSJAY29sb3IvY29sb3JBY2NlbnQiCiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kVGludE1vZGU9InNyY19vdmVyIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwb3Nfbm92YSA9IHJlc3AuZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplciA9IHNlcmlhbGl6ZXJzLlBvc2ljYW9TZXJpYWxpemVyKHBvc2ljYW8sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250ZXh0PXsncmVxdWVzdCc6IHJlcXVlc3R9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBzbGVlcAo=</text>
+        <text encoding="base64">ICAgICAgICBwb3Nfbm92YSA9IHJlc3AuZGF0YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgpCg==</text>
+        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBzbGVlcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnRyb2xlID0gewogICAgICAgICAgICAncHJpb3JpZGFkZSc6IGNob2ljZShbMCwgMiwgNF0pLAogICAgICAgICAgICAnaW50ZXJ2YWxvJzogcmFuZGludCgxMDAwLCA2MCo2MCoxMDAwKSAgIyAxIHNlZ3VuZG8gYSAxIGhvcmEKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3Auc3RhdHVzX2NvZGUsIHN0YXR1cy5IVFRQXzIwMF9PSywgcmVzcC5kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnRyb2xlID0gewogICAgICAgICAgICAncHJpb3JpZGFkZSc6IGNob2ljZShbMCwgMiwgNF0pLAogICAgICAgICAgICAnaW50ZXJ2YWxvJzogcmFuZGludCgxMDAwLCA2MCo2MCoxMDAwKSAgIyAxIHNlZ3VuZG8gYSAxIGhvcmEKICAgICAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3Auc3RhdHVzX2NvZGUsIHN0YXR1cy5IVFRQXzIwMF9PSywgcmVzcC5kYXRhKQo=</text>
@@ -1286,7 +1286,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3Auc3RhdHVzX2NvZGUsIHN0YXR1cy5IVFRQXzIwMF9PSywgcmVzcC5kYXRhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3Auc3RhdHVzX2NvZGUsIHN0YXR1cy5IVFRQXzIwMF9PSykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3Auc3RhdHVzX2NvZGUsIHN0YXR1cy5IVFRQXzIwMF9PSywgcmVzcC5kYXRhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
