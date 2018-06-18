@@ -346,10 +346,10 @@
         <mark key="." line="12" column="64" />
         <mark key="^" line="12" column="64" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/app/src/main/res/layout/activity_main.xml" timestamp="1529336498893">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="35" />
-        <mark key="." line="21" column="35" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/app/src/main/res/layout/activity_main.xml" timestamp="1529344571216">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
         <mark key="^" line="21" column="35" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaTracking.kt" timestamp="1527098347746">
@@ -1276,7 +1276,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>center</text>
+        <text>BBB</text>
       </register>
       <register name="/" type="4">
         <text>self.controle</text>
