@@ -557,8 +557,8 @@
         <mark key="^" line="7" column="78" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1529501121962">
-        <mark key="'" line="193" column="0" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1529502069305">
+        <mark key="'" line="220" column="35" />
         <mark key="[" line="20" column="68" />
         <mark key="]" line="20" column="83" />
         <mark key="." line="20" column="83" />
@@ -853,7 +853,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="30" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/TextFormat.kt" />
       <jump line="10" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/JSONSerializer.kt" />
       <jump line="74" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/JSONSerializer.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/JSONSerializer.kt" />
@@ -953,6 +952,7 @@
       <jump line="204" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="20" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="192" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="220" column="35" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
     </jumps>
     <registers>
       <register name="h" type="4">
