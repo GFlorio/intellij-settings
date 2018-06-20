@@ -163,13 +163,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="11" column="55" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/settings/SettingsRepository.kt" timestamp="1528456602150">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="27" column="54" />
-        <mark key="]" line="27" column="73" />
-        <mark key="." line="27" column="73" />
-        <mark key="^" line="27" column="73" />
-      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/serialization/DataExtractorFactory.kt" timestamp="1528134250014">
         <mark key="[" line="3" column="58" />
         <mark key="]" line="3" column="61" />
@@ -198,16 +191,9 @@
         <mark key="^" line="6" column="109" />
         <mark key="." line="6" column="109" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/sensors/BluetoothReader.kt" timestamp="1528459713135">
-        <mark key="'" line="44" column="32" />
-        <mark key="[" line="46" column="41" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="14" column="66" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaAPI.kt" timestamp="1528467391126">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="59" column="84" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaAPI.kt" timestamp="1529520403974">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="60" column="4" />
         <mark key="." line="46" column="39" />
         <mark key="^" line="46" column="39" />
       </file>
@@ -229,13 +215,6 @@
         <mark key="." line="1" column="33" />
         <mark key="^" line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" timestamp="1529102898782">
-        <mark key="'" line="171" column="0" />
-        <mark key="[" line="237" column="22" />
-        <mark key="]" line="237" column="22" />
-        <mark key="." line="237" column="22" />
-        <mark key="^" line="237" column="56" />
-      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/serialization/SerialFormat.kt" timestamp="1526134194228">
         <mark key="[" line="8" column="38" />
         <mark key="]" line="8" column="52" />
@@ -248,16 +227,17 @@
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/AutoStartManager.kt" timestamp="1528419010317">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="58" />
-        <mark key="." line="23" column="58" />
-        <mark key="^" line="23" column="58" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/AutoStartManager.kt" timestamp="1529520466436">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="8" />
+        <mark key="." line="31" column="8" />
+        <mark key="^" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/sensors/DeviceReader.kt" timestamp="1528472821649">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/sensors/DeviceReader.kt" timestamp="1529520567944">
+        <mark key="[" line="37" column="51" />
+        <mark key="]" line="37" column="72" />
+        <mark key="." line="37" column="72" />
+        <mark key="^" line="37" column="72" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/SensorReadings.kt" timestamp="1524839819275">
         <mark key="[" line="7" column="52" />
@@ -271,32 +251,11 @@
         <mark key="." line="21" column="53" />
         <mark key="^" line="21" column="53" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" timestamp="1526432704999">
-        <mark key="'" line="99" column="37" />
-        <mark key="[" line="99" column="20" />
-        <mark key="]" line="99" column="37" />
-        <mark key="." line="99" column="37" />
-        <mark key="^" line="99" column="37" />
-      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/app/src/main/java/br/com/novida/login/MainActivity.java" timestamp="1529348077476">
         <mark key="'" line="71" column="7" />
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/tracking/LocationServerDataExtractor.kt" timestamp="1527860403815">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="79" column="35" />
-        <mark key="]" line="79" column="39" />
-        <mark key="." line="79" column="39" />
-        <mark key="^" line="79" column="39" />
-      </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/tracking/TrackingForegroundService.kt" timestamp="1528457862634">
-        <mark key="'" line="21" column="77" />
-        <mark key="[" line="45" column="16" />
-        <mark key="]" line="46" column="27" />
-        <mark key="." line="46" column="27" />
-        <mark key="^" line="46" column="27" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/AuthClient.kt" timestamp="1526990089890">
         <mark key="[" line="8" column="15" />
@@ -358,13 +317,6 @@
         <mark key="." line="75" column="36" />
         <mark key="^" line="75" column="36" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaTracking.kt" timestamp="1527098347746">
-        <mark key="'" line="5" column="31" />
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="12" />
-        <mark key="." line="11" column="12" />
-        <mark key="^" line="11" column="14" />
-      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerRequest.kt" timestamp="1525885202204">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="6" />
@@ -376,13 +328,6 @@
         <mark key="]" line="19" column="42" />
         <mark key="." line="19" column="42" />
         <mark key="^" line="19" column="42" />
-      </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulHTTPRequest.kt" timestamp="1526904278026">
-        <mark key="'" line="31" column="12" />
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="6" column="24" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerResource.kt" timestamp="1526432504051">
         <mark key="[" line="27" column="51" />
@@ -408,13 +353,6 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/work/location_server/recursos/serializers.py" timestamp="1528977775823">
-        <mark key="'" line="14" column="9" />
-        <mark key="[" line="85" column="46" />
-        <mark key="]" line="85" column="59" />
-        <mark key="." line="85" column="59" />
-        <mark key="^" line="85" column="59" />
-      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/TokenUpdateSubscriber.kt" timestamp="1528028040274">
         <mark key="[" line="2" column="42" />
         <mark key="]" line="3" column="33" />
@@ -427,21 +365,14 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/TrackingForegroundService.kt" timestamp="1528028626418">
-        <mark key="'" line="82" column="44" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="71" column="13" />
-      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/PositioningResourcesFactory.kt" timestamp="1525099947894">
         <mark key="[" line="6" column="68" />
         <mark key="]" line="7" column="38" />
         <mark key="." line="7" column="38" />
         <mark key="^" line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/build.gradle" timestamp="1525992154469">
-        <mark key="[" line="3" column="31" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/build.gradle" timestamp="1529519722757">
+        <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="31" />
         <mark key="." line="3" column="31" />
         <mark key="^" line="3" column="31" />
@@ -464,13 +395,6 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" timestamp="1529068965546">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="100" column="49" />
-        <mark key="]" line="100" column="65" />
-        <mark key="." line="100" column="65" />
-        <mark key="^" line="100" column="65" />
-      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/Serializer.kt" timestamp="1525888501333">
         <mark key="[" line="5" column="44" />
         <mark key="]" line="6" column="45" />
@@ -482,13 +406,6 @@
         <mark key="]" line="15" column="68" />
         <mark key="^" line="11" column="85" />
         <mark key="." line="11" column="85" />
-      </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/AndroidManifest.xml" timestamp="1528472106009">
-        <mark key="'" line="7" column="69" />
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="65" />
-        <mark key="." line="12" column="4" />
-        <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/settings/SettingsValues.kt" timestamp="1528456156039">
         <mark key="[" line="8" column="35" />
@@ -519,13 +436,6 @@
         <mark key="]" line="22" column="37" />
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="37" />
-      </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RESTfulHTTPServer.kt" timestamp="1526907266878">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="9" column="31" />
-        <mark key="." line="9" column="31" />
-        <mark key="^" line="53" column="51" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RequestDecorator.kt" timestamp="1526904568873">
         <mark key="[" line="3" column="55" />
@@ -609,13 +519,6 @@
         <mark key="]" line="14" column="73" />
         <mark key="." line="14" column="73" />
         <mark key="^" line="14" column="73" />
-      </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPServer.kt" timestamp="1527776112666">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="24" column="45" />
-        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/work/location_server/location_server/middleware.py" timestamp="1529069451409">
         <mark key="[" line="57" column="31" />
@@ -712,13 +615,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/pentelhation/PentelhationService.kt" timestamp="1528472425139">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="72" column="40" />
-        <mark key="]" line="72" column="65" />
-        <mark key="." line="72" column="65" />
-        <mark key="^" line="72" column="65" />
-      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/PersistentTrackingController.kt" timestamp="1527102950234">
         <mark key="[" line="20" column="58" />
         <mark key="]" line="20" column="57" />
@@ -748,13 +644,6 @@
         <mark key="]" line="12" column="15" />
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="15" />
-      </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/SensorFactory.kt" timestamp="1528460591742">
-        <mark key="'" line="14" column="52" />
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="27" />
-        <mark key="." line="28" column="27" />
-        <mark key="^" line="28" column="27" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/http/HTTPResponse.kt" timestamp="1527715068638">
         <mark key="[" line="2" column="61" />
@@ -1283,40 +1172,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>PRIORITY_BALANCED_POWER_ACCURACY</text>
       </register>
       <register name="/" type="4">
         <text>self.controle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXQucHV0KCJ1c2VybmFtZSIsIHVzZXJuYW1lKQo=</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIkhhcmR3YXJlSWRzIikKICAgIHByaXZhdGUgZnVuIGdldERldmljZUlkKGNvbnRleHQ6IENvbnRleHQpIDogU3RyaW5nIHsKICAgICAgICB2YWwgY29udGVudFJlc29sdmVyID0gY29udGV4dC5jb250ZW50UmVzb2x2ZXIKICAgICAgICByZXR1cm4gU2V0dGluZ3MuU2VjdXJlLmdldFN0cmluZyhjb250ZW50UmVzb2x2ZXIsIFNldHRpbmdzLlNlY3VyZS5BTkRST0lEX0lEKQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGVkaXRvciA9IHNoYXJlZFByZWZlcmVuY2VzLmVkaXQoKQogICAgICAgICAgICBlZGl0b3IucHV0U3RyaW5nKFVTRVIsIHZhbHVlLnVzZXJuYW1lKQogICAgICAgICAgICBlZGl0b3IucHV0U3RyaW5nKFBBU1NXT1JELCB2YWx1ZS5wYXNzd29yZCkKICAgICAgICAgICAgZWRpdG9yLmFwcGx5KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5zdGFydEZvcmVncm91bmRTZXJ2aWNlKHNlcnZpY2VJbnRlbnQpCiAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UID49IEJ1aWxkLlZFUlNJT05fQ09ERVMuTykgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGVkaXRvciA9IHNoYXJlZFByZWZlcmVuY2VzLmVkaXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGVkaXRvciA9IHNoYXJlZFByZWZlcmVuY2VzLmVkaXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGVkaXRvciA9IHNoYXJlZFByZWZlcmVuY2VzLmVkaXQoKQogICAgICAgICAgICBlZGl0b3IucHV0U3RyaW5nKFVTRVIsIHZhbHVlLnVzZXJuYW1lKQogICAgICAgICAgICBlZGl0b3IucHV0U3RyaW5nKFBBU1NXT1JELCB2YWx1ZS5wYXNzd29yZCkKICAgICAgICAgICAgZWRpdG9yLmFwcGx5KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGVkaXRvciA9IHNoYXJlZFByZWZlcmVuY2VzLmVkaXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIGVkaXRvciA9IHNoYXJlZFByZWZlcmVuY2VzLmVkaXQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGVkaXRvciA9IHNoYXJlZFByZWZlcmVuY2VzLmVkaXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLncodGFnLCAiR2l2aW5nIHVwIG9uIGF1dGhlbnRpY2F0aW9uISIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGVkaXRvciA9IHNoYXJlZFByZWZlcmVuY2VzLmVkaXQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
