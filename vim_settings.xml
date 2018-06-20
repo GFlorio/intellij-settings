@@ -27,10 +27,11 @@
         <mark key="." line="14" column="37" />
         <mark key="^" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/work/Gerdau/app/src/main/res/layout/activity_main.xml" timestamp="1529523790033">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="34" />
+      <file name="$USER_HOME$/work/Gerdau/app/src/main/res/layout/activity_main.xml" timestamp="1529525353630">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/serialization/Serializer.kt" timestamp="1527593659196">
         <mark key="[" line="3" column="47" />
@@ -471,10 +472,10 @@
         <mark key="^" line="100" column="65" />
       </file>
       <file name="$USER_HOME$/work/Gerdau/app/src/main/java/br/com/novida/gerdau/MainActivity.java" timestamp="1529524053401">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="38" column="58" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="40" column="58" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/Serializer.kt" timestamp="1525888501333">
         <mark key="[" line="5" column="44" />
@@ -602,6 +603,12 @@
         <mark key="]" line="17" column="27" />
         <mark key="." line="17" column="27" />
         <mark key="^" line="17" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/Gerdau/app/build.gradle" timestamp="1529524796549">
+        <mark key="[" line="25" column="54" />
+        <mark key="]" line="25" column="56" />
+        <mark key="." line="25" column="56" />
+        <mark key="^" line="25" column="56" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/IntermittentDeviceReader.kt" timestamp="1525308507153">
         <mark key="[" line="2" column="15" />
@@ -1302,7 +1309,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHVzZXIsIHNlbmhh</text>
+        <text>#DDD</text>
       </register>
       <register name="/" type="4">
         <text>self.controle</text>
