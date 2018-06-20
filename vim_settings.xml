@@ -557,12 +557,12 @@
         <mark key="^" line="7" column="78" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1529510144880">
-        <mark key="'" line="230" column="35" />
-        <mark key="[" line="150" column="73" />
-        <mark key="]" line="151" column="53" />
-        <mark key="." line="151" column="53" />
-        <mark key="^" line="151" column="53" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1529518490625">
+        <mark key="'" line="28" column="66" />
+        <mark key="[" line="28" column="43" />
+        <mark key="]" line="28" column="66" />
+        <mark key="." line="28" column="66" />
+        <mark key="^" line="28" column="66" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/rest/Recurso.kt" timestamp="1523619962262">
         <mark key="[" line="4" column="10" />
@@ -853,33 +853,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/JSONSerializer.kt" />
-      <jump line="74" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/JSONSerializer.kt" />
-      <jump line="15" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/JSONSerializer.kt" />
-      <jump line="68" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/JSONSerializer.kt" />
-      <jump line="15" column="30" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/LocationServer.kt" />
-      <jump line="13" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/LocationServer.kt" />
-      <jump line="5" column="41" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/SerializerFactory.kt" />
-      <jump line="6" column="32" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/SerializerFactory.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/SerializerFactory.kt" />
-      <jump line="21" column="15" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerSerializerFactory.kt" />
-      <jump line="4" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServer.kt" />
-      <jump line="24" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" />
-      <jump line="34" column="25" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" />
-      <jump line="0" column="11" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/DeviceReader.kt" />
-      <jump line="50" column="25" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/BluetoothReader.kt" />
-      <jump line="14" column="15" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/DeviceReader.kt" />
-      <jump line="6" column="52" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/SensorFactory.kt" />
-      <jump line="6" column="30" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" />
-      <jump line="44" column="32" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/sensors/BluetoothReader.kt" />
-      <jump line="41" column="3" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/TrackingForegroundService.kt" />
-      <jump line="13" column="43" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/TrackingForegroundService.kt" />
-      <jump line="132" column="4" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" />
-      <jump line="105" column="7" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" />
-      <jump line="14" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" />
-      <jump line="43" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" />
-      <jump line="103" column="8" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" />
-      <jump line="119" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" />
       <jump line="67" column="50" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" />
       <jump line="68" column="16" filename="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" />
@@ -951,8 +924,35 @@
       <jump line="28" column="0" filename="$USER_HOME$/work/location_server/places/tests.py" />
       <jump line="204" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="20" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="192" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="220" column="35" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="135" column="53" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="192" column="8" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="229" column="35" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="222" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="216" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="212" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="209" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="207" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="203" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="200" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="194" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="190" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="182" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="177" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="175" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="157" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="147" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="139" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="133" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="144" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="154" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="169" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="28" column="66" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
     </jumps>
     <registers>
       <register name="h" type="4">
@@ -1283,7 +1283,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, unique=True</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>self.controle</text>
