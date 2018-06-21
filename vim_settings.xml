@@ -471,11 +471,11 @@
         <mark key="." line="100" column="65" />
         <mark key="^" line="100" column="65" />
       </file>
-      <file name="$USER_HOME$/work/Gerdau/app/src/main/java/br/com/novida/gerdau/MainActivity.java" timestamp="1529524053401">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="40" column="58" />
+      <file name="$USER_HOME$/work/Gerdau/app/src/main/java/br/com/novida/gerdau/MainActivity.java" timestamp="1529611560984">
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+        <mark key="^" line="33" column="26" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/Serializer.kt" timestamp="1525888501333">
         <mark key="[" line="5" column="44" />
@@ -604,11 +604,11 @@
         <mark key="." line="17" column="27" />
         <mark key="^" line="17" column="27" />
       </file>
-      <file name="$USER_HOME$/work/Gerdau/app/build.gradle" timestamp="1529524796549">
-        <mark key="[" line="25" column="54" />
-        <mark key="]" line="25" column="56" />
-        <mark key="." line="25" column="56" />
-        <mark key="^" line="25" column="56" />
+      <file name="$USER_HOME$/work/Gerdau/app/build.gradle" timestamp="1529611442238">
+        <mark key="[" line="27" column="53" />
+        <mark key="]" line="27" column="53" />
+        <mark key="." line="27" column="53" />
+        <mark key="^" line="27" column="53" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/IntermittentDeviceReader.kt" timestamp="1525308507153">
         <mark key="[" line="2" column="15" />
@@ -1309,7 +1309,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#DDD</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>self.controle</text>
