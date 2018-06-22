@@ -566,6 +566,12 @@
         <mark key="^" line="7" column="78" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/work/alcatraz/alcatraz/settings/common.py" timestamp="1529695205598">
+        <mark key="[" line="66" column="13" />
+        <mark key="]" line="66" column="30" />
+        <mark key="." line="66" column="13" />
+        <mark key="^" line="66" column="12" />
+      </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1529591224422">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="109" column="0" />
@@ -1298,7 +1304,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>InstanciaAtividade</text>
+        <text>UTC</text>
       </register>
       <register name="/" type="4">
         <text>Esfor</text>
