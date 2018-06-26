@@ -751,12 +751,12 @@
         <mark key="^" line="9" column="60" />
         <mark key="." line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/models.py" timestamp="1529972852042">
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models.py" timestamp="1530008656417">
         <mark key="'" line="10" column="21" />
-        <mark key="[" line="64" column="44" />
-        <mark key="]" line="64" column="54" />
-        <mark key="^" line="64" column="54" />
-        <mark key="." line="64" column="54" />
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="55" />
+        <mark key="^" line="11" column="55" />
+        <mark key="." line="11" column="55" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/SerializerFactory.kt" timestamp="1525887405443">
         <mark key="[" line="2" column="43" />
