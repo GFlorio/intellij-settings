@@ -800,6 +800,11 @@
         <mark key="." line="2" column="86" />
         <mark key="^" line="2" column="86" />
       </file>
+      <file name="$USER_HOME$/work/alcatraz/.coveragerc" timestamp="1530047545209">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/Credentials.kt" timestamp="1527858871589">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="6" column="50" />
@@ -1355,31 +1360,31 @@
         <text encoding="base64">ICAgICAgICAoTkEsICJOw6NvIEFncmVnYXIiKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdXJsKHInXmFwaSQnLCBBUElIb21lLmFzX3ZpZXcoKSksCg==</text>
+        <text encoding="base64">ICAgIC4vYW5zaWJsZS8qCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15hcGktYXV0aC8nLCBpbmNsdWRlKCdyZXN0X2ZyYW1ld29yay51cmxzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWVzcGFjZT0ncmVzdF9mcmFtZXdvcmsnKSksCg==</text>
+        <text encoding="base64">ICAgIC4vdmVudi8qCiAgICAuL3ZpcnR1YWxlbnYvKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15hcGkvJywgaW5jbHVkZShyb3V0ZXIudXJscykpLAo=</text>
+        <text encoding="base64">ICAgICMgdXJsKHInXmFwaSQnLCBBUElIb21lLmFzX3ZpZXcoKSksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15hcGktYXV0aC8nLCBpbmNsdWRlKCdyZXN0X2ZyYW1ld29yay51cmxzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWVzcGFjZT0ncmVzdF9mcmFtZXdvcmsnKSksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15hcGkvJywgaW5jbHVkZShyb3V0ZXIudXJscykpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgQVBJSG9tZShBUElWaWV3KToKICAgIGRlZiBnZXQoc2VsZiwgcmVxdWVzdCk6CiAgICAgICAgbWVudSA9IHsKICAgICAgICAgICAgJ3Byb2Nlc3Nvcyc6IHJldmVyc2UoJ3Byb2Nlc3NvLWxpc3QnLCByZXF1ZXN0PXJlcXVlc3QpLAogICAgICAgIH0KICAgICAgICByZXR1cm4gUmVzcG9uc2UobWVudSkKCgpyb3V0ZXIgPSByb3V0ZXJzLlNpbXBsZVJvdXRlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQ2FyYWN0ZXJpc3RpY2FJbmxpbmUoYWRtaW4uVGFidWxhcklubGluZSk6CiAgICBtb2RlbCA9IG1vZGVscy5DYXJhY3RlcmlzdGljYQogICAgZXh0cmEgPSAxCgoKQGFkbWluLnJlZ2lzdGVyKG1vZGVscy5EZW1hbmRhKQpjbGFzcyBEZW1hbmRhQWRtaW4oYWRtaW4uTW9kZWxBZG1pbik6CiAgICBsaXN0X2Rpc3BsYXkgPSAoJ2luc3RhbmNpYScsICdhdGl2aWRhZGUnLCkKICAgIGxpc3RfZmlsdGVyID0gKCdpbnN0YW5jaWEnLCAnYXRpdmlkYWRlJywpCiAgICBpbmxpbmVzID0gKENhcmFjdGVyaXN0aWNhSW5saW5lLCkKICAgIGFjdGlvbnMgPSAocGxhbmVqYV9hdGVuZGltZW50bywpCg==</text>
+        <text encoding="base64">Y2xhc3MgQVBJSG9tZShBUElWaWV3KToKICAgIGRlZiBnZXQoc2VsZiwgcmVxdWVzdCk6CiAgICAgICAgbWVudSA9IHsKICAgICAgICAgICAgJ3Byb2Nlc3Nvcyc6IHJldmVyc2UoJ3Byb2Nlc3NvLWxpc3QnLCByZXF1ZXN0PXJlcXVlc3QpLAogICAgICAgIH0KICAgICAgICByZXR1cm4gUmVzcG9uc2UobWVudSkKCgpyb3V0ZXIgPSByb3V0ZXJzLlNpbXBsZVJvdXRlcigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfbW9kZWxfcGVybXMoc2VsZiwgcmVxdWVzdCk6CiAgICAgICAgIiIiCiAgICAgICAgUmV0dXJuIGVtcHR5IHBlcm1zIGRpY3QgdGh1cyBoaWRpbmcgdGhlIG1vZGVsIGZyb20gYWRtaW4gaW5kZXguCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
