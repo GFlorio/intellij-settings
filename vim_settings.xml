@@ -578,11 +578,12 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="22" column="15" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1529971505990">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1530009697625">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="73" column="40" />
+        <mark key="]" line="73" column="46" />
+        <mark key="." line="73" column="46" />
+        <mark key="^" line="73" column="46" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/rest/Recurso.kt" timestamp="1523619962262">
         <mark key="[" line="4" column="10" />
@@ -751,12 +752,12 @@
         <mark key="^" line="9" column="60" />
         <mark key="." line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/models.py" timestamp="1530008656417">
-        <mark key="'" line="10" column="21" />
-        <mark key="[" line="11" column="36" />
-        <mark key="]" line="11" column="55" />
-        <mark key="^" line="11" column="55" />
-        <mark key="." line="11" column="55" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models.py" timestamp="1530009317134">
+        <mark key="'" line="11" column="21" />
+        <mark key="[" line="138" column="30" />
+        <mark key="]" line="138" column="35" />
+        <mark key="^" line="138" column="35" />
+        <mark key="." line="138" column="35" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/SerializerFactory.kt" timestamp="1525887405443">
         <mark key="[" line="2" column="43" />
@@ -1323,13 +1324,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Atividade</text>
+        <text>causa</text>
       </register>
       <register name="/" type="4">
         <text>Esfor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBvYmplY3RzOiBtb2RlbHMuUXVlcnlTZXQgICMgUGVxdWVubyBoYWNrIHBhcmEgYWp1ZGFyIGEgSURFCg==</text>
+        <text encoding="base64">ICAgIGF0ZW5kZTogQWdlbmRhbWVudG8gPSBtb2RlbHMuRm9yZWlnbktleShBZ2VuZGFtZW50bywgbW9kZWxzLkNBU0NBREUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEJMT1FVRUFEQSA9ICdibG9xdWVhZGEnCiAgICBIQUJJTElUQURBID0gJ2hhYmlsaXRhZGEnCiAgICBFWEVDVVRBTkRPID0gJ2V4ZWN1dGFuZG8nCiAgICBGSU5BTElaQURBID0gJ2ZpbmFsaXphZGEnCgo=</text>
