@@ -627,11 +627,11 @@
         <mark key="." line="17" column="27" />
         <mark key="^" line="17" column="27" />
       </file>
-      <file name="$USER_HOME$/work/Gerdau/app/build.gradle" timestamp="1530104046956">
-        <mark key="[" line="28" column="53" />
-        <mark key="]" line="28" column="58" />
-        <mark key="." line="28" column="58" />
-        <mark key="^" line="28" column="58" />
+      <file name="$USER_HOME$/work/Gerdau/app/build.gradle" timestamp="1530105175588">
+        <mark key="[" line="29" column="49" />
+        <mark key="]" line="29" column="50" />
+        <mark key="." line="29" column="50" />
+        <mark key="^" line="29" column="46" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/IntermittentDeviceReader.kt" timestamp="1525308507153">
         <mark key="[" line="2" column="15" />
@@ -1360,7 +1360,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>appcompat-v7</text>
+        <text>appcompat</text>
       </register>
       <register name="/" type="4">
         <text>Esfor</text>
