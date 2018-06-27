@@ -71,11 +71,11 @@
         <mark key="." line="13" column="26" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/templates/alocacao/dashboard.html" timestamp="1530109430744">
+      <file name="$USER_HOME$/work/alcatraz/templates/alocacao/dashboard.html" timestamp="1530110394145">
         <mark key="'" line="699" column="0" />
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/AuthenticatorFactory.kt" timestamp="1528456114547">
         <mark key="[" line="21" column="28" />
@@ -1394,7 +1394,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>collected_</text>
+        <text>Dashboard 1</text>
       </register>
       <register name="/" type="4">
         <text>Esfor</text>
