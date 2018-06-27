@@ -927,11 +927,11 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/admin.py" timestamp="1530036237427">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="36" />
-        <mark key="." line="14" column="36" />
-        <mark key="^" line="14" column="36" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/admin.py" timestamp="1530121864766">
+        <mark key="[" line="40" column="23" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="40" column="38" />
+        <mark key="^" line="40" column="38" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/rest/Serializable.kt" timestamp="1523619037269">
         <mark key="[" line="0" column="38" />
@@ -1395,7 +1395,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, 'consistente'</text>
+        <text>models.Dependencia</text>
       </register>
       <register name="/" type="4">
         <text>Esfor</text>
