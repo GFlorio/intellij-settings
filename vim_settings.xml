@@ -280,11 +280,11 @@
         <mark key="." line="8" column="52" />
         <mark key="^" line="8" column="52" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/models/acao.py" timestamp="1530131295262">
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="15" column="45" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models/acao.py" timestamp="1530184759689">
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="15" column="42" />
         <mark key="^" line="15" column="45" />
-        <mark key="." line="15" column="45" />
+        <mark key="." line="15" column="42" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/SensorReader.kt" timestamp="1525016538051">
         <mark key="[" line="2" column="0" />
@@ -725,7 +725,7 @@
         <mark key="." line="2" column="68" />
         <mark key="^" line="2" column="68" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/models/plano.py" timestamp="1530131333258">
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models/plano.py" timestamp="1530185068503">
         <mark key="'" line="35" column="37" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -1432,7 +1432,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>limite</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>Esfor</text>
