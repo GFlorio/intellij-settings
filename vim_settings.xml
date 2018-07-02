@@ -171,10 +171,10 @@
         <mark key="^" line="10" column="52" />
         <mark key="." line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/templates/top_navigation.html" timestamp="1530553314746">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/work/alcatraz/templates/top_navigation.html" timestamp="1530561545356">
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="6" column="53" />
+        <mark key="." line="6" column="53" />
         <mark key="^" line="8" column="39" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/SerializationStrategy.kt" timestamp="1524925709779">
@@ -1447,7 +1447,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cyA8c3BhbiBjbGFzcz0iZmEgZmEtYW5nbGUtZG93biI+PC9zcGFuPg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Ij4=</text>
