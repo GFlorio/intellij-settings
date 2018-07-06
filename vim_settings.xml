@@ -752,7 +752,7 @@
         <mark key="." line="2" column="68" />
         <mark key="^" line="2" column="68" />
       </file>
-      <file name="$USER_HOME$/work/location_server/docker/build" timestamp="1530837472582">
+      <file name="$USER_HOME$/work/location_server/docker/build" timestamp="1530840049894">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="40" />
       </file>
@@ -1476,8 +1476,8 @@
       <register name="/" type="4">
         <text encoding="base64">Ij4=</text>
       </register>
-      <register name="0" type="4">
-        <text>DJANGO_URL_MQ</text>
+      <register name="0" type="2">
+        <text encoding="base64">YXogYWNyIGxvZ2luIC1nIGRldm9wcyAtbiBub3ZpZGFyZWdpc3RyeQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">R1VOSUNPUk5fV09SS0VSX0NMQVNTPWd0aHJlYWQKR1VOSUNPUk5fVEhSRUFEUz04Cgo=</text>
