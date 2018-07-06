@@ -715,11 +715,11 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/middleware.py" timestamp="1529069451409">
-        <mark key="[" line="57" column="31" />
-        <mark key="]" line="57" column="53" />
-        <mark key="." line="57" column="53" />
-        <mark key="^" line="57" column="53" />
+      <file name="$USER_HOME$/work/location_server/location_server/middleware.py" timestamp="1530837213120">
+        <mark key="[" line="59" column="31" />
+        <mark key="]" line="59" column="32" />
+        <mark key="." line="59" column="32" />
+        <mark key="^" line="59" column="32" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/alocacao/models/__init__.py" timestamp="1530131421074">
         <mark key="[" line="4" column="24" />
@@ -751,9 +751,9 @@
         <mark key="." line="2" column="68" />
         <mark key="^" line="2" column="68" />
       </file>
-      <file name="$USER_HOME$/work/location_server/docker/build" timestamp="1530836060410">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="102" />
+      <file name="$USER_HOME$/work/location_server/docker/build" timestamp="1530837472582">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="40" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/SettingsRepository.kt" timestamp="1526576481863">
         <mark key="[" line="27" column="0" />
@@ -1464,13 +1464,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>get_</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Ij4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZG9ja2VyIGJ1aWxkIC4uIC0tZmlsZSBEb2NrZXJmaWxlLnNlcnZlciAtdCBub3ZpZGFyZWdpc3RyeS5henVyZWNyLmlvL25vdmlkYS9sb2NhdGlvbi1zZXJ2ZXI6JHtOT1ZBOjF9Cg==</text>
+        <text encoding="base64">YXogYWNyIGxvZ2luIC1nIGRldm9wcyAtbiBub3ZpZGFyZWdpc3RyeQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
