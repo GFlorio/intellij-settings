@@ -716,10 +716,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="19" column="52" />
       </file>
-      <file name="$USER_HOME$/work/apps/Sodexo/app/src/main/java/br/com/novida/sodexo/MainActivity.java" timestamp="1531406075039">
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="12" />
+      <file name="$USER_HOME$/work/apps/Sodexo/app/src/main/java/br/com/novida/sodexo/MainActivity.java" timestamp="1531416670113">
+        <mark key="'" line="20" column="431" />
+        <mark key="[" line="20" column="39" />
+        <mark key="]" line="20" column="432" />
+        <mark key="." line="20" column="39" />
         <mark key="^" line="19" column="12" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/SensorReader.kt" timestamp="1526139307044">
@@ -971,7 +972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="31" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
       <jump line="23" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
       <jump line="73" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" />
       <jump line="46" column="11" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
@@ -1071,6 +1071,7 @@
       <jump line="19" column="12" filename="$USER_HOME$/work/Gerdau/app/src/main/java/br/com/novida/gerdau/MainActivity.java" />
       <jump line="74" column="0" filename="$USER_HOME$/work/Gerdau/app/src/main/java/br/com/novida/gerdau/MainActivity.java" />
       <jump line="1" column="0" filename="$USER_HOME$/work/Gerdau/app/src/main/java/br/com/novida/gerdau/MainActivity.java" />
+      <jump line="20" column="431" filename="$USER_HOME$/work/apps/Sodexo/app/src/main/java/br/com/novida/sodexo/MainActivity.java" />
     </jumps>
     <registers>
       <register name="h" type="4">
@@ -1401,7 +1402,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bggerdau</text>
+        <text>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiIxMTljMDNjMi0yNzU1LTQ3YmItOWMxMS04Nzg0ZmZiODIzZWUiLCJ1c2VySWQiOiI1YjQ3NjZkYmI4YTBkNDAwMTk4NDYyYWUiLCJ1c2VybmFtZSI6InNvZGV4byIsImNsaWVudElkIjoiIiwiaXNBZG1pbiI6ZmFsc2UsImVuZHBvaW50cyI6WyJsb2NhbGl6YWNhby5ub3ZpZGEuY28iXSwibWF4U2Vzc2lvbnMiOi0xLCJpYXQiOjE1MzE0MTY0ODR9.7HuPFwRoooI4G12BKm3QsZV8G1QmWo9zYdYOmmDAwTQ</text>
       </register>
       <register name="/" type="4">
         <text>Esfor</text>
