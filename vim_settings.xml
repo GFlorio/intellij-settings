@@ -15,10 +15,10 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/work/apps/Sodexo/app/src/main/res/layout/activity_main.xml" timestamp="1531407490614">
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="38" />
-        <mark key="." line="6" column="38" />
+      <file name="$USER_HOME$/work/apps/Sodexo/app/src/main/res/layout/activity_main.xml" timestamp="1531411975182">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="28" column="34" />
+        <mark key="." line="28" column="34" />
         <mark key="^" line="6" column="38" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/IntermittentWifiReader.kt" timestamp="1525354078968">
@@ -896,7 +896,7 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528467298678">
+      <file name="/Dummy.txt" timestamp="1531411990957">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
