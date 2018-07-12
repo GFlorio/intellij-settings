@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" timestamp="1530724048188">
+        <mark key="'" line="124" column="8" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="28" column="35" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/rest/RemoteResource.kt" timestamp="1523626798785">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="8" />
@@ -27,14 +32,12 @@
         <mark key="." line="14" column="37" />
         <mark key="^" line="14" column="37" />
       </file>
-      <file name="/a.dummy" timestamp="1530025303308">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/forms.py" timestamp="1529956114840">
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="31" column="41" />
-        <mark key="^" line="31" column="39" />
-        <mark key="." line="31" column="41" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/forms.py" timestamp="1530184548502">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="42" column="45" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/serialization/Serializer.kt" timestamp="1527593659196">
         <mark key="[" line="3" column="47" />
@@ -89,6 +92,13 @@
         <mark key="." line="11" column="59" />
         <mark key="^" line="11" column="59" />
       </file>
+      <file name="$USER_HOME$/work/alcatraz/templates/sidebar.html" timestamp="1530548138293">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="13" column="72" />
+        <mark key="]" line="13" column="72" />
+        <mark key="." line="13" column="72" />
+        <mark key="^" line="1" column="58" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/Serializable.kt" timestamp="1524925443877">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="27" />
@@ -119,11 +129,10 @@
         <mark key="." line="35" column="33" />
         <mark key="^" line="35" column="33" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/equipamento_proximo.py" timestamp="1529319753376">
-        <mark key="[" line="32" column="41" />
-        <mark key="]" line="34" column="17" />
-        <mark key="." line="34" column="17" />
-        <mark key="^" line="34" column="17" />
+      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/equipamento_proximo.py" timestamp="1530834325128">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/rest/HTTPServer.kt" timestamp="1523621112040">
         <mark key="[" line="5" column="8" />
@@ -136,23 +145,41 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/work/location_server/localizadores/algoritmos/default.py" timestamp="1530834430752">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/SerialFormat.kt" timestamp="1525137212124">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="28" />
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/planejamento.py" timestamp="1529585289888">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="16" column="29" />
+      <file name="$USER_HOME$/work/alcatraz/templates/500.html" timestamp="1530109254242">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/alocacao/planejamento.py" timestamp="1530130685831">
+        <mark key="[" line="15" column="59" />
+        <mark key="]" line="10" column="29" />
+        <mark key="." line="10" column="29" />
+        <mark key="^" line="17" column="29" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/BasicRequest.kt" timestamp="1526906804638">
         <mark key="[" line="7" column="24" />
         <mark key="]" line="7" column="24" />
         <mark key="^" line="10" column="52" />
         <mark key="." line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/templates/top_navigation.html" timestamp="1530723392358">
+        <mark key="[" line="10" column="67" />
+        <mark key="]" line="10" column="70" />
+        <mark key="." line="10" column="70" />
+        <mark key="^" line="10" column="70" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/SerializationStrategy.kt" timestamp="1524925709779">
         <mark key="[" line="8" column="0" />
@@ -185,12 +212,12 @@
         <mark key="." line="27" column="73" />
         <mark key="^" line="27" column="73" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/templates/base.html" timestamp="1530050945141">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="10" column="7" />
+      <file name="$USER_HOME$/work/alcatraz/templates/base.html" timestamp="1530549977678">
+        <mark key="'" line="58" column="34" />
+        <mark key="[" line="72" column="31" />
+        <mark key="]" line="72" column="32" />
+        <mark key="." line="72" column="32" />
+        <mark key="^" line="72" column="29" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/serialization/DataExtractorFactory.kt" timestamp="1528134250014">
         <mark key="[" line="3" column="58" />
@@ -247,12 +274,12 @@
         <mark key="." line="1" column="33" />
         <mark key="^" line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" timestamp="1529102898782">
-        <mark key="'" line="171" column="0" />
-        <mark key="[" line="237" column="22" />
-        <mark key="]" line="237" column="22" />
-        <mark key="." line="237" column="22" />
-        <mark key="^" line="237" column="56" />
+      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" timestamp="1530834916725">
+        <mark key="'" line="165" column="0" />
+        <mark key="[" line="262" column="65" />
+        <mark key="]" line="263" column="15" />
+        <mark key="." line="263" column="15" />
+        <mark key="^" line="263" column="15" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/serialization/SerialFormat.kt" timestamp="1526134194228">
         <mark key="[" line="8" column="38" />
@@ -260,11 +287,22 @@
         <mark key="." line="8" column="52" />
         <mark key="^" line="8" column="52" />
       </file>
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models/acao.py" timestamp="1530723540999">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/SensorReader.kt" timestamp="1525016538051">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="8" />
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/alocacao/demanda.py" timestamp="1530130610327">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="33" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="10" column="33" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/AutoStartManager.kt" timestamp="1528419010317">
         <mark key="[" line="23" column="0" />
@@ -283,11 +321,11 @@
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/serializers.py" timestamp="1528974972933">
-        <mark key="[" line="21" column="40" />
-        <mark key="]" line="21" column="53" />
-        <mark key="." line="21" column="53" />
-        <mark key="^" line="21" column="53" />
+      <file name="$USER_HOME$/work/location_server/localizadores/serializers.py" timestamp="1530834606320">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="50" />
+        <mark key="." line="25" column="47" />
+        <mark key="^" line="25" column="47" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" timestamp="1526432704999">
         <mark key="'" line="99" column="37" />
@@ -309,6 +347,12 @@
         <mark key="]" line="46" column="27" />
         <mark key="." line="46" column="27" />
         <mark key="^" line="46" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/location_server/settings/common.py" timestamp="1530838789493">
+        <mark key="[" line="101" column="20" />
+        <mark key="]" line="101" column="32" />
+        <mark key="^" line="16" column="60" />
+        <mark key="." line="16" column="60" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/AuthClient.kt" timestamp="1526990089890">
         <mark key="[" line="8" column="15" />
@@ -339,6 +383,12 @@
         <mark key="]" line="10" column="44" />
         <mark key="." line="10" column="44" />
         <mark key="^" line="10" column="44" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/templates/404.html" timestamp="1530107738372">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="2" column="39" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/reactnative/ReactNativeWrapper.kt" timestamp="1526467761722">
         <mark key="[" line="5" column="17" />
@@ -414,10 +464,10 @@
         <mark key="^" line="10" column="42" />
         <mark key="." line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/admin.py" timestamp="1530036786122">
-        <mark key="[" line="23" column="57" />
-        <mark key="]" line="23" column="57" />
-        <mark key="." line="23" column="57" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/admin.py" timestamp="1530723526174">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/TokenUpdatePublisher.kt" timestamp="1528027979988">
         <mark key="[" line="3" column="52" />
@@ -431,11 +481,11 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/work/location_server/recursos/serializers.py" timestamp="1528977775823">
+      <file name="$USER_HOME$/work/location_server/recursos/serializers.py" timestamp="1530834610099">
         <mark key="'" line="14" column="9" />
-        <mark key="[" line="85" column="46" />
-        <mark key="]" line="85" column="59" />
-        <mark key="." line="85" column="59" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="50" />
+        <mark key="." line="86" column="0" />
         <mark key="^" line="85" column="59" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/TokenUpdateSubscriber.kt" timestamp="1528028040274">
@@ -493,6 +543,13 @@
         <mark key="]" line="100" column="65" />
         <mark key="." line="100" column="65" />
         <mark key="^" line="100" column="65" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/static/js/gentelella.js" timestamp="1530549186540">
+        <mark key="'" line="397" column="4" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="^" line="173" column="0" />
+        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/Serializer.kt" timestamp="1525888501333">
         <mark key="[" line="5" column="44" />
@@ -569,10 +626,10 @@
         <mark key="." line="10" column="71" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1529321958281">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-        <mark key="^" line="153" column="11" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
+        <mark key="^" line="7" column="11" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/AuthDataExtractor.kt" timestamp="1527860377454">
         <mark key="[" line="18" column="56" />
@@ -586,24 +643,24 @@
         <mark key="^" line="7" column="78" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alcatraz/settings/common.py" timestamp="1529699346800">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="22" column="15" />
-        <mark key="^" line="22" column="15" />
-        <mark key="." line="22" column="15" />
+      <file name="$USER_HOME$/work/alcatraz/alcatraz/settings/common.py" timestamp="1530534526234">
+        <mark key="[" line="73" column="67" />
+        <mark key="]" line="73" column="66" />
+        <mark key="^" line="73" column="66" />
+        <mark key="." line="73" column="66" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alcatraz/urls.py" timestamp="1530046160117">
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="36" />
-        <mark key="." line="16" column="36" />
-        <mark key="^" line="28" column="7" />
+      <file name="$USER_HOME$/work/alcatraz/alcatraz/urls.py" timestamp="1530547566150">
+        <mark key="[" line="13" column="79" />
+        <mark key="]" line="13" column="78" />
+        <mark key="^" line="13" column="78" />
+        <mark key="." line="13" column="78" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1530035702640">
-        <mark key="'" line="142" column="10" />
-        <mark key="[" line="194" column="10" />
-        <mark key="]" line="194" column="10" />
-        <mark key="." line="194" column="10" />
-        <mark key="^" line="194" column="10" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/models.py" timestamp="1530726474687">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="22" column="65" />
+        <mark key="]" line="23" column="49" />
+        <mark key="." line="23" column="49" />
+        <mark key="^" line="23" column="49" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/rest/Recurso.kt" timestamp="1523619962262">
         <mark key="[" line="4" column="10" />
@@ -633,11 +690,11 @@
         <mark key="." line="17" column="27" />
         <mark key="^" line="17" column="27" />
       </file>
-      <file name="$USER_HOME$/work/Gerdau/app/build.gradle" timestamp="1530105175588">
-        <mark key="[" line="29" column="49" />
-        <mark key="]" line="29" column="50" />
-        <mark key="." line="29" column="50" />
-        <mark key="^" line="29" column="46" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/indicador.py" timestamp="1530724195958">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="45" />
+        <mark key="." line="17" column="45" />
+        <mark key="^" line="17" column="45" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/IntermittentDeviceReader.kt" timestamp="1525308507153">
         <mark key="[" line="2" column="15" />
@@ -664,11 +721,17 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/location_server/middleware.py" timestamp="1529069451409">
-        <mark key="[" line="57" column="31" />
-        <mark key="]" line="57" column="53" />
-        <mark key="." line="57" column="53" />
-        <mark key="^" line="57" column="53" />
+      <file name="$USER_HOME$/work/location_server/location_server/middleware.py" timestamp="1530837213120">
+        <mark key="[" line="59" column="31" />
+        <mark key="]" line="59" column="32" />
+        <mark key="." line="59" column="32" />
+        <mark key="^" line="59" column="32" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models/__init__.py" timestamp="1530131421074">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="5" column="35" />
+        <mark key="." line="5" column="35" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/SerializationStrategy.kt" timestamp="1525097866235">
         <mark key="[" line="2" column="19" />
@@ -682,11 +745,21 @@
         <mark key="." line="29" column="34" />
         <mark key="^" line="29" column="85" />
       </file>
+      <file name="$USER_HOME$/work/alcatraz/templates/footer.html" timestamp="1530107026507">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/serialization/SerializerFactory.kt" timestamp="1528118190727">
         <mark key="[" line="2" column="57" />
         <mark key="]" line="2" column="68" />
         <mark key="." line="2" column="68" />
         <mark key="^" line="2" column="68" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/docker/build" timestamp="1530840049894">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="40" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/SettingsRepository.kt" timestamp="1526576481863">
         <mark key="[" line="27" column="0" />
@@ -718,6 +791,11 @@
         <mark key="." line="9" column="43" />
         <mark key="^" line="9" column="43" />
       </file>
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models/turno.py" timestamp="1530125687824">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/rest/RestClient.kt" timestamp="1523628439387">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="37" />
@@ -736,6 +814,11 @@
         <mark key="^" line="10" column="74" />
         <mark key="." line="10" column="34" />
       </file>
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models/recurso.py" timestamp="1530125840397">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="34" column="33" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/SerializationException.kt" timestamp="1524929821285">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="5" column="1" />
@@ -753,6 +836,17 @@
         <mark key="]" line="28" column="52" />
         <mark key="." line="28" column="52" />
         <mark key="^" line="28" column="52" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/alcatraz/settings/dev.py" timestamp="1530534794481">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="47" />
+        <mark key="." line="13" column="47" />
+        <mark key="^" line="13" column="47" />
+      </file>
+      <file name="$USER_HOME$/work/location_server/location_server/settings/prod.py" timestamp="1530835221293">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/work/location_server/places/admin.py" timestamp="1529320325648">
         <mark key="[" line="16" column="0" />
@@ -777,12 +871,6 @@
         <mark key="]" line="7" column="34" />
         <mark key="^" line="9" column="60" />
         <mark key="." line="7" column="34" />
-      </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/models.py" timestamp="1530019039050">
-        <mark key="'" line="116" column="40" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/SerializerFactory.kt" timestamp="1525887405443">
         <mark key="[" line="2" column="43" />
@@ -826,10 +914,10 @@
         <mark key="^" line="6" column="57" />
         <mark key="." line="6" column="50" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/app/build.gradle" timestamp="1530104230297">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/app/build.gradle" timestamp="1528467896058">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="9" column="42" />
+        <mark key="." line="9" column="42" />
         <mark key="^" line="9" column="42" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/simulacao/models.py" timestamp="1529934141535">
@@ -839,17 +927,29 @@
         <mark key="." line="5" column="48" />
         <mark key="^" line="5" column="57" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/urls.py" timestamp="1530046241843">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="7" column="1" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="23" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/urls.py" timestamp="1530547841976">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
       </file>
       <file name="$USER_HOME$/work/location_server/localizadores/views.py" timestamp="1529069492860">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
         <mark key="^" line="95" column="53" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/templates/planeja.html" timestamp="1530537898242">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" timestamp="1531054595123">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="76" column="70" />
+        <mark key="]" line="76" column="87" />
+        <mark key="." line="76" column="87" />
+        <mark key="^" line="76" column="87" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/LocationServer.kt" timestamp="1525099456077">
         <mark key="[" line="46" column="0" />
@@ -863,11 +963,11 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="21" column="32" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/views.py" timestamp="1530046265364">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/views.py" timestamp="1530547707855">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1528467298678">
         <mark key="[" line="0" column="0" />
@@ -886,6 +986,12 @@
         <mark key="^" line="5" column="37" />
         <mark key="." line="5" column="37" />
       </file>
+      <file name="$USER_HOME$/work/location_server/docker/stage.env" timestamp="1530839104024">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/RemoteResource.kt" timestamp="1528452494540">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="9" column="27" />
@@ -898,11 +1004,11 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/modelagem/admin.py" timestamp="1530036237427">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="36" />
-        <mark key="." line="14" column="36" />
-        <mark key="^" line="14" column="36" />
+      <file name="$USER_HOME$/work/alcatraz/modelagem/admin.py" timestamp="1530131387188">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="34" column="38" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/rest/Serializable.kt" timestamp="1523619037269">
         <mark key="[" line="0" column="38" />
@@ -910,17 +1016,21 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/work/location_server/location_server/settings/dev.py" timestamp="1530835004361">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/PositioningRequest.kt" timestamp="1525100697535">
         <mark key="[" line="11" column="1" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/build.gradle" timestamp="1530104435504">
-        <mark key="[" line="29" column="47" />
-        <mark key="]" line="29" column="49" />
-        <mark key="." line="29" column="49" />
-        <mark key="^" line="29" column="49" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/build.gradle" timestamp="1528134714832">
+        <mark key="[" line="37" column="46" />
+        <mark key="]" line="37" column="50" />
+        <mark key="." line="37" column="50" />
+        <mark key="^" line="37" column="50" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/SensorScanFactory.kt" timestamp="1525033278062">
         <mark key="[" line="4" column="15" />
@@ -936,68 +1046,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
-      <jump line="228" column="12" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
-      <jump line="100" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
-      <jump line="85" column="25" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
-      <jump line="231" column="31" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" />
-      <jump line="46" column="11" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
-      <jump line="153" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
-      <jump line="171" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/work/location_server/places/models.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/work/location_server/places/tests.py" />
-      <jump line="204" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="220" column="35" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="135" column="53" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="192" column="8" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="222" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="212" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="209" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="207" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="203" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="200" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="194" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="190" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="182" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="177" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="175" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="157" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="147" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="139" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="125" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="133" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="138" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="144" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="146" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="154" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="156" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="28" column="66" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="132" column="13" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="169" column="8" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="8" column="5" filename="$USER_HOME$/work/alcatraz/simulacao/models.py" />
-      <jump line="121" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="98" column="21" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="94" column="3" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="47" column="12" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="211" column="15" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
-      <jump line="7" column="44" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
-      <jump line="5" column="47" filename="$USER_HOME$/work/alcatraz/simulacao/models.py" />
-      <jump line="110" column="28" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="185" column="11" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="150" column="38" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
-      <jump line="172" column="3" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="117" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="162" column="4" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="11" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
@@ -1030,12 +1078,74 @@
       <jump line="116" column="40" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
       <jump line="31" column="30" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="142" column="10" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="20" column="7" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
       <jump line="71" column="4" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
       <jump line="15" column="8" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
       <jump line="16" column="4" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
-      <jump line="11" column="0" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
       <jump line="29" column="0" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="699" column="0" filename="$USER_HOME$/work/alcatraz/templates/alocacao/dashboard.html" />
+      <jump line="89" column="6" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="92" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="227" column="8" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
+      <jump line="138" column="11" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
+      <jump line="57" column="37" filename="$USER_HOME$/work/alcatraz/alocacao/models/plano.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="222" column="8" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="140" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/forms.py" />
+      <jump line="43" column="45" filename="$USER_HOME$/work/alcatraz/modelagem/forms.py" />
+      <jump line="34" column="63" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="149" column="18" filename="$USER_HOME$/work/alcatraz/templates/alocacao/dashboard.html" />
+      <jump line="48" column="11" filename="$USER_HOME$/work/alcatraz/templates/alocacao/dashboard.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/alcatraz/templates/alocacao/dashboard.html" />
+      <jump line="88" column="13" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="20" column="0" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="38" column="33" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="36" column="62" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="46" column="24" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="0" column="3" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="23" column="12" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="11" column="12" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="35" column="33" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="41" column="17" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="65" column="0" filename="$USER_HOME$/work/alcatraz/templates/top_navigation.html" />
+      <jump line="76" column="0" filename="$USER_HOME$/work/alcatraz/templates/sidebar.html" />
+      <jump line="73" column="22" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="3" column="30" filename="$USER_HOME$/work/alcatraz/templates/sidebar.html" />
+      <jump line="143" column="0" filename="$USER_HOME$/work/alcatraz/templates/sidebar.html" />
+      <jump line="107" column="35" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="29" column="0" filename="$USER_HOME$/work/alcatraz/static/js/gentelella.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/alcatraz/static/js/gentelella.js" />
+      <jump line="132" column="0" filename="$USER_HOME$/work/alcatraz/static/js/gentelella.js" />
+      <jump line="496" column="0" filename="$USER_HOME$/work/alcatraz/static/js/gentelella.js" />
+      <jump line="401" column="4" filename="$USER_HOME$/work/alcatraz/static/js/gentelella.js" />
+      <jump line="64" column="6" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="99" column="25" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="58" column="34" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
+      <jump line="124" column="8" filename="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/indicador.py" />
+      <jump line="22" column="3" filename="$USER_HOME$/work/alcatraz/modelagem/indicador.py" />
+      <jump line="21" column="49" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="126" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="149" column="49" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="70" column="8" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
+      <jump line="249" column="20" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
+      <jump line="186" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
+      <jump line="261" column="12" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
+      <jump line="242" column="15" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
+      <jump line="165" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/work/location_server/location_server/settings/prod.py" />
     </jumps>
     <registers>
       <register name="h" type="4">
@@ -1366,49 +1476,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>appcompat</text>
+        <text>testes</text>
       </register>
       <register name="/" type="4">
-        <text>Esfor</text>
+        <text encoding="base64">Ij4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyNy4xLjEnCg==</text>
+        <text encoding="base64">YXogYWNyIGxvZ2luIC1nIGRldm9wcyAtbiBub3ZpZGFyZWdpc3RyeQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQ6Y29uc3RyYWludC1sYXlvdXQ6MS4xLjEnCg==</text>
+        <text encoding="base64">R1VOSUNPUk5fV09SS0VSX0NMQVNTPWd0aHJlYWQKR1VOSUNPUk5fVEhSRUFEUz04Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLmNvZGUuZ3Nvbjpnc29uOjIuOC4yJwo=</text>
+        <text encoding="base64">REpBTkdPX0RBVEFCQVNFX05BTUU9bG9jYXRpb250ZXN0CkRKQU5HT19EQVRBQkFTRV9VU0VSPWluZG9vcmxvY2F0aW9uCkRKQU5HT19EQVRBQkFTRV9QQVNTV09SRD10ZXN0ZWxvY2FsaXphY2FvCkRKQU5HT19EQVRBQkFTRV9IT1NUPTEwLjE1MC4yMzguNzEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLmNvZGUuZ3Nvbjpnc29uOjIuOC4yJwo=</text>
+        <text encoding="base64">REpBTkdPX0RFQlVHPVRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQ6Y29uc3RyYWludC1sYXlvdXQ6MS4xLjInCg==</text>
+        <text encoding="base64">IyBWQVJJQVZFSVMgUVVFIFBSRUNJU0FNIFNFUiBERUZJTklEQVMgUVVBTkRPIEZPUiBST0RBUjoKIyBESkFOR09fTVFfVVNFUiAtLSBPIHVzdcOhcmlvIGRvIHByb2pldG8gbm8gUmFiYml0TVEKIyBESkFOR08gTVFfUEFTUyAtLSBBIHNlbmhhIGRvIHVzdcOhcmlvIGFjaW1hCiMgREpBTkdPX1NFQ1JFVF9LRVkgLS0gQSBjaGF2ZSBzZWNyZXRhIGRvIHNlcnZpZG9yLCBvIHZhbG9yIGVzdMOhIG51bSBhcnF1aXZvIG5vIERyaXZlCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBpQ2hlY2sgLS0+CiAgICAgICAgICAgIDxsaW5rIGhyZWY9Ii9zdGF0aWMvdmVuZG9ycy9pQ2hlY2svc2tpbnMvZmxhdC9ncmVlbi5jc3MiIHJlbD0ic3R5bGVzaGVldCI+CiAgICAgICAgICAgIDwhLS0gYm9vdHN0cmFwLXByb2dyZXNzYmFyIC0tPgogICAgICAgICAgICA8bGluayBocmVmPSIvc3RhdGljL3ZlbmRvcnMvYm9vdHN0cmFwLXByb2dyZXNzYmFyL2Nzcy9ib290c3RyYXAtcHJvZ3Jlc3NiYXItMy4zLjQubWluLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ij4KICAgICAgICAgICAgPCEtLSBKUVZNYXAgLS0+CiAgICAgICAgICAgIDxsaW5rIGhyZWY9Ii9zdGF0aWMvdmVuZG9ycy9qcXZtYXAvZGlzdC9qcXZtYXAubWluLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ii8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIE5Qcm9ncmVzcyAtLT4KICAgICAgICA8bGluayBocmVmPSIvc3RhdGljL3ZlbmRvcnMvbnByb2dyZXNzL25wcm9ncmVzcy5jc3MiIHJlbD0ic3R5bGVzaGVldCI+Cg==</text>
+        <text encoding="base64">IyBUT0RPOiBVbWEgZXN0cmF0w6lnaWEgdmnDoXZlbCBkZSBjYWNoZSBkZSBsb2NhbGl6YWRvcmVzLiBEaXNjbyAobWFnbsOpdGljbykgw6kgbXVpdG8gbGVudG8uCiMgQ0FDSEVTID0gewojICAgICAnZGVmYXVsdCc6IHsKIyAgICAgICAgICdCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmZpbGViYXNlZC5GaWxlQmFzZWRDYWNoZScsCiMgICAgICAgICAnTE9DQVRJT04nOiAnL2NhY2hlL2RqYW5nb19jYWNoZScsCiMgICAgICAgICAnVElNRU9VVCc6IE5vbmUsCiMgICAgIH0KIyB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiCiAgICAgICAgICAgICAgaHJlZj0iaHR0cHM6Ly91c2UuZm9udGF3ZXNvbWUuY29tL3JlbGVhc2VzL3Y1LjEuMC9jc3MvYWxsLmNzcyIKICAgICAgICAgICAgICBpbnRlZ3JpdHk9InNoYTM4NC1sS3V3dnJab3Q2VUhzQlNmY012T2tXd2xDTWdjMFRhV3IrMzBIV2UzYTRsdGFCd1RaaHlURWdnRjV0SnY4dGJ0IgogICAgICAgICAgICAgIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0gYm9vdHN0cmFwLXd5c2l3eWcgLS0+CiAgICA8c2NyaXB0IHNyYz0iL3N0YXRpYy92ZW5kb3JzL2Jvb3RzdHJhcC13eXNpd3lnL2pzL2Jvb3RzdHJhcC13eXNpd3lnLm1pbi5qcyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHNyYz0iL3N0YXRpYy92ZW5kb3JzL2pxdWVyeS5ob3RrZXlzL2pxdWVyeS5ob3RrZXlzLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgc3JjPSIvc3RhdGljL3ZlbmRvcnMvZ29vZ2xlLWNvZGUtcHJldHRpZnkvc3JjL3ByZXR0aWZ5LmpzIj48L3NjcmlwdD4KICAgIDwhLS0galF1ZXJ5IFRhZ3MgSW5wdXQgLS0+CiAgICA8c2NyaXB0IHNyYz0iL3N0YXRpYy92ZW5kb3JzL2pxdWVyeS50YWdzaW5wdXQvc3JjL2pxdWVyeS50YWdzaW5wdXQuanMiPjwvc2NyaXB0PgogICAgPCEtLSBTd2l0Y2hlcnkgLS0+CiAgICA8c2NyaXB0IHNyYz0iL3N0YXRpYy92ZW5kb3JzL3N3aXRjaGVyeS9kaXN0L3N3aXRjaGVyeS5taW4uanMiPjwvc2NyaXB0PgogICAgPCEtLSBTZWxlY3QyIC0tPgogICAgPHNjcmlwdCBzcmM9Ii9zdGF0aWMvdmVuZG9ycy9zZWxlY3QyL2Rpc3QvanMvc2VsZWN0Mi5mdWxsLm1pbi5qcyI+PC9zY3JpcHQ+CiAgICA8IS0tIFBhcnNsZXkgLS0+CiAgICA8c2NyaXB0IHNyYz0iL3N0YXRpYy92ZW5kb3JzL3BhcnNsZXlqcy9kaXN0L3BhcnNsZXkubWluLmpzIj48L3NjcmlwdD4KICAgIDwhLS0gQXV0b3NpemUgLS0+CiAgICA8c2NyaXB0IHNyYz0iL3N0YXRpYy92ZW5kb3JzL2F1dG9zaXplL2Rpc3QvYXV0b3NpemUubWluLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">TE9HR0lORyA9IHsKICAgICd2ZXJzaW9uJzogMSwKICAgICdkaXNhYmxlX2V4aXN0aW5nX2xvZ2dlcnMnOiBGYWxzZSwKICAgICdmaWx0ZXJzJzogewogICAgICAgICdlbnZfdmFycyc6IHsKICAgICAgICAgICAgJygpJzogJ2xvY2F0aW9uX3NlcnZlci5sb2dnaW5nLlN0YXRpY0ZpZWxkRmlsdGVyJywKICAgICAgICAgICAgJ2ZpZWxkcyc6IHsKICAgICAgICAgICAgICAgICdwcm9qZWN0JzogJ2xvY2F0aW9uX3NlcnZlcicsCiAgICAgICAgICAgICAgICAnZW52aXJvbm1lbnQnOiBvcy5nZXRlbnYoJ0RKQU5HT19FTlZfTkFNRScsICdzdGFnZScpLAogICAgICAgICAgICB9LAogICAgICAgIH0sCiAgICB9LAogICAgJ2hhbmRsZXJzJzogewogICAgICAgICdnZWxmJzogewogICAgICAgICAgICAnY2xhc3MnOiAnZ3JheXB5LkdFTEZIYW5kbGVyJywKICAgICAgICAgICAgJ2hvc3QnOiBvcy5nZXRlbnYoJ0RKQU5HT19HUkFZTE9HX0hPU1QnLCAnbG9ncy5ub3ZpZGEuY28nKSwKICAgICAgICAgICAgJ2ZpbHRlcnMnOiBbJ2Vudl92YXJzJ10KICAgICAgICB9LAogICAgfSwKICAgICdsb2dnZXJzJzogewogICAgICAgICcnOiB7CiAgICAgICAgICAgICdoYW5kbGVycyc6IFsnZ2VsZiddLAogICAgICAgICAgICAnbGV2ZWwnOiAnREVCVUcnLAogICAgICAgIH0sCiAgICAgICAgJ2RqYW5nbyc6IHsKICAgICAgICAgICAgJ2hhbmRsZXJzJzogWydnZWxmJ10sCiAgICAgICAgICAgICdsZXZlbCc6ICdJTkZPJywKICAgICAgICB9LAogICAgfSwKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gRmFzdENsaWNrIC0tPgogICAgPHNjcmlwdCBzcmM9Ii9zdGF0aWMvdmVuZG9ycy9mYXN0Y2xpY2svbGliL2Zhc3RjbGljay5qcyI+PC9zY3JpcHQ+CiAgICA8IS0tIE5Qcm9ncmVzcyAtLT4KICAgIDxzY3JpcHQgc3JjPSIvc3RhdGljL3ZlbmRvcnMvbnByb2dyZXNzL25wcm9ncmVzcy5qcyI+PC9zY3JpcHQ+CiAgICA8IS0tIGJvb3RzdHJhcC1wcm9ncmVzc2JhciAtLT4KICAgIDxzY3JpcHQgc3JjPSIvc3RhdGljL3ZlbmRvcnMvYm9vdHN0cmFwLXByb2dyZXNzYmFyL2Jvb3RzdHJhcC1wcm9ncmVzc2Jhci5taW4uanMiPjwvc2NyaXB0PgogICAgPCEtLSBpQ2hlY2sgLS0+CiAgICA8c2NyaXB0IHNyYz0iL3N0YXRpYy92ZW5kb3JzL2lDaGVjay9pY2hlY2subWluLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">REJfQ09OTl9BR0UgPSBpbnQob3MuZ2V0ZW52KCdESkFOR09fREFUQUJBU0VfQ09OTl9NQVhfQUdFJywgLTEpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Esfor</last-search>
+      <last-search encoding="base64">Ij4=</last-search>
       <last-offset />
-      <last-pattern>Esfor</last-pattern>
+      <last-pattern encoding="base64">Ij4=</last-pattern>
+      <last-replace encoding="base64">IiBcJVx9XD4=</last-replace>
+      <last-substitute encoding="base64">Ij4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1418,9 +1530,17 @@
         <entry encoding="base64">XDxBcnJheUxpc3RcPg==</entry>
         <entry>self.controle</entry>
         <entry>Esfor</entry>
+        <entry>&quot;\/</entry>
+        <entry encoding="base64">Ij4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zLyJcLy9ce1wlIHN0YXRpYyAiLw==</entry>
+        <entry encoding="base64">JzwsJz5zLyI+L1wlXH0+Lw==</entry>
+        <entry encoding="base64">JzwsJz5zLyI+L1wlXCJ9Pi8=</entry>
+        <entry encoding="base64">JzwsJz5zLyI+L1wlXCJ9XC8+Lw==</entry>
+        <entry encoding="base64">JzwsJz5zLyI+LyJcJVwifVwvPi8=</entry>
+        <entry encoding="base64">JzwsJz5zLyI+LyIgXCVcfVw+Lw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
