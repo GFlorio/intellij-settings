@@ -289,10 +289,11 @@
         <mark key="." line="23" column="58" />
         <mark key="^" line="23" column="58" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/sensors/DeviceReader.kt" timestamp="1531494965250">
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="17" />
-        <mark key="." line="22" column="17" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/sensors/DeviceReader.kt" timestamp="1531501835526">
+        <mark key="[" line="43" column="72" />
+        <mark key="]" line="45" column="77" />
+        <mark key="." line="45" column="77" />
+        <mark key="^" line="45" column="77" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/SensorReadings.kt" timestamp="1524839819275">
         <mark key="[" line="7" column="52" />
