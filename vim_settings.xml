@@ -519,10 +519,10 @@
         <mark key="^" line="65" column="16" />
         <mark key="." line="65" column="16" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/admin.py" timestamp="1529060428921">
-        <mark key="[" line="28" column="55" />
-        <mark key="]" line="28" column="58" />
-        <mark key="." line="28" column="58" />
+      <file name="$USER_HOME$/work/location_server/localizadores/admin.py" timestamp="1531740211631">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
         <mark key="^" line="28" column="58" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/TextFormat.kt" timestamp="1525137018896">
@@ -619,11 +619,12 @@
         <mark key="^" line="10" column="71" />
         <mark key="." line="10" column="71" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1529321958281">
-        <mark key="[" line="196" column="0" />
-        <mark key="]" line="196" column="0" />
-        <mark key="." line="196" column="0" />
-        <mark key="^" line="7" column="11" />
+      <file name="$USER_HOME$/work/location_server/localizadores/models.py" timestamp="1531741232968">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="152" column="87" />
+        <mark key="]" line="152" column="87" />
+        <mark key="." line="152" column="87" />
+        <mark key="^" line="152" column="86" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/auth/AuthDataExtractor.kt" timestamp="1527860377454">
         <mark key="[" line="18" column="56" />
@@ -927,11 +928,12 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/views.py" timestamp="1529069492860">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="95" column="53" />
+      <file name="$USER_HOME$/work/location_server/localizadores/views.py" timestamp="1531740776677">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="85" column="39" />
+        <mark key="]" line="85" column="49" />
+        <mark key="." line="85" column="49" />
+        <mark key="^" line="85" column="49" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/templates/planeja.html" timestamp="1530537898242">
         <mark key="[" line="47" column="0" />
@@ -1040,10 +1042,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="162" column="4" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="160" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="58" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="122" column="48" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="17" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
@@ -1140,6 +1138,10 @@
       <jump line="242" column="15" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
       <jump line="165" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_localizacao.py" />
       <jump line="26" column="0" filename="$USER_HOME$/work/location_server/location_server/settings/prod.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/work/location_server/localizadores/models.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/work/location_server/localizadores/views.py" />
+      <jump line="150" column="63" filename="$USER_HOME$/work/location_server/localizadores/models.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/work/location_server/localizadores/models.py" />
     </jumps>
     <registers>
       <register name="h" type="4">
@@ -1470,7 +1472,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>testes</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Ij4=</text>
@@ -1479,31 +1481,31 @@
         <text encoding="base64">YXogYWNyIGxvZ2luIC1nIGRldm9wcyAtbiBub3ZpZGFyZWdpc3RyeQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">R1VOSUNPUk5fV09SS0VSX0NMQVNTPWd0aHJlYWQKR1VOSUNPUk5fVEhSRUFEUz04Cgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">REpBTkdPX0RBVEFCQVNFX05BTUU9bG9jYXRpb250ZXN0CkRKQU5HT19EQVRBQkFTRV9VU0VSPWluZG9vcmxvY2F0aW9uCkRKQU5HT19EQVRBQkFTRV9QQVNTV09SRD10ZXN0ZWxvY2FsaXphY2FvCkRKQU5HT19EQVRBQkFTRV9IT1NUPTEwLjE1MC4yMzguNzEK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">REpBTkdPX0RFQlVHPVRydWUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBWQVJJQVZFSVMgUVVFIFBSRUNJU0FNIFNFUiBERUZJTklEQVMgUVVBTkRPIEZPUiBST0RBUjoKIyBESkFOR09fTVFfVVNFUiAtLSBPIHVzdcOhcmlvIGRvIHByb2pldG8gbm8gUmFiYml0TVEKIyBESkFOR08gTVFfUEFTUyAtLSBBIHNlbmhhIGRvIHVzdcOhcmlvIGFjaW1hCiMgREpBTkdPX1NFQ1JFVF9LRVkgLS0gQSBjaGF2ZSBzZWNyZXRhIGRvIHNlcnZpZG9yLCBvIHZhbG9yIGVzdMOhIG51bSBhcnF1aXZvIG5vIERyaXZlCgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">QGFkbWluLnJlZ2lzdGVyKENsaWVudGUpCmNsYXNzIENsaWVudGVBZG1pbihhZG1pbi5Nb2RlbEFkbWluKToKICAgIGxpc3RfZGlzcGxheSA9ICgnY2xpZW50SWQnLCApCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">R1VOSUNPUk5fV09SS0VSX0NMQVNTPWd0aHJlYWQKR1VOSUNPUk5fVEhSRUFEUz04Cgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">REpBTkdPX0RBVEFCQVNFX05BTUU9bG9jYXRpb250ZXN0CkRKQU5HT19EQVRBQkFTRV9VU0VSPWluZG9vcmxvY2F0aW9uCkRKQU5HT19EQVRBQkFTRV9QQVNTV09SRD10ZXN0ZWxvY2FsaXphY2FvCkRKQU5HT19EQVRBQkFTRV9IT1NUPTEwLjE1MC4yMzguNzEK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">REpBTkdPX0RFQlVHPVRydWUK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBUT0RPOiBVbWEgZXN0cmF0w6lnaWEgdmnDoXZlbCBkZSBjYWNoZSBkZSBsb2NhbGl6YWRvcmVzLiBEaXNjbyAobWFnbsOpdGljbykgw6kgbXVpdG8gbGVudG8uCiMgQ0FDSEVTID0gewojICAgICAnZGVmYXVsdCc6IHsKIyAgICAgICAgICdCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmZpbGViYXNlZC5GaWxlQmFzZWRDYWNoZScsCiMgICAgICAgICAnTE9DQVRJT04nOiAnL2NhY2hlL2RqYW5nb19jYWNoZScsCiMgICAgICAgICAnVElNRU9VVCc6IE5vbmUsCiMgICAgIH0KIyB9Cg==</text>
+        <text encoding="base64">IyBWQVJJQVZFSVMgUVVFIFBSRUNJU0FNIFNFUiBERUZJTklEQVMgUVVBTkRPIEZPUiBST0RBUjoKIyBESkFOR09fTVFfVVNFUiAtLSBPIHVzdcOhcmlvIGRvIHByb2pldG8gbm8gUmFiYml0TVEKIyBESkFOR08gTVFfUEFTUyAtLSBBIHNlbmhhIGRvIHVzdcOhcmlvIGFjaW1hCiMgREpBTkdPX1NFQ1JFVF9LRVkgLS0gQSBjaGF2ZSBzZWNyZXRhIGRvIHNlcnZpZG9yLCBvIHZhbG9yIGVzdMOhIG51bSBhcnF1aXZvIG5vIERyaXZlCgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TE9HR0lORyA9IHsKICAgICd2ZXJzaW9uJzogMSwKICAgICdkaXNhYmxlX2V4aXN0aW5nX2xvZ2dlcnMnOiBGYWxzZSwKICAgICdmaWx0ZXJzJzogewogICAgICAgICdlbnZfdmFycyc6IHsKICAgICAgICAgICAgJygpJzogJ2xvY2F0aW9uX3NlcnZlci5sb2dnaW5nLlN0YXRpY0ZpZWxkRmlsdGVyJywKICAgICAgICAgICAgJ2ZpZWxkcyc6IHsKICAgICAgICAgICAgICAgICdwcm9qZWN0JzogJ2xvY2F0aW9uX3NlcnZlcicsCiAgICAgICAgICAgICAgICAnZW52aXJvbm1lbnQnOiBvcy5nZXRlbnYoJ0RKQU5HT19FTlZfTkFNRScsICdzdGFnZScpLAogICAgICAgICAgICB9LAogICAgICAgIH0sCiAgICB9LAogICAgJ2hhbmRsZXJzJzogewogICAgICAgICdnZWxmJzogewogICAgICAgICAgICAnY2xhc3MnOiAnZ3JheXB5LkdFTEZIYW5kbGVyJywKICAgICAgICAgICAgJ2hvc3QnOiBvcy5nZXRlbnYoJ0RKQU5HT19HUkFZTE9HX0hPU1QnLCAnbG9ncy5ub3ZpZGEuY28nKSwKICAgICAgICAgICAgJ2ZpbHRlcnMnOiBbJ2Vudl92YXJzJ10KICAgICAgICB9LAogICAgfSwKICAgICdsb2dnZXJzJzogewogICAgICAgICcnOiB7CiAgICAgICAgICAgICdoYW5kbGVycyc6IFsnZ2VsZiddLAogICAgICAgICAgICAnbGV2ZWwnOiAnREVCVUcnLAogICAgICAgIH0sCiAgICAgICAgJ2RqYW5nbyc6IHsKICAgICAgICAgICAgJ2hhbmRsZXJzJzogWydnZWxmJ10sCiAgICAgICAgICAgICdsZXZlbCc6ICdJTkZPJywKICAgICAgICB9LAogICAgfSwKfQo=</text>
+        <text encoding="base64">IyBUT0RPOiBVbWEgZXN0cmF0w6lnaWEgdmnDoXZlbCBkZSBjYWNoZSBkZSBsb2NhbGl6YWRvcmVzLiBEaXNjbyAobWFnbsOpdGljbykgw6kgbXVpdG8gbGVudG8uCiMgQ0FDSEVTID0gewojICAgICAnZGVmYXVsdCc6IHsKIyAgICAgICAgICdCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmZpbGViYXNlZC5GaWxlQmFzZWRDYWNoZScsCiMgICAgICAgICAnTE9DQVRJT04nOiAnL2NhY2hlL2RqYW5nb19jYWNoZScsCiMgICAgICAgICAnVElNRU9VVCc6IE5vbmUsCiMgICAgIH0KIyB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">REJfQ09OTl9BR0UgPSBpbnQob3MuZ2V0ZW52KCdESkFOR09fREFUQUJBU0VfQ09OTl9NQVhfQUdFJywgLTEpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1579,6 +1581,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
