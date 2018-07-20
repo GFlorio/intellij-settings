@@ -988,10 +988,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/tests.py" timestamp="1532117148060">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/work/location_server/localizadores/tests.py" timestamp="1532118121983">
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="13" />
+        <mark key="." line="35" column="13" />
+        <mark key="^" line="35" column="13" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/JSONFormat.kt" timestamp="1525196314245">
         <mark key="[" line="7" column="9" />
@@ -1500,8 +1501,8 @@
       <register name="/" type="4">
         <text>poi</text>
       </register>
-      <register name="0" type="4">
-        <text>uniform(-180, 180)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UoMjApCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjbHMucG9pID0gcG9pc1swXQo=</text>
