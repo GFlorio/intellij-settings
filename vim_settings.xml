@@ -316,10 +316,10 @@
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/work/location_server/localizadores/serializers.py" timestamp="1530834606320">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="50" />
-        <mark key="." line="25" column="47" />
+      <file name="$USER_HOME$/work/location_server/localizadores/serializers.py" timestamp="1532105292422">
+        <mark key="[" line="50" column="52" />
+        <mark key="]" line="50" column="52" />
+        <mark key="." line="50" column="52" />
         <mark key="^" line="25" column="47" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/locationserver/LocationServerDataExtractor.kt" timestamp="1526432704999">
@@ -1490,7 +1490,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>apps</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>poi</text>
