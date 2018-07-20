@@ -537,8 +537,8 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" timestamp="1532089832734">
-        <mark key="'" line="90" column="35" />
+      <file name="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" timestamp="1532114121338">
+        <mark key="'" line="46" column="4" />
         <mark key="[" line="23" column="43" />
         <mark key="]" line="23" column="43" />
         <mark key="." line="23" column="43" />
@@ -1065,8 +1065,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="40" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="158" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
       <jump line="32" column="4" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
@@ -1165,6 +1163,8 @@
       <jump line="72" column="8" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_fingerprints.py" />
       <jump line="78" column="43" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_historico.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/location_server/localizadores/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" />
+      <jump line="46" column="4" filename="$USER_HOME$/work/location_server/testes_funcionais/tests/test_configuracao.py" />
     </jumps>
     <registers>
       <register name="h" type="4">
