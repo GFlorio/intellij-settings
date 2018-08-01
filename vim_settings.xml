@@ -987,12 +987,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" timestamp="1533146270793">
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" timestamp="1533147819061">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="82" column="57" />
-        <mark key="]" line="83" column="15" />
-        <mark key="." line="83" column="15" />
-        <mark key="^" line="83" column="15" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="33" column="7" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="7" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/LocationServer.kt" timestamp="1525099456077">
         <mark key="[" line="46" column="0" />
@@ -1521,7 +1521,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>proxima_data</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>indicador</text>
