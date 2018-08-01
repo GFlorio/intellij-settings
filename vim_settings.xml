@@ -1005,11 +1005,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" timestamp="1533151387606">
-        <mark key="[" line="71" column="35" />
-        <mark key="]" line="83" column="24" />
-        <mark key="." line="83" column="24" />
-        <mark key="^" line="83" column="24" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" timestamp="1533153111717">
+        <mark key="[" line="76" column="20" />
+        <mark key="]" line="75" column="23" />
+        <mark key="." line="75" column="23" />
+        <mark key="^" line="75" column="23" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/LocationServer.kt" timestamp="1525099456077">
         <mark key="[" line="46" column="0" />
@@ -1538,7 +1538,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>order_by('restricao_habilitacao').last()</text>
       </register>
       <register name="/" type="4">
         <text>indicador</text>
