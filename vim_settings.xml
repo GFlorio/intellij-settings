@@ -163,11 +163,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/planejamento.py" timestamp="1533142346587">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="16" column="29" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/planejamento.py" timestamp="1533675212184">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/BasicRequest.kt" timestamp="1526906804638">
         <mark key="[" line="7" column="24" />
@@ -292,6 +292,9 @@
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/alocacao/contexto.py" timestamp="1533676357544">
+        <mark key="[" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/SensorReader.kt" timestamp="1525016538051">
         <mark key="[" line="2" column="0" />
@@ -843,11 +846,10 @@
         <mark key="." line="41" column="22" />
         <mark key="^" line="41" column="22" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/models/recurso.py" timestamp="1533648196536">
-        <mark key="[" line="21" column="37" />
-        <mark key="]" line="21" column="52" />
-        <mark key="." line="21" column="52" />
-        <mark key="^" line="21" column="52" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models/recurso.py" timestamp="1533675936263">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/serialization/SerializationException.kt" timestamp="1524929821285">
         <mark key="[" line="2" column="28" />
@@ -987,18 +989,18 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/models/demanda.py" timestamp="1533653560932">
-        <mark key="[" line="14" column="44" />
-        <mark key="]" line="14" column="43" />
-        <mark key="." line="14" column="43" />
-        <mark key="^" line="14" column="43" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models/demanda.py" timestamp="1533675850454">
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="18" column="45" />
+        <mark key="." line="18" column="45" />
+        <mark key="^" line="15" column="59" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" timestamp="1533672877578">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="84" column="7" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" timestamp="1533675811350">
+        <mark key="'" line="131" column="50" />
+        <mark key="[" line="28" column="43" />
+        <mark key="]" line="28" column="50" />
+        <mark key="." line="28" column="50" />
+        <mark key="^" line="28" column="50" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/LocationServer.kt" timestamp="1525099456077">
         <mark key="[" line="46" column="0" />
@@ -1097,12 +1099,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="699" column="0" filename="$USER_HOME$/work/alcatraz/templates/alocacao/dashboard.html" />
-      <jump line="89" column="6" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
-      <jump line="92" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="227" column="8" filename="$USER_HOME$/work/alcatraz/modelagem/models.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
-      <jump line="138" column="11" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
       <jump line="6" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
       <jump line="9" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
       <jump line="23" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models.py" />
@@ -1182,7 +1178,6 @@
       <jump line="1" column="1" filename="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" />
       <jump line="4" column="19" filename="$USER_HOME$/work/alcatraz/demanda/forms.py" />
       <jump line="26" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" />
       <jump line="75" column="32" filename="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" />
       <jump line="76" column="32" filename="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" />
       <jump line="77" column="47" filename="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" />
@@ -1197,6 +1192,13 @@
       <jump line="13" column="22" filename="$USER_HOME$/work/alcatraz/alocacao/models/acao.py" />
       <jump line="1" column="22" filename="$USER_HOME$/work/alcatraz/alocacao/models/acao.py" />
       <jump line="42" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" />
+      <jump line="67" column="54" filename="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" />
+      <jump line="9" column="31" filename="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" />
+      <jump line="16" column="4" filename="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" />
+      <jump line="61" column="15" filename="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" />
+      <jump line="127" column="8" filename="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" />
+      <jump line="131" column="50" filename="$USER_HOME$/work/alcatraz/alocacao/models/agendamento.py" />
     </jumps>
     <registers>
       <register name="h" type="4">
@@ -1527,7 +1529,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.date()</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>indicador</text>
@@ -1536,31 +1538,31 @@
         <text encoding="base64">ICAgIHRlbXBvX21heGltbzogdGltZWRlbHRhID0gbW9kZWxzLkR1cmF0aW9uRmllbGQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdWx0aW1hX2FjYW8gPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm9wZXJhY2FvLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbV9hYmVydG8gPSBsaXN0KHNlbGYuZGVtYW5kYXNfZ2VyYWRhcwogICAgICAgICAgICAgICAgICAgICAgICAgLmFubm90YXRlKHF0ZF9hY29lcz1tb2RlbHMuQ291bnQoJ2F0ZW5kaWRhX3BvcicpKQogICAgICAgICAgICAgICAgICAgICAgICAgLmZpbHRlcihxdGRfYWNvZXNfX2d0ZT0xKQogICAgICAgICAgICAgICAgICAgICAgICAgLm9yZGVyX2J5KCdpbmljaW8nKSkK</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBFc3RhIGZ1bsOnw6NvIG7Do28gbGV2YSBlbSBjb250YSBhIGRhdGEgYXR1YWwgbmVtIG8gZmF0byBkZSBhIGF0aXZpZGFkZQogICAgICAgIHNlciB1bSBTaW5nbGV0b24gb3UgbsOjby4KCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbV9hYmVydG8gPSBsaXN0KHNlbGYuZGVtYW5kYXNfZ2VyYWRhcwogICAgICAgICAgICAgICAgICAgICAgICAgLmFubm90YXRlKHF0ZF9hY29lcz1tb2RlbHMuQ291bnQoJ2F0ZW5kaWRhX3BvcicpKQogICAgICAgICAgICAgICAgICAgICAgICAgLmZpbHRlcihxdGRfYWNvZXNfX2d0ZT0xKQogICAgICAgICAgICAgICAgICAgICAgICAgLm9yZGVyX2J5KCdpbmljaW8nKSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1fYWJlcnRvID0gbGlzdChzZWxmLmRlbWFuZGFzX2dlcmFkYXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYW5ub3RhdGUocXRkX2Fjb2VzPW1vZGVscy5Db3VudCgnYXRlbmRpZGFfcG9yJykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZpbHRlcihxdGRfYWNvZXNfX2d0ZT0xKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5vcmRlcl9ieSgnaW5pY2lvJykpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2hhc2hfXyhzZWxmKToKICAgICAgICByZXR1cm4gaGFzaCgoc2VsZi5hZ2VuZGFtZW50bywgc2VsZi5hdGl2aWRhZGUsIHNlbGYuaW5pY2lvKSkKCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBtb2RlbGFnZW0ubW9kZWxzIGltcG9ydCBQcm9jZXNzbwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGRlbWFuZGEK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdWx0aW1hCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdWx0aW1hX2FjYW8gPSBOb25lCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2hhc2hfXyhzZWxmKToKICAgICAgICByZXR1cm4gaGFzaCgoc2VsZi5hdGVuZGUsIHNlbGYuZXhlY3V0b3IsIHNlbGYuaW5pY2lvX3BsYW4sCiAgICAgICAgICAgICAgICAgICAgIHNlbGYuaGFiaWxpdGFjYW9fcGxhbiwgc2VsZi5maW1fcGxhbikpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbV9hYmVydG8gPSBsaXN0KHNlbGYuZGVtYW5kYXNfZ2VyYWRhcwogICAgICAgICAgICAgICAgICAgICAgICAgLmFubm90YXRlKHF0ZF9hY29lcz1tb2RlbHMuQ291bnQoJ2F0ZW5kaWRhX3BvcicpKQogICAgICAgICAgICAgICAgICAgICAgICAgLmZpbHRlcihxdGRfYWNvZXNfX2d0ZT0xKQogICAgICAgICAgICAgICAgICAgICAgICAgLm9yZGVyX2J5KCdpbmljaW8nKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBkZWYgX19oYXNoX18oc2VsZik6CiAgICAgICAgcmV0dXJuIGhhc2goKHNlbGYuYXRlbmRlLCBzZWxmLmV4ZWN1dG9yKSkK</text>
+        <text encoding="base64">ICAgICAgICBFc3RhIGZ1bsOnw6NvIG7Do28gbGV2YSBlbSBjb250YSBhIGRhdGEgYXR1YWwgbmVtIG8gZmF0byBkZSBhIGF0aXZpZGFkZQogICAgICAgIHNlciB1bSBTaW5nbGV0b24gb3UgbsOjby4KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
