@@ -219,11 +219,11 @@
         <mark key="^" line="6" column="109" />
         <mark key="." line="6" column="109" />
       </file>
-      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/sensors/BluetoothReader.kt" timestamp="1534193541966">
-        <mark key="'" line="44" column="32" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/scanning/sensors/BluetoothReader.kt" timestamp="1534194059414">
+        <mark key="[" line="64" column="24" />
+        <mark key="]" line="64" column="24" />
+        <mark key="." line="64" column="24" />
+        <mark key="^" line="64" column="24" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/NovidaAPI.kt" timestamp="1528467391126">
         <mark key="[" line="58" column="0" />
@@ -1349,40 +1349,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TAG</text>
+        <text encoding="base64">IHx8IGFkYXB0ZXIgPT0gbnVsbA==</text>
       </register>
       <register name="/" type="4">
         <text>Esfor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoTkEsICJOw6NvIEFncmVnYXIiKSwK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWRhcHRlcjogQmx1ZXRvb3RoQWRhcHRlcj8gPSBCbHVldG9vdGhBZGFwdGVyLmdldERlZmF1bHRBZGFwdGVyKCkKICAgICAgICBibHVldG9vdGhTY2FubmVyID0gYWRhcHRlcj8uYmx1ZXRvb3RoTGVTY2FubmVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSh0YWcsICJJbml0aWFsaXppbmcgQkxFLi4uIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJsdWV0b290aFNjYW5uZXIgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICBibHVldG9vdGhTY2FubmVyLnN0YXJ0U2NhbihsaXN0T2YoZ2V0U2NhbkZpbHRlcigpKSwgc2NhblNldHRpbmdzLCBzY2FuQ2FsbGJhY2spCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC4vYW5zaWJsZS8qCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWNvbnRleHQucGFja2FnZU1hbmFnZXIuaGFzU3lzdGVtRmVhdHVyZShQYWNrYWdlTWFuYWdlci5GRUFUVVJFX0JMVUVUT09USF9MRSkgfHwgYWRhcHRlciA9PSBudWxsKQogICAgICAgICAgICB0aHJvdyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oIkJsdWV0b290aExFIG5vdCBzdXBwb3J0ZWQhIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC4vdmVudi8qCiAgICAuL3ZpcnR1YWxlbnYvKgo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaSh0YWcsICJJbml0aWFsaXppbmcgQkxFLi4uIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgdXJsKHInXmFwaSQnLCBBUElIb21lLmFzX3ZpZXcoKSksCg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15hcGktYXV0aC8nLCBpbmNsdWRlKCdyZXN0X2ZyYW1ld29yay51cmxzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWVzcGFjZT0ncmVzdF9mcmFtZXdvcmsnKSksCg==</text>
+        <text encoding="base64">ICAgIC4vYW5zaWJsZS8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15hcGkvJywgaW5jbHVkZShyb3V0ZXIudXJscykpLAo=</text>
+        <text encoding="base64">ICAgIC4vdmVudi8qCiAgICAuL3ZpcnR1YWxlbnYvKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgdXJsKHInXmFwaSQnLCBBUElIb21lLmFzX3ZpZXcoKSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15hcGktYXV0aC8nLCBpbmNsdWRlKCdyZXN0X2ZyYW1ld29yay51cmxzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWVzcGFjZT0ncmVzdF9mcmFtZXdvcmsnKSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
