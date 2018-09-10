@@ -293,6 +293,12 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="$USER_HOME$/work/alcatraz/web/alcatraz/settings/prod.py" timestamp="1536601910139">
+        <mark key="[" line="10" column="74" />
+        <mark key="]" line="10" column="78" />
+        <mark key="." line="10" column="78" />
+        <mark key="^" line="10" column="78" />
+      </file>
       <file name="$USER_HOME$/work/alcatraz/alocacao/contexto.py" timestamp="1534967825646">
         <mark key="'" line="0" column="8" />
         <mark key="[" line="1" column="0" />
@@ -1533,7 +1539,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>postgresql</text>
       </register>
       <register name="/" type="4">
         <text>indicador</text>
