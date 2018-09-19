@@ -434,11 +434,11 @@
         <mark key="." line="12" column="67" />
         <mark key="^" line="8" column="162" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alcatraz/mq.py" timestamp="1537388333129">
-        <mark key="[" line="25" column="36" />
-        <mark key="]" line="25" column="40" />
-        <mark key="." line="25" column="40" />
-        <mark key="^" line="25" column="40" />
+      <file name="$USER_HOME$/work/alcatraz/alcatraz/mq.py" timestamp="1537396889794">
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="29" column="3" />
+        <mark key="." line="29" column="3" />
+        <mark key="^" line="29" column="3" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/.coveragerc" timestamp="1530047545209">
         <mark key="[" line="3" column="0" />
@@ -522,11 +522,11 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/worker/worker.py" timestamp="1537384323492">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/work/alcatraz/worker/worker.py" timestamp="1537396905620">
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+        <mark key="^" line="12" column="51" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/ForegroundTrackingController.kt" timestamp="1525377205890">
         <mark key="[" line="2" column="15" />
@@ -1608,7 +1608,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>create' if created else 'update'</text>
+        <text>localizacao</text>
       </register>
       <register name="/" type="4">
         <text>indicador</text>
