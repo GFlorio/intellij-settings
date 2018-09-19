@@ -1174,7 +1174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="63" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
       <jump line="149" column="18" filename="$USER_HOME$/work/alcatraz/templates/alocacao/dashboard.html" />
       <jump line="48" column="11" filename="$USER_HOME$/work/alcatraz/templates/alocacao/dashboard.html" />
       <jump line="0" column="0" filename="$USER_HOME$/work/alcatraz/templates/alocacao/dashboard.html" />
@@ -1274,6 +1273,7 @@
       <jump line="52" column="21" filename="$USER_HOME$/work/alcatraz/alocacao/serializers.py" />
       <jump line="66" column="26" filename="$USER_HOME$/work/alcatraz/alocacao/serializers.py" />
       <jump line="16" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/serializers.py" />
+      <jump line="0" column="22" filename="$USER_HOME$/work/alcatraz/alocacao/serializers.py" />
     </jumps>
     <registers>
       <register name="h" type="4">
