@@ -22,7 +22,7 @@
         <mark key="^" line="42" column="45" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1537387404752">
+      <file name="/a.dummy" timestamp="1537457827872">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/serialization/Serializer.kt" timestamp="1527593659196">
@@ -180,7 +180,7 @@
         <mark key="." line="11" column="12" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alcatraz/settings/prod.py" timestamp="1537456548043">
+      <file name="$USER_HOME$/work/alcatraz/alcatraz/settings/prod.py" timestamp="1537457329451">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
@@ -213,9 +213,10 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="71" column="13" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/worker/model_update.py" timestamp="1537400542714">
-        <mark key="[" line="50" column="26" />
-        <mark key="]" line="50" column="35" />
+      <file name="$USER_HOME$/work/alcatraz/worker/model_update.py" timestamp="1537457400210">
+        <mark key="'" line="50" column="35" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="36" />
         <mark key="^" line="50" column="35" />
         <mark key="." line="50" column="35" />
       </file>
@@ -357,11 +358,11 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/apps.py" timestamp="1537392843298">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="8" column="30" />
-        <mark key="^" line="8" column="30" />
-        <mark key="." line="8" column="30" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/apps.py" timestamp="1537457363111">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+        <mark key="." line="8" column="37" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/tracking/LocationServerRequestFactory.kt" timestamp="1527860912321">
         <mark key="[" line="9" column="43" />
@@ -436,10 +437,11 @@
         <mark key="." line="12" column="67" />
         <mark key="^" line="8" column="162" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alcatraz/mq.py" timestamp="1537450106360">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/work/alcatraz/alcatraz/mq.py" timestamp="1537457835861">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="11" column="12" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/.coveragerc" timestamp="1530047545209">
         <mark key="[" line="3" column="0" />
@@ -452,11 +454,12 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/signals.py" timestamp="1537392582931">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="24" />
+      <file name="$USER_HOME$/work/alcatraz/alocacao/signals.py" timestamp="1537457872708">
+        <mark key="'" line="10" column="3" />
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/app/build.gradle" timestamp="1528467896058">
         <mark key="[" line="9" column="37" />
@@ -483,7 +486,7 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="21" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528467298678">
+      <file name="/Dummy.txt" timestamp="1537457614840">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -505,6 +508,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/alcatraz/logs.py" timestamp="1537457789904">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="39" />
+        <mark key="." line="11" column="39" />
+        <mark key="^" line="11" column="39" />
       </file>
       <file name="$USER_HOME$/work/alcatraz/modelagem/manipulacao/tipo.py" timestamp="1533139248465">
         <mark key="[" line="4" column="0" />
@@ -758,6 +767,9 @@
         <mark key="]" line="46" column="27" />
         <mark key="." line="46" column="27" />
         <mark key="^" line="46" column="27" />
+      </file>
+      <file name="/Python Console" timestamp="1537458095618">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/restrepository/CommonMediaType.kt" timestamp="1528136684266">
         <mark key="[" line="4" column="38" />
@@ -1156,10 +1168,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alcatraz/logging.py" timestamp="1537400078464">
+      <file name="$USER_HOME$/work/alcatraz/alcatraz/logging.py" timestamp="1537457712035">
+        <mark key="'" line="1" column="5" />
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="15" column="19" />
+        <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/PositioningRequest.kt" timestamp="1525100697535">
         <mark key="[" line="11" column="1" />
@@ -1187,12 +1201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="17" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
-      <jump line="65" column="0" filename="$USER_HOME$/work/alcatraz/templates/top_navigation.html" />
-      <jump line="76" column="0" filename="$USER_HOME$/work/alcatraz/templates/sidebar.html" />
-      <jump line="73" column="22" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
-      <jump line="3" column="30" filename="$USER_HOME$/work/alcatraz/templates/sidebar.html" />
-      <jump line="143" column="0" filename="$USER_HOME$/work/alcatraz/templates/sidebar.html" />
       <jump line="107" column="35" filename="$USER_HOME$/work/alcatraz/templates/base.html" />
       <jump line="29" column="0" filename="$USER_HOME$/work/alcatraz/static/js/gentelella.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/alcatraz/static/js/gentelella.js" />
@@ -1286,7 +1294,13 @@
       <jump line="8" column="0" filename="$USER_HOME$/work/alcatraz/modelagem/serializers.py" />
       <jump line="14" column="3" filename="$USER_HOME$/work/alcatraz/alocacao/serializers.py" />
       <jump line="55" column="14" filename="$USER_HOME$/work/alcatraz/alocacao/serializers.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/work/alcatraz/alcatraz/settings/prod.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/work/alcatraz/alcatraz/settings/prod.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/alcatraz/alcatraz/settings/prod.py" />
+      <jump line="50" column="35" filename="$USER_HOME$/work/alcatraz/worker/model_update.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/work/alcatraz/alocacao/signals.py" />
+      <jump line="10" column="3" filename="$USER_HOME$/work/alcatraz/alocacao/signals.py" />
+      <jump line="1" column="5" filename="$USER_HOME$/work/alcatraz/alcatraz/logging.py" />
     </jumps>
     <registers>
       <register name="h" type="4">
@@ -1617,40 +1631,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>INFO</text>
+        <text>logs</text>
       </register>
       <register name="/" type="4">
         <text>indicador</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvJzogewogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2dlbGYnXSwKICAgICAgICAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJhYWFhYWFhYWFhYWEiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKCdDYW5hbC4nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">bG9nLmluZm8oIlNpbmFpcyBkbyIpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgpjbGFzcyBKU09ORmllbGQoc2VyaWFsaXplcnMuRmllbGQpOgogICAgZGVmIHRvX3JlcHJlc2VudGF0aW9uKHNlbGYsIG9iaik6CiAgICAgICAgcmV0dXJuIGpzb24ubG9hZHMob2JqKQoKICAgIGRlZiB0b19pbnRlcm5hbF92YWx1ZShzZWxmLCBkYXRhKToKICAgICAgICByZXR1cm4ganNvbi5kdW1wcyhkYXRhKQo=</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCdDYW5hbC4nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbGFnZW0uc2VyaWFsaXplcnMgaW1wb3J0IEpTT05GaWVsZAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGpzb24K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
