@@ -213,12 +213,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="71" column="13" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/worker/model_update.py" timestamp="1537457400210">
+      <file name="$USER_HOME$/work/alcatraz/worker/model_update.py" timestamp="1537473190654">
         <mark key="'" line="50" column="35" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="36" />
-        <mark key="^" line="50" column="35" />
-        <mark key="." line="50" column="35" />
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/app/src/main/java/br/com/novida/gerdau/MainActivity.java" timestamp="1528473815291">
         <mark key="[" line="65" column="12" />
@@ -437,7 +437,7 @@
         <mark key="." line="12" column="67" />
         <mark key="^" line="8" column="162" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alcatraz/mq.py" timestamp="1537457835861">
+      <file name="$USER_HOME$/work/alcatraz/alcatraz/mq.py" timestamp="1537473149046">
         <mark key="[" line="11" column="6" />
         <mark key="]" line="11" column="12" />
         <mark key="." line="11" column="12" />
@@ -454,7 +454,7 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/alocacao/signals.py" timestamp="1537457872708">
+      <file name="$USER_HOME$/work/alcatraz/alocacao/signals.py" timestamp="1537473168925">
         <mark key="'" line="10" column="3" />
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="12" />
@@ -532,11 +532,11 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/work/alcatraz/worker/worker.py" timestamp="1537400028277">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="5" column="13" />
+      <file name="$USER_HOME$/work/alcatraz/worker/worker.py" timestamp="1537473208539">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="15" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/ForegroundTrackingController.kt" timestamp="1525377205890">
         <mark key="[" line="2" column="15" />
@@ -1058,6 +1058,12 @@
         <mark key="]" line="10" column="32" />
         <mark key="^" line="7" column="73" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/alcatraz/business_logic/planning/planner.py" timestamp="1537473267277">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="11" column="12" />
       </file>
       <file name="$USER_HOME$/work/PluginLocalizacao/localizacao/src/main/java/br/com/novida/localizacao/PersistentTrackingController.kt" timestamp="1527102950234">
         <mark key="[" line="20" column="58" />
@@ -1631,7 +1637,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fracao_imprevistos</text>
+        <text>logs</text>
       </register>
       <register name="/" type="4">
         <text>indicador</text>
